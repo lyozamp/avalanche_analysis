@@ -1,0 +1,647 @@
+[
+	{
+		"id": 15,
+		"client_id": 15,
+		"version": 1,
+		"model": "AvalancheAtlas",
+		"json_schema": {
+			"type": "object",
+			"title": "Avalanche Atlas",
+			"required": [
+				"full_name"
+			],
+			"properties": {
+				"zone": {
+					"type": "string",
+					"title": "Zone"
+				},
+				"aspect": {
+					"type": "string",
+					"oneOf": [
+						{
+							"const": "",
+							"title": "Select Path Aspect"
+						},
+						{
+							"const": "N",
+							"title": "N"
+						},
+						{
+							"const": "NNE",
+							"title": "NNE"
+						},
+						{
+							"const": "NE",
+							"title": "NE"
+						},
+						{
+							"const": "ENE",
+							"title": "ENE"
+						},
+						{
+							"const": "E",
+							"title": "E"
+						},
+						{
+							"const": "ESE",
+							"title": "ESE"
+						},
+						{
+							"const": "SE",
+							"title": "SE"
+						},
+						{
+							"const": "SSE",
+							"title": "SSE"
+						},
+						{
+							"const": "S",
+							"title": "S"
+						},
+						{
+							"const": "SSW",
+							"title": "SSW"
+						},
+						{
+							"const": "SW",
+							"title": "SW"
+						},
+						{
+							"const": "WSW",
+							"title": "WSW"
+						},
+						{
+							"const": "W",
+							"title": "W"
+						},
+						{
+							"const": "WNW",
+							"title": "WNW"
+						},
+						{
+							"const": "NW",
+							"title": "NW"
+						},
+						{
+							"const": "NNW",
+							"title": "NNW"
+						}
+					],
+					"title": "Aspect"
+				},
+				"comments": {
+					"type": "string",
+					"title": "Comments"
+				},
+				"location": {
+					"type": "string",
+					"title": "Location"
+				},
+				"full_name": {
+					"type": "string",
+					"title": "Full Name"
+				},
+				"angle_path": {
+					"type": "number",
+					"title": "Angle Path"
+				},
+				"mitigation": {
+					"type": "boolean",
+					"title": "Has Mitigation"
+				},
+				"short_name": {
+					"type": "string",
+					"title": "Short Name"
+				},
+				"start_elev": {
+					"type": "number",
+					"title": "Start Elevation"
+				},
+				"angle_start": {
+					"type": "number",
+					"title": "Angle Start"
+				},
+				"angle_track": {
+					"type": "number",
+					"title": "Angle Track"
+				},
+				"path_length": {
+					"type": "number",
+					"title": "Path Length"
+				},
+				"runout_elev": {
+					"type": "number",
+					"title": "Runout Elevation"
+				},
+				"sig_history": {
+					"type": "string",
+					"title": "Significant Path History"
+				},
+				"angle_runout": {
+					"type": "number",
+					"title": "Angle Runout"
+				},
+				"location_lat": {
+					"type": "number",
+					"title": "Location Latitude"
+				},
+				"area_affected": {
+					"type": "string",
+					"title": "Area Affected"
+				},
+				"avg_frequency": {
+					"type": "number",
+					"title": "Average Frequency"
+				},
+				"location_long": {
+					"type": "number",
+					"title": "Location Longitude"
+				},
+				"vertical_fall": {
+					"type": "number",
+					"title": "Vertical Fall"
+				},
+				"descript_start": {
+					"type": "string",
+					"title": "Description of Start Zone"
+				},
+				"descript_track": {
+					"type": "string",
+					"title": "Description of Track"
+				},
+				"descript_runout": {
+					"type": "string",
+					"title": "Description of Runout"
+				},
+				"primary_avy_type": {
+					"type": "string",
+					"title": "Primary Avalanche Type"
+				}
+			},
+			"description": "Avalanche atlas data"
+		}
+	},
+	{
+		"id": 34,
+		"client_id": 15,
+		"version": 1,
+		"model": "AvalancheObs",
+		"json_schema": {
+			"type": "object",
+			"title": "Avalanche Observation",
+			"required": [
+				"obs_date_time"
+			],
+			"uiSchema": {
+				"groups": [
+					{
+						"title": "Date and Observer",
+						"attributes": [
+							"obs_date_time",
+							"est_date_time",
+							"user_id"
+						]
+					},
+					{
+						"title": "Path Characteristics",
+						"attributes": [
+							"avalanche_atlas_id",
+							"path_aspect",
+							"path_location",
+							"path_elevation"
+						]
+					},
+					{
+						"title": "Avalanche Characteristics",
+						"attributes": [
+							"relative_size",
+							"destructive_size",
+							"avalanche_type",
+							"avalanche_trigger"
+						]
+					},
+					{
+						"title": "Snow Properties",
+						"attributes": [
+							"bed_surface",
+							"weak_layer",
+							"slab_type"
+						]
+					},
+					{
+						"title": "Dimensions",
+						"attributes": [
+							"slab_thickness",
+							"slab_width",
+							"vertical_fall"
+						]
+					},
+					{
+						"title": "Other",
+						"attributes": [
+							"comments"
+						]
+					}
+				]
+			},
+			"properties": {
+				"comments": {
+					"type": "string",
+					"title": "Comments"
+				},
+				"slab_type": {
+					"type": "string",
+					"title": "Slab Type"
+				},
+				"slab_width": {
+					"type": "number",
+					"title": "Slab Width"
+				},
+				"weak_layer": {
+					"type": "string",
+					"title": "Weak Layer"
+				},
+				"bed_surface": {
+					"type": "string",
+					"title": "Bed Surface"
+				},
+				"path_aspect": {
+					"type": "string",
+					"oneOf": [
+						{
+							"const": "N",
+							"title": "N"
+						},
+						{
+							"const": "NNE",
+							"title": "NNE"
+						},
+						{
+							"const": "NE",
+							"title": "NE"
+						},
+						{
+							"const": "ENE",
+							"title": "ENE"
+						},
+						{
+							"const": "E",
+							"title": "E"
+						},
+						{
+							"const": "ESE",
+							"title": "ESE"
+						},
+						{
+							"const": "SE",
+							"title": "SE"
+						},
+						{
+							"const": "SSE",
+							"title": "SSE"
+						},
+						{
+							"const": "S",
+							"title": "S"
+						},
+						{
+							"const": "SSW",
+							"title": "SSW"
+						},
+						{
+							"const": "SW",
+							"title": "SW"
+						},
+						{
+							"const": "WSW",
+							"title": "WSW"
+						},
+						{
+							"const": "W",
+							"title": "W"
+						},
+						{
+							"const": "WNW",
+							"title": "WNW"
+						},
+						{
+							"const": "NW",
+							"title": "NW"
+						},
+						{
+							"const": "NNW",
+							"title": "NNW"
+						}
+					],
+					"title": "Path Aspect"
+				},
+				"est_date_time": {
+					"type": "string",
+					"title": "Estimated Date Time",
+					"format": "date-time"
+				},
+				"obs_date_time": {
+					"type": "string",
+					"title": "Observation Date Time",
+					"format": "date-time"
+				},
+				"path_location": {
+					"type": "string",
+					"title": "Path Location"
+				},
+				"relative_size": {
+					"type": "number",
+					"oneOf": [
+						{
+							"const": 0.5,
+							"title": "R0.5"
+						},
+						{
+							"const": 1,
+							"title": "R1"
+						},
+						{
+							"const": 1.5,
+							"title": "R1.5"
+						},
+						{
+							"const": 2,
+							"title": "R2"
+						},
+						{
+							"const": 2.5,
+							"title": "R2.5"
+						},
+						{
+							"const": 3,
+							"title": "R3"
+						},
+						{
+							"const": 3.5,
+							"title": "R3.5"
+						},
+						{
+							"const": 4,
+							"title": "R4"
+						},
+						{
+							"const": 4.5,
+							"title": "R4.5"
+						},
+						{
+							"const": 5,
+							"title": "R5"
+						}
+					],
+					"title": "Relative Size"
+				},
+				"vertical_fall": {
+					"type": "number",
+					"title": "Vertical Fall"
+				},
+				"avalanche_type": {
+					"type": "string",
+					"oneOf": [
+						{
+							"const": "L",
+							"title": "Loose-snow avalanche (L)"
+						},
+						{
+							"const": "WL",
+							"title": "Wet loose-snow avalanche (WL)"
+						},
+						{
+							"const": "SS",
+							"title": "Soft slab avalanche (SS)"
+						},
+						{
+							"const": "HS",
+							"title": "Hard slab avalanche (HS)"
+						},
+						{
+							"const": "WS",
+							"title": "Wet slab avalanche (WS)"
+						},
+						{
+							"const": "I",
+							"title": "Ice fall or avalanche (I)"
+						},
+						{
+							"const": "SF",
+							"title": "Slush flow (SF)"
+						},
+						{
+							"const": "C",
+							"title": "Cornice fall (C, w/o additional avalanche)"
+						},
+						{
+							"const": "R",
+							"title": "Roof avalanche (R)"
+						},
+						{
+							"const": "U",
+							"title": "Unknown (U)"
+						}
+					],
+					"title": "Avalanche Type"
+				},
+				"path_elevation": {
+					"type": "number",
+					"title": "Path Elevation"
+				},
+				"slab_thickness": {
+					"type": "number",
+					"title": "Slab Thickness"
+				},
+				"destructive_size": {
+					"type": "number",
+					"oneOf": [
+						{
+							"const": 0.5,
+							"title": "D0.5"
+						},
+						{
+							"const": 1,
+							"title": "D1"
+						},
+						{
+							"const": 1.5,
+							"title": "D1.5"
+						},
+						{
+							"const": 2,
+							"title": "D2"
+						},
+						{
+							"const": 2.5,
+							"title": "D2.5"
+						},
+						{
+							"const": 3,
+							"title": "D3"
+						},
+						{
+							"const": 3.5,
+							"title": "D3.5"
+						},
+						{
+							"const": 4,
+							"title": "D4"
+						},
+						{
+							"const": 4.5,
+							"title": "D4.5"
+						},
+						{
+							"const": 5,
+							"title": "D5"
+						}
+					],
+					"title": "Destructive Size"
+				},
+				"avalanche_trigger": {
+					"type": "string",
+					"oneOf": [
+						{
+							"const": "N",
+							"group": "Natural",
+							"title": "Natural trigger (N)"
+						},
+						{
+							"const": "NC",
+							"group": "Natural",
+							"title": "Cornice fall (NC)"
+						},
+						{
+							"const": "NE",
+							"group": "Natural",
+							"title": "Earthquake (NE)"
+						},
+						{
+							"const": "NI",
+							"group": "Natural",
+							"title": "Ice fall (NI)"
+						},
+						{
+							"const": "NL",
+							"group": "Natural",
+							"title": "Avalanche triggered by loose snow avalanche (NL)"
+						},
+						{
+							"const": "NS",
+							"group": "Natural",
+							"title": "Avalanche triggered by slab avalanche (NS)"
+						},
+						{
+							"const": "NR",
+							"group": "Natural",
+							"title": "Rock fall (NR)"
+						},
+						{
+							"const": "NO",
+							"group": "Natural",
+							"title": "Unclassified natural trigger (NO, specify in comments)"
+						},
+						{
+							"const": "AM",
+							"group": "Artificial Triggers: Vehicle",
+							"title": "Snowmobile (AM)"
+						},
+						{
+							"const": "AK",
+							"group": "Artificial Triggers: Vehicle",
+							"title": "Snowcat (AK)"
+						},
+						{
+							"const": "AV",
+							"group": "Artificial Triggers: Vehicle",
+							"title": "Vehicle (AV, specifiy in comments)"
+						},
+						{
+							"const": "AS",
+							"group": "Artificial Triggers: Human",
+							"title": "Skier (AS)"
+						},
+						{
+							"const": "AR",
+							"group": "Artificial Triggers: Human",
+							"title": "Snowboarder (AR)"
+						},
+						{
+							"const": "AI",
+							"group": "Artificial Triggers: Human",
+							"title": "Snowshoer (AI)"
+						},
+						{
+							"const": "AF",
+							"group": "Artificial Triggers: Human",
+							"title": "Foot penetration (AF)"
+						},
+						{
+							"const": "AA",
+							"group": "Artificial Triggers: Explosive",
+							"title": "Artillery (AA)"
+						},
+						{
+							"const": "AE",
+							"group": "Artificial Triggers: Explosive",
+							"title": "An explosive thrown or placed on or under the snow surface by hand (AE)"
+						},
+						{
+							"const": "AL",
+							"group": "Artificial Triggers: Explosive",
+							"title": "Avalauncher (AL)"
+						},
+						{
+							"const": "AB",
+							"group": "Artificial Triggers: Explosive",
+							"title": "An explosive detonated above the snow surface (AB, air blast)"
+						},
+						{
+							"const": "AC",
+							"group": "Artificial Triggers: Explosive",
+							"title": "Cornice fall triggered by human or explosive action (AC)"
+						},
+						{
+							"const": "AX",
+							"group": "Artificial Triggers: Explosive",
+							"title": "Gas exploder (AX)"
+						},
+						{
+							"const": "AH",
+							"group": "Artificial Triggers: Explosive",
+							"title": "Explosives placed via helicopter (AH)"
+						},
+						{
+							"const": "AP",
+							"group": "Artificial Triggers: Explosive",
+							"title": "Pre-placed, remotely detonated explosive charge (AP)"
+						},
+						{
+							"const": "GZ",
+							"group": "Artificial Triggers: Explosive",
+							"title": "Gazex (GZ)"
+						},
+						{
+							"const": "AW",
+							"group": "Artificial Triggers: Miscellaneous",
+							"title": "Wildlife (AW)"
+						},
+						{
+							"const": "AU",
+							"group": "Artificial Triggers: Miscellaneous",
+							"title": "Unknown artificial trigger (AU)"
+						},
+						{
+							"const": "AO",
+							"group": "Artificial Triggers: Miscellaneous",
+							"title": "Unclassified artificial trigger (AO, specify in comments)"
+						}
+					],
+					"title": "Avalanche Trigger"
+				}
+			},
+			"description": "Avalanche observation data"
+		}
+	}
+]

@@ -1,0 +1,4660 @@
+[
+	{
+		"id": 956,
+		"client_id": 15,
+		"location_id": 924,
+		"json_schema_id": 15,
+		"full_name": "2nd Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NE",
+			"location": "Fish Creek",
+			"full_name": "2nd Bowl",
+			"start_elev": 3300,
+			"runout_elev": 2200,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 1100
+		}
+	},
+	{
+		"id": 917,
+		"client_id": 15,
+		"location_id": 885,
+		"json_schema_id": 15,
+		"full_name": "2nd Meadow False Troy",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "E",
+			"location": "Moller",
+			"full_name": "2nd Meadow False Troy",
+			"start_elev": 2600,
+			"runout_elev": 1150,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1450
+		}
+	},
+	{
+		"id": 785,
+		"client_id": 15,
+		"location_id": 760,
+		"json_schema_id": 15,
+		"full_name": "2nd to Last Chance",
+		"short_name": "T018",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "S",
+			"location": "Perseverance",
+			"full_name": "2nd to Last Chance",
+			"short_name": "T018",
+			"start_elev": 1500,
+			"runout_elev": 400,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1100
+		}
+	},
+	{
+		"id": 889,
+		"client_id": 15,
+		"location_id": 857,
+		"json_schema_id": 15,
+		"full_name": "AC Coms Safety Line",
+		"short_name": "A-0",
+		"data": {
+			"zone": "Douglas Island",
+			"location": "Eaglecrest",
+			"full_name": "AC Coms Safety Line",
+			"short_name": "A-0",
+			"location_lat": 58.3,
+			"location_long": -134.5
+		}
+	},
+	{
+		"id": 867,
+		"client_id": 15,
+		"location_id": 835,
+		"json_schema_id": 15,
+		"full_name": "Anderson Boat",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SW",
+			"location": "Fish Creek",
+			"full_name": "Anderson Boat",
+			"start_elev": 2500,
+			"runout_elev": 900,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1600
+		}
+	},
+	{
+		"id": 868,
+		"client_id": 15,
+		"location_id": 836,
+		"json_schema_id": 15,
+		"full_name": "Anderson North",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "North Douglas",
+			"full_name": "Anderson North",
+			"start_elev": 2800,
+			"runout_elev": 1500,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1300
+		}
+	},
+	{
+		"id": 949,
+		"client_id": 15,
+		"location_id": 917,
+		"json_schema_id": 15,
+		"full_name": "Annex Line Alpine E",
+		"short_name": "nan",
+		"data": {
+			"zone": "Taku",
+			"aspect": "E",
+			"location": "Hawthorn",
+			"full_name": "Annex Line Alpine E",
+			"start_elev": 3400,
+			"runout_elev": 500,
+			"location_lat": 58.3,
+			"location_long": -134.2,
+			"vertical_fall": 2900
+		}
+	},
+	{
+		"id": 948,
+		"client_id": 15,
+		"location_id": 916,
+		"json_schema_id": 15,
+		"full_name": "Annex Line Alpine SW",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "SW",
+			"location": "Hawthorn",
+			"full_name": "Annex Line Alpine SW",
+			"start_elev": 3500,
+			"runout_elev": 900,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 2600
+		}
+	},
+	{
+		"id": 950,
+		"client_id": 15,
+		"location_id": 918,
+		"json_schema_id": 15,
+		"full_name": "Annex Ridge NW",
+		"short_name": "nan",
+		"data": {
+			"zone": "Taku",
+			"aspect": "NW",
+			"location": "Hawthorn",
+			"full_name": "Annex Ridge NW",
+			"start_elev": 3300,
+			"runout_elev": 400,
+			"location_lat": 58.3,
+			"location_long": -134.2,
+			"vertical_fall": 2900
+		}
+	},
+	{
+		"id": 807,
+		"client_id": 15,
+		"location_id": 780,
+		"json_schema_id": 15,
+		"full_name": "Arthur Low Ridge",
+		"short_name": "Arthur LZ",
+		"data": {
+			"zone": "Stephens Passage",
+			"aspect": "W",
+			"location": "Arthur Peak",
+			"full_name": "Arthur Low Ridge",
+			"short_name": "Arthur LZ",
+			"start_elev": 2750,
+			"angle_start": 36,
+			"runout_elev": 0,
+			"sig_history": "Commonly triggered with Daisybell",
+			"location_lat": 58,
+			"area_affected": "transmission line",
+			"location_long": -134,
+			"vertical_fall": 2750,
+			"descript_start": "Convex roll above unsupported slope",
+			"descript_track": "Cliffs and trees, open until trim line",
+			"descript_runout": "Lots of small trees and friction, transmission tower at 400' ASL at bottom of drainage.",
+			"primary_avy_type": "Persistent slab"
+		}
+	},
+	{
+		"id": 808,
+		"client_id": 15,
+		"location_id": 781,
+		"json_schema_id": 15,
+		"full_name": "Arthur Upper Bowl",
+		"short_name": "Arthur Upper",
+		"data": {
+			"zone": "Stephens Passage",
+			"aspect": "W",
+			"location": "Arthur Peak",
+			"full_name": "Arthur Upper Bowl",
+			"short_name": "Arthur Upper",
+			"start_elev": 3050,
+			"angle_start": 40,
+			"runout_elev": 0,
+			"location_lat": 58.1,
+			"area_affected": "transmission line",
+			"location_long": -134,
+			"vertical_fall": 3050,
+			"descript_start": "Convex roll",
+			"descript_track": "Benchy, broad bowl",
+			"descript_runout": "Lots of small trees and friction, transmission tower at 400' ASL at bottom of drainage.",
+			"primary_avy_type": "wet loose"
+		}
+	},
+	{
+		"id": 1011,
+		"client_id": 15,
+		"location_id": 979,
+		"json_schema_id": 15,
+		"full_name": "ArthurGroupKingPeak",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Speel Range",
+			"aspect": "S",
+			"location": "Limestone Inlet",
+			"full_name": "ArthurGroupKingPeak",
+			"start_elev": 3600,
+			"runout_elev": 2100,
+			"location_lat": 58.1,
+			"location_long": -133.9,
+			"vertical_fall": 1500
+		}
+	},
+	{
+		"id": 896,
+		"client_id": 15,
+		"location_id": 864,
+		"json_schema_id": 15,
+		"full_name": "B.G.B.S",
+		"short_name": "AA-7",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WNW",
+			"location": "Eaglecrest",
+			"full_name": "B.G.B.S",
+			"short_name": "AA-7",
+			"start_elev": 2200,
+			"runout_elev": 1900,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 300
+		}
+	},
+	{
+		"id": 860,
+		"client_id": 15,
+		"location_id": 828,
+		"json_schema_id": 15,
+		"full_name": "Backside",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "S",
+			"location": "Backside",
+			"full_name": "Backside",
+			"start_elev": 2900,
+			"runout_elev": 2350,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 550
+		}
+	},
+	{
+		"id": 936,
+		"client_id": 15,
+		"location_id": 904,
+		"json_schema_id": 15,
+		"full_name": "Backside Jumbo",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "South Douglas",
+			"full_name": "Backside Jumbo",
+			"start_elev": 2800,
+			"runout_elev": 1150,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 1650
+		}
+	},
+	{
+		"id": 809,
+		"client_id": 15,
+		"location_id": null,
+		"json_schema_id": 15,
+		"full_name": "Balcony Bowl",
+		"short_name": "BCY Upper",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "E",
+			"location": "Crater Peak",
+			"full_name": "Balcony Bowl",
+			"short_name": "BCY Upper",
+			"start_elev": 2650,
+			"runout_elev": 1850,
+			"location_lat": 58.1,
+			"area_affected": "Weather station and snow study sites",
+			"location_long": -133.8,
+			"vertical_fall": 800,
+			"descript_start": "Multiple chutes filtering into a catchment bench",
+			"descript_track": "Short steep broken terrain",
+			"descript_runout": "Bench ('Balcony') bowl with weather station on the outer edge",
+			"primary_avy_type": "storm slab"
+		}
+	},
+	{
+		"id": 918,
+		"client_id": 15,
+		"location_id": 886,
+		"json_schema_id": 15,
+		"full_name": "Banana Chute",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SE",
+			"location": "Moller",
+			"full_name": "Banana Chute",
+			"start_elev": 2900,
+			"runout_elev": 1700,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1200
+		}
+	},
+	{
+		"id": 879,
+		"client_id": 15,
+		"location_id": 847,
+		"json_schema_id": 15,
+		"full_name": "Barrel Roll",
+		"short_name": "A-1",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Barrel Roll",
+			"short_name": "A-1",
+			"start_elev": 2550,
+			"runout_elev": 2350,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 833,
+		"client_id": 15,
+		"location_id": 801,
+		"json_schema_id": 15,
+		"full_name": "Bart Lake",
+		"short_name": "nan",
+		"data": {
+			"zone": "Taku",
+			"aspect": "N",
+			"location": "Dorothy",
+			"full_name": "Bart Lake",
+			"start_elev": 4200,
+			"runout_elev": 1000,
+			"location_lat": 58.2,
+			"location_long": -134,
+			"vertical_fall": 3200
+		}
+	},
+	{
+		"id": 797,
+		"client_id": 15,
+		"location_id": 772,
+		"json_schema_id": 15,
+		"full_name": "Bartlett #1",
+		"short_name": "J012",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "SW",
+			"location": "Egan",
+			"full_name": "Bartlett #1",
+			"short_name": "J012",
+			"start_elev": 2000,
+			"runout_elev": 100,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1900
+		}
+	},
+	{
+		"id": 798,
+		"client_id": 15,
+		"location_id": 773,
+		"json_schema_id": 15,
+		"full_name": "Bartlett #2",
+		"short_name": "J013",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "SW",
+			"location": "Egan",
+			"full_name": "Bartlett #2",
+			"short_name": "J013",
+			"start_elev": 1900,
+			"runout_elev": 150,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1750
+		}
+	},
+	{
+		"id": 799,
+		"client_id": 15,
+		"location_id": 774,
+		"json_schema_id": 15,
+		"full_name": "Bartlett #3",
+		"short_name": "J014",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "W",
+			"location": "Egan",
+			"full_name": "Bartlett #3",
+			"short_name": "J014",
+			"start_elev": 1800,
+			"runout_elev": 300,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1500
+		}
+	},
+	{
+		"id": 787,
+		"client_id": 15,
+		"location_id": 762,
+		"json_schema_id": 15,
+		"full_name": "Bathe Creek",
+		"short_name": "J001",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "SSE",
+			"location": "Perseverance",
+			"full_name": "Bathe Creek",
+			"short_name": "J001",
+			"start_elev": 2000,
+			"runout_elev": 200,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1800
+		}
+	},
+	{
+		"id": 836,
+		"client_id": 15,
+		"location_id": 804,
+		"json_schema_id": 15,
+		"full_name": "Bear Valley Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "W",
+			"location": "Tram Ridge",
+			"full_name": "Bear Valley Bowl",
+			"start_elev": 3200,
+			"runout_elev": 1800,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1400
+		}
+	},
+	{
+		"id": 837,
+		"client_id": 15,
+		"location_id": 805,
+		"json_schema_id": 15,
+		"full_name": "Bear Valley Tram Ridge",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "NW",
+			"location": "Tram Ridge",
+			"full_name": "Bear Valley Tram Ridge",
+			"start_elev": 2600,
+			"runout_elev": 1700,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 900
+		}
+	},
+	{
+		"id": 795,
+		"client_id": 15,
+		"location_id": 770,
+		"json_schema_id": 15,
+		"full_name": "Behrends Avenue",
+		"short_name": "J010",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "SW",
+			"location": "Egan",
+			"full_name": "Behrends Avenue",
+			"short_name": "J010",
+			"start_elev": 3000,
+			"runout_elev": 0,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 3000
+		}
+	},
+	{
+		"id": 904,
+		"client_id": 15,
+		"location_id": 872,
+		"json_schema_id": 15,
+		"full_name": "Big Shot",
+		"short_name": "D-1",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Eaglecrest",
+			"full_name": "Big Shot",
+			"short_name": "D-1",
+			"start_elev": 2650,
+			"runout_elev": 2200,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 450
+		}
+	},
+	{
+		"id": 986,
+		"client_id": 15,
+		"location_id": 954,
+		"json_schema_id": 15,
+		"full_name": "Blackerby Bowl 1",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "WNW",
+			"location": "Lemon Creek",
+			"full_name": "Blackerby Bowl 1",
+			"start_elev": 3100,
+			"runout_elev": 2100,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1000
+		}
+	},
+	{
+		"id": 985,
+		"client_id": 15,
+		"location_id": 953,
+		"json_schema_id": 15,
+		"full_name": "Blackerby Bowl 2",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "NW",
+			"location": "Lemon Creek",
+			"full_name": "Blackerby Bowl 2",
+			"start_elev": 3200,
+			"runout_elev": 1600,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 1600
+		}
+	},
+	{
+		"id": 987,
+		"client_id": 15,
+		"location_id": 955,
+		"json_schema_id": 15,
+		"full_name": "Blackerby Bowl 3",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "NW",
+			"location": "Lemon Creek",
+			"full_name": "Blackerby Bowl 3",
+			"start_elev": 3450,
+			"runout_elev": 950,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 2500
+		}
+	},
+	{
+		"id": 988,
+		"client_id": 15,
+		"location_id": 956,
+		"json_schema_id": 15,
+		"full_name": "Blackerby South",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "S",
+			"location": "Salmon Creek",
+			"full_name": "Blackerby South",
+			"start_elev": 3400,
+			"runout_elev": 800,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2600
+		}
+	},
+	{
+		"id": 873,
+		"client_id": 15,
+		"location_id": 841,
+		"json_schema_id": 15,
+		"full_name": "Boat Show",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "E",
+			"location": "North Douglas",
+			"full_name": "Boat Show",
+			"start_elev": 2600,
+			"runout_elev": 1600,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1000
+		}
+	},
+	{
+		"id": 782,
+		"client_id": 15,
+		"location_id": 757,
+		"json_schema_id": 15,
+		"full_name": "Bootleg",
+		"short_name": "T010",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "WSW",
+			"location": "Thane Road",
+			"full_name": "Bootleg",
+			"short_name": "T010",
+			"start_elev": 1000,
+			"runout_elev": 50,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 950
+		}
+	},
+	{
+		"id": 811,
+		"client_id": 15,
+		"location_id": 783,
+		"json_schema_id": 15,
+		"full_name": "Bride Peak North",
+		"short_name": "Bride North",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "NNE",
+			"location": "Snettisham",
+			"full_name": "Bride Peak North",
+			"short_name": "Bride North",
+			"start_elev": 3200,
+			"runout_elev": 0,
+			"location_lat": 58.1,
+			"location_long": -133.8,
+			"vertical_fall": 3200
+		}
+	},
+	{
+		"id": 999,
+		"client_id": 15,
+		"location_id": 967,
+		"json_schema_id": 15,
+		"full_name": "Bullard Face",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "SW",
+			"location": "Nugget Creek",
+			"full_name": "Bullard Face",
+			"start_elev": 3600,
+			"runout_elev": 600,
+			"location_lat": 58.4,
+			"location_long": -134.5,
+			"vertical_fall": 3000
+		}
+	},
+	{
+		"id": 845,
+		"client_id": 15,
+		"location_id": 813,
+		"json_schema_id": 15,
+		"full_name": "Bunny Toe Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Fish Creek",
+			"full_name": "Bunny Toe Bowl",
+			"start_elev": 2800,
+			"runout_elev": 2000,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 842,
+		"client_id": 15,
+		"location_id": 810,
+		"json_schema_id": 15,
+		"full_name": "Bunny Toe Chute",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "Fish Creek",
+			"full_name": "Bunny Toe Chute",
+			"start_elev": 3400,
+			"runout_elev": 2500,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 900
+		}
+	},
+	{
+		"id": 846,
+		"client_id": 15,
+		"location_id": 814,
+		"json_schema_id": 15,
+		"full_name": "Bunny Toe Face",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SSE",
+			"location": "Fish Creek",
+			"full_name": "Bunny Toe Face",
+			"start_elev": 3000,
+			"runout_elev": 2400,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 600
+		}
+	},
+	{
+		"id": 984,
+		"client_id": 15,
+		"location_id": 952,
+		"json_schema_id": 15,
+		"full_name": "Cairn Bowl",
+		"short_name": "nan",
+		"data": {
+			"full_name": "Cairn Bowl"
+		}
+	},
+	{
+		"id": 977,
+		"client_id": 15,
+		"location_id": 945,
+		"json_schema_id": 15,
+		"full_name": "Cairn South",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "S",
+			"location": "Salmon Creek",
+			"full_name": "Cairn South",
+			"start_elev": 4400,
+			"runout_elev": 1100,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 3300
+		}
+	},
+	{
+		"id": 790,
+		"client_id": 15,
+		"location_id": 765,
+		"json_schema_id": 15,
+		"full_name": "Chop Gully",
+		"short_name": "J004",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "S",
+			"location": "Perseverance",
+			"full_name": "Chop Gully",
+			"short_name": "J004",
+			"start_elev": 3000,
+			"runout_elev": 300,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2700
+		}
+	},
+	{
+		"id": 963,
+		"client_id": 15,
+		"location_id": 931,
+		"json_schema_id": 15,
+		"full_name": "Clark Proper",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "NW",
+			"location": "Perseverance",
+			"full_name": "Clark Proper",
+			"start_elev": 4000,
+			"runout_elev": 1900,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 2100
+		}
+	},
+	{
+		"id": 849,
+		"client_id": 15,
+		"location_id": 817,
+		"json_schema_id": 15,
+		"full_name": "Consolation Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SE",
+			"location": "Fish Creek",
+			"full_name": "Consolation Bowl",
+			"start_elev": 3000,
+			"runout_elev": 2200,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 1075,
+		"client_id": 15,
+		"location_id": 1048,
+		"json_schema_id": 15,
+		"full_name": "Corner Gliders",
+		"short_name": null,
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "E",
+			"location": "Snettisham",
+			"full_name": "Corner Gliders",
+			"start_elev": 1400,
+			"runout_elev": 0,
+			"location_lat": 58.1,
+			"location_long": -133.7,
+			"vertical_fall": 1400
+		}
+	},
+	{
+		"id": 905,
+		"client_id": 15,
+		"location_id": 873,
+		"json_schema_id": 15,
+		"full_name": "Corner Shot",
+		"short_name": "D-2",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Eaglecrest",
+			"full_name": "Corner Shot",
+			"short_name": "D-2",
+			"start_elev": 2700,
+			"runout_elev": 2650,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 50
+		}
+	},
+	{
+		"id": 838,
+		"client_id": 15,
+		"location_id": 806,
+		"json_schema_id": 15,
+		"full_name": "Cropley",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "ESE",
+			"location": "Fish Creek",
+			"full_name": "Cropley",
+			"start_elev": 3100,
+			"runout_elev": 1800,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1300
+		}
+	},
+	{
+		"id": 784,
+		"client_id": 15,
+		"location_id": 759,
+		"json_schema_id": 15,
+		"full_name": "Cross Bay Creek",
+		"short_name": "T017",
+		"data": {
+			"full_name": "Cross Bay Creek",
+			"short_name": "T017"
+		}
+	},
+	{
+		"id": 955,
+		"client_id": 15,
+		"location_id": 923,
+		"json_schema_id": 15,
+		"full_name": "Deer Trail Chute",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NE",
+			"location": "Fish Creek",
+			"full_name": "Deer Trail Chute",
+			"start_elev": 3000,
+			"runout_elev": 1600,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 1400
+		}
+	},
+	{
+		"id": 925,
+		"client_id": 15,
+		"location_id": 893,
+		"json_schema_id": 15,
+		"full_name": "Dog Leg Trees",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WNW",
+			"location": "Moller",
+			"full_name": "Dog Leg Trees",
+			"start_elev": 2550,
+			"runout_elev": 2050,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 500
+		}
+	},
+	{
+		"id": 801,
+		"client_id": 15,
+		"location_id": null,
+		"json_schema_id": 15,
+		"full_name": "Dorothy Powerhouse",
+		"short_name": "D001",
+		"data": {
+			"full_name": "Dorothy Powerhouse",
+			"short_name": "D001"
+		}
+	},
+	{
+		"id": 881,
+		"client_id": 15,
+		"location_id": 849,
+		"json_schema_id": 15,
+		"full_name": "Double Dip",
+		"short_name": "A-3",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Eaglecrest",
+			"full_name": "Double Dip",
+			"short_name": "A-3",
+			"start_elev": 2450,
+			"runout_elev": 2350,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 100
+		}
+	},
+	{
+		"id": 926,
+		"client_id": 15,
+		"location_id": 894,
+		"json_schema_id": 15,
+		"full_name": "Douglas Ski Bowl Ropetow",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Moller",
+			"full_name": "Douglas Ski Bowl Ropetow",
+			"start_elev": 2400,
+			"runout_elev": 1950,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 450
+		}
+	},
+	{
+		"id": 812,
+		"client_id": 15,
+		"location_id": 784,
+		"json_schema_id": 15,
+		"full_name": "East Bride Bowl",
+		"short_name": "Bride East",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "SE",
+			"location": "Crater Peak",
+			"full_name": "East Bride Bowl",
+			"short_name": "Bride East",
+			"start_elev": 3600,
+			"runout_elev": 800,
+			"location_lat": 58.1,
+			"area_affected": "Transmission line",
+			"location_long": -133.8,
+			"vertical_fall": 2800
+		}
+	},
+	{
+		"id": 919,
+		"client_id": 15,
+		"location_id": 887,
+		"json_schema_id": 15,
+		"full_name": "East False Troy",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "E",
+			"location": "Moller",
+			"full_name": "East False Troy",
+			"start_elev": 2700,
+			"runout_elev": 1150,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1550
+		}
+	},
+	{
+		"id": 930,
+		"client_id": 15,
+		"location_id": 898,
+		"json_schema_id": 15,
+		"full_name": "East Moller Ridge",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "E",
+			"location": "Moller",
+			"full_name": "East Moller Ridge",
+			"start_elev": 2350,
+			"runout_elev": 750,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1600
+		}
+	},
+	{
+		"id": 960,
+		"client_id": 15,
+		"location_id": 928,
+		"json_schema_id": 15,
+		"full_name": "False Outer Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "North Douglas",
+			"full_name": "False Outer Bowl",
+			"start_elev": 3000,
+			"runout_elev": 1800,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 1200
+		}
+	},
+	{
+		"id": 875,
+		"client_id": 15,
+		"location_id": 843,
+		"json_schema_id": 15,
+		"full_name": "False Troy",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "North Douglas",
+			"full_name": "False Troy",
+			"start_elev": 2950,
+			"runout_elev": 1850,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1100
+		}
+	},
+	{
+		"id": 898,
+		"client_id": 15,
+		"location_id": 866,
+		"json_schema_id": 15,
+		"full_name": "Faucet",
+		"short_name": "AA-9",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Faucet",
+			"short_name": "AA-9",
+			"start_elev": 2050,
+			"runout_elev": 1850,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 788,
+		"client_id": 15,
+		"location_id": 763,
+		"json_schema_id": 15,
+		"full_name": "Flume",
+		"short_name": "J002",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "S",
+			"location": "Perseverance",
+			"full_name": "Flume",
+			"short_name": "J002",
+			"start_elev": 2200,
+			"runout_elev": 200,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2000
+		}
+	},
+	{
+		"id": 843,
+		"client_id": 15,
+		"location_id": 811,
+		"json_schema_id": 15,
+		"full_name": "Fred Meyer Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "Fish Creek",
+			"full_name": "Fred Meyer Bowl",
+			"start_elev": 3400,
+			"runout_elev": 2000,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1400
+		}
+	},
+	{
+		"id": 961,
+		"client_id": 15,
+		"location_id": 929,
+		"json_schema_id": 15,
+		"full_name": "Fred's Behind",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Backside",
+			"full_name": "Fred's Behind",
+			"start_elev": 3200,
+			"runout_elev": 1000,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 2200
+		}
+	},
+	{
+		"id": 858,
+		"client_id": 15,
+		"location_id": 826,
+		"json_schema_id": 15,
+		"full_name": "Fruit Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NE",
+			"location": "Fish Creek",
+			"full_name": "Fruit Bowl",
+			"start_elev": 2900,
+			"runout_elev": 2000,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 900
+		}
+	},
+	{
+		"id": 781,
+		"client_id": 15,
+		"location_id": 756,
+		"json_schema_id": 15,
+		"full_name": "Garbage Dump",
+		"short_name": "T009",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "SW",
+			"location": "Thane Road",
+			"full_name": "Garbage Dump",
+			"short_name": "T009",
+			"start_elev": 2000,
+			"runout_elev": 0,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2000
+		}
+	},
+	{
+		"id": 937,
+		"client_id": 15,
+		"location_id": 905,
+		"json_schema_id": 15,
+		"full_name": "Gastineau Meadows Shoulder",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "South Douglas",
+			"full_name": "Gastineau Meadows Shoulder",
+			"start_elev": 2400,
+			"runout_elev": 1500,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 900
+		}
+	},
+	{
+		"id": 789,
+		"client_id": 15,
+		"location_id": 764,
+		"json_schema_id": 15,
+		"full_name": "Gnarly",
+		"short_name": "J003",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "SSE",
+			"location": "Perseverance",
+			"full_name": "Gnarly",
+			"short_name": "J003",
+			"start_elev": 3100,
+			"runout_elev": 300,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2800
+		}
+	},
+	{
+		"id": 970,
+		"client_id": 15,
+		"location_id": 938,
+		"json_schema_id": 15,
+		"full_name": "Gold Ridge",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "NNE",
+			"location": "Perseverance",
+			"full_name": "Gold Ridge",
+			"start_elev": 3300,
+			"runout_elev": 900,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 2400
+		}
+	},
+	{
+		"id": 844,
+		"client_id": 15,
+		"location_id": 812,
+		"json_schema_id": 15,
+		"full_name": "Grand Central Couloir",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNE",
+			"location": "Fish Creek",
+			"full_name": "Grand Central Couloir",
+			"start_elev": 3000,
+			"runout_elev": 2000,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1000
+		}
+	},
+	{
+		"id": 951,
+		"client_id": 15,
+		"location_id": 919,
+		"json_schema_id": 15,
+		"full_name": "Grand Central Face",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNE",
+			"location": "Fish Creek",
+			"full_name": "Grand Central Face",
+			"start_elev": 3100,
+			"runout_elev": 1850,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 1250
+		}
+	},
+	{
+		"id": 1006,
+		"client_id": 15,
+		"location_id": 974,
+		"json_schema_id": 15,
+		"full_name": "Grandchilds Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "SSW",
+			"location": "Montana Creek",
+			"full_name": "Grandchilds Bowl",
+			"start_elev": 3700,
+			"runout_elev": 2200,
+			"location_lat": 58.5,
+			"location_long": -134.6,
+			"vertical_fall": 1500
+		}
+	},
+	{
+		"id": 1007,
+		"client_id": 15,
+		"location_id": 975,
+		"json_schema_id": 15,
+		"full_name": "Grandchilds SW",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "SW",
+			"location": "Montana Creek",
+			"full_name": "Grandchilds SW",
+			"start_elev": 3600,
+			"runout_elev": 1300,
+			"location_lat": 58.5,
+			"location_long": -134.7,
+			"vertical_fall": 2300
+		}
+	},
+	{
+		"id": 1008,
+		"client_id": 15,
+		"location_id": 976,
+		"json_schema_id": 15,
+		"full_name": "Grandchilds WSW",
+		"short_name": "nan",
+		"data": {
+			"zone": "Herbert",
+			"aspect": "WSW",
+			"location": "Windfall Lake",
+			"full_name": "Grandchilds WSW",
+			"start_elev": 4000,
+			"runout_elev": 1500,
+			"location_lat": 58.5,
+			"location_long": -134.7,
+			"vertical_fall": 2500
+		}
+	},
+	{
+		"id": 966,
+		"client_id": 15,
+		"location_id": 934,
+		"json_schema_id": 15,
+		"full_name": "Granite Basin Gulley",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "NW",
+			"location": "Perseverance",
+			"full_name": "Granite Basin Gulley",
+			"start_elev": 3600,
+			"runout_elev": 1800,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 1800
+		}
+	},
+	{
+		"id": 967,
+		"client_id": 15,
+		"location_id": 935,
+		"json_schema_id": 15,
+		"full_name": "Granite Chutes",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "NE",
+			"location": "Perseverance",
+			"full_name": "Granite Chutes",
+			"start_elev": 3200,
+			"runout_elev": 2200,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 1000
+		}
+	},
+	{
+		"id": 965,
+		"client_id": 15,
+		"location_id": 933,
+		"json_schema_id": 15,
+		"full_name": "Granite Ridge NW",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "NW",
+			"location": "Perseverance",
+			"full_name": "Granite Ridge NW",
+			"start_elev": 3400,
+			"runout_elev": 1400,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 2000
+		}
+	},
+	{
+		"id": 964,
+		"client_id": 15,
+		"location_id": 932,
+		"json_schema_id": 15,
+		"full_name": "Granite Ridge South",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "S",
+			"location": "Perseverance",
+			"full_name": "Granite Ridge South",
+			"start_elev": 3600,
+			"runout_elev": 1100,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 2500
+		}
+	},
+	{
+		"id": 791,
+		"client_id": 15,
+		"location_id": 766,
+		"json_schema_id": 15,
+		"full_name": "Green Weenie",
+		"short_name": "J005",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "S",
+			"location": "Perseverance",
+			"full_name": "Green Weenie",
+			"short_name": "J005",
+			"start_elev": 2600,
+			"runout_elev": 300,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2300
+		}
+	},
+	{
+		"id": 796,
+		"client_id": 15,
+		"location_id": 771,
+		"json_schema_id": 15,
+		"full_name": "Greenhouse",
+		"short_name": "J011",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "SW",
+			"location": "Egan",
+			"full_name": "Greenhouse",
+			"short_name": "J011",
+			"start_elev": 2000,
+			"runout_elev": 0,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2000
+		}
+	},
+	{
+		"id": 894,
+		"client_id": 15,
+		"location_id": 862,
+		"json_schema_id": 15,
+		"full_name": "Grinder",
+		"short_name": "AA-5",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Grinder",
+			"short_name": "AA-5",
+			"start_elev": 2300,
+			"runout_elev": 2150,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 150
+		}
+	},
+	{
+		"id": 906,
+		"client_id": 15,
+		"location_id": 874,
+		"json_schema_id": 15,
+		"full_name": "Gunner's",
+		"short_name": "D-3",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Gunner's",
+			"short_name": "D-3",
+			"start_elev": 2700,
+			"runout_elev": 2350,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 350
+		}
+	},
+	{
+		"id": 839,
+		"client_id": 15,
+		"location_id": 807,
+		"json_schema_id": 15,
+		"full_name": "Hairy S",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "E",
+			"location": "Fish Creek",
+			"full_name": "Hairy S",
+			"start_elev": 2750,
+			"runout_elev": 1850,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 500
+		}
+	},
+	{
+		"id": 825,
+		"client_id": 15,
+		"location_id": 793,
+		"json_schema_id": 15,
+		"full_name": "Hawthorn",
+		"short_name": "Hawthorn",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "WNW",
+			"location": "Hawthorn",
+			"full_name": "Hawthorn",
+			"short_name": "Hawthorn",
+			"start_elev": 4000,
+			"runout_elev": 800,
+			"location_lat": 58.3,
+			"location_long": -134.2,
+			"vertical_fall": 3200
+		}
+	},
+	{
+		"id": 829,
+		"client_id": 15,
+		"location_id": 797,
+		"json_schema_id": 15,
+		"full_name": "Hawthorn North",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "NNW",
+			"location": "Hawthorn",
+			"full_name": "Hawthorn North",
+			"start_elev": 4000,
+			"runout_elev": 800,
+			"location_lat": 58.3,
+			"location_long": -134.2,
+			"vertical_fall": 3200
+		}
+	},
+	{
+		"id": 831,
+		"client_id": 15,
+		"location_id": 799,
+		"json_schema_id": 15,
+		"full_name": "Hawthorn South",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "S",
+			"location": "Hawthorn",
+			"full_name": "Hawthorn South",
+			"start_elev": 4000,
+			"runout_elev": 800,
+			"location_lat": 58.2,
+			"location_long": -134.2,
+			"vertical_fall": 3200
+		}
+	},
+	{
+		"id": 862,
+		"client_id": 15,
+		"location_id": 830,
+		"json_schema_id": 15,
+		"full_name": "Heart Shaped Meadows",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WSW",
+			"location": "Fish Creek",
+			"full_name": "Heart Shaped Meadows",
+			"start_elev": 2200,
+			"runout_elev": 1250,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 950
+		}
+	},
+	{
+		"id": 855,
+		"client_id": 15,
+		"location_id": 823,
+		"json_schema_id": 15,
+		"full_name": "Heavenly Mini Golf",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WNW",
+			"location": "Fish Creek",
+			"full_name": "Heavenly Mini Golf",
+			"start_elev": 2600,
+			"runout_elev": 1800,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 995,
+		"client_id": 15,
+		"location_id": 963,
+		"json_schema_id": 15,
+		"full_name": "Heintzleman Face ",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "S",
+			"location": "Lemon Creek",
+			"full_name": "Heintzleman Face ",
+			"start_elev": 3300,
+			"runout_elev": 1300,
+			"location_lat": 58.4,
+			"location_long": -134.5,
+			"vertical_fall": 2000
+		}
+	},
+	{
+		"id": 993,
+		"client_id": 15,
+		"location_id": 961,
+		"json_schema_id": 15,
+		"full_name": "Heintzleman Ridge SE",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "SE",
+			"location": "Lemon Creek",
+			"full_name": "Heintzleman Ridge SE",
+			"start_elev": 3600,
+			"runout_elev": 1000,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 2600
+		}
+	},
+	{
+		"id": 857,
+		"client_id": 15,
+		"location_id": 825,
+		"json_schema_id": 15,
+		"full_name": "High East",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNE",
+			"location": "Fish Creek",
+			"full_name": "High East",
+			"start_elev": 2900,
+			"runout_elev": 2600,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 300
+		}
+	},
+	{
+		"id": 854,
+		"client_id": 15,
+		"location_id": 822,
+		"json_schema_id": 15,
+		"full_name": "High Heavenly",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNW",
+			"location": "Fish Creek",
+			"full_name": "High Heavenly",
+			"start_elev": 2700,
+			"runout_elev": 2100,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 600
+		}
+	},
+	{
+		"id": 907,
+		"client_id": 15,
+		"location_id": 875,
+		"json_schema_id": 15,
+		"full_name": "High Point",
+		"short_name": "D-4",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "High Point",
+			"short_name": "D-4",
+			"start_elev": 2750,
+			"runout_elev": 2350,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 400
+		}
+	},
+	{
+		"id": 878,
+		"client_id": 15,
+		"location_id": 846,
+		"json_schema_id": 15,
+		"full_name": "Hilda Wall",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SW",
+			"location": "Backside",
+			"full_name": "Hilda Wall",
+			"start_elev": 2700,
+			"runout_elev": 1250,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1450
+		}
+	},
+	{
+		"id": 852,
+		"client_id": 15,
+		"location_id": 820,
+		"json_schema_id": 15,
+		"full_name": "Hogsback",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "ENE",
+			"location": "Fish Creek",
+			"full_name": "Hogsback",
+			"start_elev": 2800,
+			"runout_elev": 1900,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 900
+		}
+	},
+	{
+		"id": 874,
+		"client_id": 15,
+		"location_id": 842,
+		"json_schema_id": 15,
+		"full_name": "Hospital Chutes",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNW",
+			"location": "North Douglas",
+			"full_name": "Hospital Chutes",
+			"start_elev": 2900,
+			"runout_elev": 1100,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1800
+		}
+	},
+	{
+		"id": 824,
+		"client_id": 15,
+		"location_id": 792,
+		"json_schema_id": 15,
+		"full_name": "Icy Gulch",
+		"short_name": "Icy",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "NE",
+			"location": "Perseverance",
+			"full_name": "Icy Gulch",
+			"short_name": "Icy",
+			"start_elev": 3600,
+			"runout_elev": 1100,
+			"location_lat": 58.3,
+			"area_affected": "Perseverance Trail",
+			"location_long": -134.3,
+			"vertical_fall": 2500
+		}
+	},
+	{
+		"id": 887,
+		"client_id": 15,
+		"location_id": 855,
+		"json_schema_id": 15,
+		"full_name": "Jennifers Rock",
+		"short_name": "A-9",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WNW",
+			"location": "Eaglecrest",
+			"full_name": "Jennifers Rock",
+			"short_name": "A-9",
+			"start_elev": 2100,
+			"runout_elev": 1850,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 250
+		}
+	},
+	{
+		"id": 939,
+		"client_id": 15,
+		"location_id": 907,
+		"json_schema_id": 15,
+		"full_name": "Jumbo Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "South Douglas",
+			"full_name": "Jumbo Bowl",
+			"start_elev": 2700,
+			"runout_elev": 1550,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 1150
+		}
+	},
+	{
+		"id": 938,
+		"client_id": 15,
+		"location_id": 906,
+		"json_schema_id": 15,
+		"full_name": "Jumbo Chute",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "South Douglas",
+			"full_name": "Jumbo Chute",
+			"start_elev": 2950,
+			"runout_elev": 1650,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1300
+		}
+	},
+	{
+		"id": 941,
+		"client_id": 15,
+		"location_id": 909,
+		"json_schema_id": 15,
+		"full_name": "Jumbo SE",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SE",
+			"location": "South Douglas",
+			"full_name": "Jumbo SE",
+			"start_elev": 3100,
+			"runout_elev": 1150,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 1950
+		}
+	},
+	{
+		"id": 1154,
+		"client_id": 15,
+		"location_id": 1130,
+		"json_schema_id": 15,
+		"full_name": "Jumbo Summit",
+		"short_name": null,
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "South Douglas",
+			"full_name": "Jumbo Summit",
+			"start_elev": 3100,
+			"runout_elev": 1700,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1400
+		}
+	},
+	{
+		"id": 940,
+		"client_id": 15,
+		"location_id": 908,
+		"json_schema_id": 15,
+		"full_name": "Jumbo Trail Chutes",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "South Douglas",
+			"full_name": "Jumbo Trail Chutes",
+			"start_elev": 2000,
+			"runout_elev": 1000,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1000
+		}
+	},
+	{
+		"id": 911,
+		"client_id": 15,
+		"location_id": 879,
+		"json_schema_id": 15,
+		"full_name": "Jump Shot",
+		"short_name": "D-8",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Jump Shot",
+			"short_name": "D-8",
+			"start_elev": 2500,
+			"runout_elev": 2400,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 100
+		}
+	},
+	{
+		"id": 972,
+		"client_id": 15,
+		"location_id": 940,
+		"json_schema_id": 15,
+		"full_name": "Juneau Ridge NW",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "NW",
+			"location": "Salmon Creek",
+			"full_name": "Juneau Ridge NW",
+			"start_elev": 3500,
+			"runout_elev": 800,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2700
+		}
+	},
+	{
+		"id": 971,
+		"client_id": 15,
+		"location_id": 939,
+		"json_schema_id": 15,
+		"full_name": "Juneau Ridge South",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "S",
+			"location": "Perseverance",
+			"full_name": "Juneau Ridge South",
+			"start_elev": 3800,
+			"runout_elev": 800,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 3000
+		}
+	},
+	{
+		"id": 832,
+		"client_id": 15,
+		"location_id": 800,
+		"json_schema_id": 15,
+		"full_name": "Lake Dorothy Portal",
+		"short_name": "nan",
+		"data": {
+			"zone": "Taku",
+			"aspect": "NNW",
+			"location": "Dorothy",
+			"full_name": "Lake Dorothy Portal",
+			"start_elev": 2800,
+			"runout_elev": 2450,
+			"location_lat": 58.2,
+			"location_long": -134,
+			"vertical_fall": 350
+		}
+	},
+	{
+		"id": 786,
+		"client_id": 15,
+		"location_id": 761,
+		"json_schema_id": 15,
+		"full_name": "Last Chance",
+		"short_name": "T019",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "S",
+			"location": "Perseverance",
+			"full_name": "Last Chance",
+			"short_name": "T019",
+			"start_elev": 1600,
+			"runout_elev": 400,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1200
+		}
+	},
+	{
+		"id": 935,
+		"client_id": 15,
+		"location_id": 903,
+		"json_schema_id": 15,
+		"full_name": "Lawson Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "South Douglas",
+			"full_name": "Lawson Bowl",
+			"start_elev": 3050,
+			"runout_elev": 1850,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 1200
+		}
+	},
+	{
+		"id": 933,
+		"client_id": 15,
+		"location_id": 901,
+		"json_schema_id": 15,
+		"full_name": "Lawson Pull",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SW",
+			"location": "South Douglas",
+			"full_name": "Lawson Pull",
+			"start_elev": 2600,
+			"runout_elev": 2150,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 450
+		}
+	},
+	{
+		"id": 934,
+		"client_id": 15,
+		"location_id": 902,
+		"json_schema_id": 15,
+		"full_name": "Lawson Trees",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "South Douglas",
+			"full_name": "Lawson Trees",
+			"start_elev": 2300,
+			"runout_elev": 1700,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 600
+		}
+	},
+	{
+		"id": 931,
+		"client_id": 15,
+		"location_id": 899,
+		"json_schema_id": 15,
+		"full_name": "Lawson's Banana",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "ESE",
+			"location": "Moller",
+			"full_name": "Lawson's Banana",
+			"start_elev": 2500,
+			"runout_elev": 1400,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 1100
+		}
+	},
+	{
+		"id": 910,
+		"client_id": 15,
+		"location_id": 878,
+		"json_schema_id": 15,
+		"full_name": "Left Shot",
+		"short_name": "D-7",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Left Shot",
+			"short_name": "D-7",
+			"start_elev": 2600,
+			"runout_elev": 2400,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 834,
+		"client_id": 15,
+		"location_id": 802,
+		"json_schema_id": 15,
+		"full_name": "Lieuy Lake",
+		"short_name": "nan",
+		"data": {
+			"zone": "Taku",
+			"aspect": "S",
+			"location": "Dorothy",
+			"full_name": "Lieuy Lake",
+			"start_elev": 4200,
+			"runout_elev": 1750,
+			"location_lat": 58.2,
+			"location_long": -134,
+			"vertical_fall": 2450
+		}
+	},
+	{
+		"id": 1010,
+		"client_id": 15,
+		"location_id": 978,
+		"json_schema_id": 15,
+		"full_name": "Limestone Headwall",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Speel Range",
+			"aspect": "SW",
+			"location": "Limestone Inlet",
+			"full_name": "Limestone Headwall",
+			"start_elev": 2600,
+			"runout_elev": 1300,
+			"location_lat": 58.1,
+			"location_long": -133.9,
+			"vertical_fall": 1300
+		}
+	},
+	{
+		"id": 916,
+		"client_id": 15,
+		"location_id": 884,
+		"json_schema_id": 15,
+		"full_name": "Line Jumper",
+		"short_name": "D-13",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Eaglecrest",
+			"full_name": "Line Jumper",
+			"short_name": "D-13",
+			"start_elev": 2550,
+			"runout_elev": 2300,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 250
+		}
+	},
+	{
+		"id": 952,
+		"client_id": 15,
+		"location_id": 920,
+		"json_schema_id": 15,
+		"full_name": "Little Truckee Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "E",
+			"location": "Fish Creek",
+			"full_name": "Little Truckee Bowl",
+			"start_elev": 3000,
+			"runout_elev": 2200,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 954,
+		"client_id": 15,
+		"location_id": 922,
+		"json_schema_id": 15,
+		"full_name": "Little Truckee Trees",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Fish Creek",
+			"full_name": "Little Truckee Trees",
+			"start_elev": 2500,
+			"runout_elev": 1400,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 1100
+		}
+	},
+	{
+		"id": 822,
+		"client_id": 15,
+		"location_id": 790,
+		"json_schema_id": 15,
+		"full_name": "Long Lake Road Corner",
+		"short_name": "Long Nose",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "NE",
+			"location": "Snettisham",
+			"full_name": "Long Lake Road Corner",
+			"short_name": "Long Nose",
+			"start_elev": 1000,
+			"runout_elev": 700,
+			"location_lat": 58.2,
+			"area_affected": "Long Lake Road",
+			"location_long": -133.7,
+			"vertical_fall": 300
+		}
+	},
+	{
+		"id": 821,
+		"client_id": 15,
+		"location_id": 789,
+		"json_schema_id": 15,
+		"full_name": "Long Lake Road Creek",
+		"short_name": "Long Creek",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "E",
+			"location": "Snettisham",
+			"full_name": "Long Lake Road Creek",
+			"short_name": "Long Creek",
+			"start_elev": 3200,
+			"runout_elev": 300,
+			"location_lat": 58.2,
+			"area_affected": "Long Lake Road",
+			"location_long": -133.8,
+			"vertical_fall": 2900
+		}
+	},
+	{
+		"id": 804,
+		"client_id": 15,
+		"location_id": 777,
+		"json_schema_id": 15,
+		"full_name": "Long Lake Road Cut",
+		"short_name": "Long Alder",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "SE",
+			"location": "Snettisham",
+			"full_name": "Long Lake Road Cut",
+			"short_name": "Long Alder",
+			"start_elev": 1200,
+			"runout_elev": 800,
+			"location_lat": 58.2,
+			"location_long": -133.7,
+			"vertical_fall": 400
+		}
+	},
+	{
+		"id": 823,
+		"client_id": 15,
+		"location_id": 791,
+		"json_schema_id": 15,
+		"full_name": "Long Lake Road Dam",
+		"short_name": "Long Dam",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "NE",
+			"location": "Snettisham",
+			"full_name": "Long Lake Road Dam",
+			"short_name": "Long Dam",
+			"start_elev": 1200,
+			"runout_elev": 400,
+			"location_lat": 58.2,
+			"area_affected": "Long Lake Road",
+			"location_long": -133.7,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 806,
+		"client_id": 15,
+		"location_id": 779,
+		"json_schema_id": 15,
+		"full_name": "Long Lake Road Finger",
+		"short_name": "nan",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "SE",
+			"location": "Snettisham",
+			"full_name": "Long Lake Road Finger",
+			"start_elev": 1400,
+			"runout_elev": 600,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 810,
+		"client_id": 15,
+		"location_id": 782,
+		"json_schema_id": 15,
+		"full_name": "Main Crater Bowl",
+		"short_name": "Crater",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "E",
+			"location": "Crater Peak",
+			"full_name": "Main Crater Bowl",
+			"short_name": "Crater",
+			"start_elev": 4400,
+			"runout_elev": 0,
+			"sig_history": "Caused power disruption in 2008",
+			"location_lat": 58.1,
+			"area_affected": "transmission line",
+			"location_long": -133.8,
+			"vertical_fall": 4400,
+			"descript_start": "Wind exposed ridgeline",
+			"descript_track": "Large bowl that rolls over into trees after a significant bench",
+			"descript_runout": "Deforested from avalanches. Transmission towers removed.",
+			"primary_avy_type": "wind slab"
+		}
+	},
+	{
+		"id": 923,
+		"client_id": 15,
+		"location_id": 891,
+		"json_schema_id": 15,
+		"full_name": "Main Pull",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Moller",
+			"full_name": "Main Pull",
+			"start_elev": 2750,
+			"runout_elev": 2150,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 600
+		}
+	},
+	{
+		"id": 945,
+		"client_id": 15,
+		"location_id": 913,
+		"json_schema_id": 15,
+		"full_name": "McDonough Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "South Douglas",
+			"full_name": "McDonough Bowl",
+			"start_elev": 2600,
+			"runout_elev": 1300,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 1300
+		}
+	},
+	{
+		"id": 1002,
+		"client_id": 15,
+		"location_id": 970,
+		"json_schema_id": 15,
+		"full_name": "McGinnis Gun Range",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "S",
+			"location": "Valley",
+			"full_name": "McGinnis Gun Range",
+			"start_elev": 3200,
+			"runout_elev": 1700,
+			"location_lat": 58.4,
+			"location_long": -134.6,
+			"vertical_fall": 1500
+		}
+	},
+	{
+		"id": 1001,
+		"client_id": 15,
+		"location_id": 969,
+		"json_schema_id": 15,
+		"full_name": "McGinnis SE",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "SE",
+			"location": "Valley",
+			"full_name": "McGinnis SE",
+			"start_elev": 3700,
+			"runout_elev": 1600,
+			"location_lat": 58.4,
+			"location_long": -134.6,
+			"vertical_fall": 2100
+		}
+	},
+	{
+		"id": 1003,
+		"client_id": 15,
+		"location_id": 971,
+		"json_schema_id": 15,
+		"full_name": "McGinnis SW",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "SW",
+			"location": "Valley",
+			"full_name": "McGinnis SW",
+			"start_elev": 4100,
+			"runout_elev": 1700,
+			"location_lat": 58.4,
+			"location_long": -134.6,
+			"vertical_fall": 2400
+		}
+	},
+	{
+		"id": 957,
+		"client_id": 15,
+		"location_id": 925,
+		"json_schema_id": 15,
+		"full_name": "Meek Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNE",
+			"location": "Fish Creek",
+			"full_name": "Meek Bowl",
+			"start_elev": 3000,
+			"runout_elev": 1700,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 1300
+		}
+	},
+	{
+		"id": 958,
+		"client_id": 15,
+		"location_id": 926,
+		"json_schema_id": 15,
+		"full_name": "Meek Bowl Trees",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "Fish Creek",
+			"full_name": "Meek Bowl Trees",
+			"start_elev": 2350,
+			"runout_elev": 1650,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 700
+		}
+	},
+	{
+		"id": 783,
+		"client_id": 15,
+		"location_id": 758,
+		"json_schema_id": 15,
+		"full_name": "Middle",
+		"short_name": "T014",
+		"data": {
+			"full_name": "Middle",
+			"short_name": "T014"
+		}
+	},
+	{
+		"id": 891,
+		"client_id": 15,
+		"location_id": 859,
+		"json_schema_id": 15,
+		"full_name": "Middle Most",
+		"short_name": "AA-2",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WNW",
+			"location": "Eaglecrest",
+			"full_name": "Middle Most",
+			"short_name": "AA-2",
+			"start_elev": 2500,
+			"runout_elev": 2300,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 826,
+		"client_id": 15,
+		"location_id": 794,
+		"json_schema_id": 15,
+		"full_name": "Middle Peak",
+		"short_name": "Middle",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "N",
+			"location": "Hawthorn",
+			"full_name": "Middle Peak",
+			"short_name": "Middle",
+			"start_elev": 3400,
+			"runout_elev": 900,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 2500
+		}
+	},
+	{
+		"id": 794,
+		"client_id": 15,
+		"location_id": 769,
+		"json_schema_id": 15,
+		"full_name": "Mining Museum",
+		"short_name": "J008",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "NW",
+			"location": "Perseverance",
+			"full_name": "Mining Museum",
+			"short_name": "J008",
+			"start_elev": 1800,
+			"runout_elev": 300,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1500
+		}
+	},
+	{
+		"id": 924,
+		"client_id": 15,
+		"location_id": 892,
+		"json_schema_id": 15,
+		"full_name": "Moller Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNW",
+			"location": "Moller",
+			"full_name": "Moller Bowl",
+			"start_elev": 2700,
+			"runout_elev": 2000,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 700
+		}
+	},
+	{
+		"id": 928,
+		"client_id": 15,
+		"location_id": 896,
+		"json_schema_id": 15,
+		"full_name": "Moller Trail",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Moller",
+			"full_name": "Moller Trail",
+			"start_elev": 2300,
+			"runout_elev": 1300,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1000
+		}
+	},
+	{
+		"id": 921,
+		"client_id": 15,
+		"location_id": 889,
+		"json_schema_id": 15,
+		"full_name": "Moller Trees",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SE",
+			"location": "Moller",
+			"full_name": "Moller Trees",
+			"start_elev": 2500,
+			"runout_elev": 1650,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 850
+		}
+	},
+	{
+		"id": 890,
+		"client_id": 15,
+		"location_id": 858,
+		"json_schema_id": 15,
+		"full_name": "Most",
+		"short_name": "AA-1",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Eaglecrest",
+			"full_name": "Most",
+			"short_name": "AA-1",
+			"start_elev": 2600,
+			"runout_elev": 2150,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 450
+		}
+	},
+	{
+		"id": 914,
+		"client_id": 15,
+		"location_id": 882,
+		"json_schema_id": 15,
+		"full_name": "Never Shoot",
+		"short_name": "D-11",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Never Shoot",
+			"short_name": "D-11",
+			"start_elev": 2600,
+			"runout_elev": 2300,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 300
+		}
+	},
+	{
+		"id": 814,
+		"client_id": 15,
+		"location_id": 786,
+		"json_schema_id": 15,
+		"full_name": "North Crater Bowl",
+		"short_name": "Crater North",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "S",
+			"location": "Crater Peak",
+			"full_name": "North Crater Bowl",
+			"short_name": "Crater North",
+			"start_elev": 3800,
+			"runout_elev": 800,
+			"location_lat": 58.1,
+			"location_long": -133.8,
+			"vertical_fall": 3000
+		}
+	},
+	{
+		"id": 991,
+		"client_id": 15,
+		"location_id": 959,
+		"json_schema_id": 15,
+		"full_name": "Nugget Peak SE",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "SE",
+			"location": "Lemon Creek",
+			"full_name": "Nugget Peak SE",
+			"start_elev": 5400,
+			"runout_elev": 3000,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 2400
+		}
+	},
+	{
+		"id": 992,
+		"client_id": 15,
+		"location_id": 960,
+		"json_schema_id": 15,
+		"full_name": "Nugget Ridge South",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "S",
+			"location": "Lemon Creek",
+			"full_name": "Nugget Ridge South",
+			"start_elev": 4600,
+			"runout_elev": 2100,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 2500
+		}
+	},
+	{
+		"id": 976,
+		"client_id": 15,
+		"location_id": 944,
+		"json_schema_id": 15,
+		"full_name": "Observation North",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "N",
+			"location": "Lemon Creek",
+			"full_name": "Observation North",
+			"start_elev": 4750,
+			"runout_elev": 3950,
+			"location_lat": 58.4,
+			"location_long": -134.3,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 975,
+		"client_id": 15,
+		"location_id": 943,
+		"json_schema_id": 15,
+		"full_name": "Observation West",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "W",
+			"location": "Salmon Creek",
+			"full_name": "Observation West",
+			"start_elev": 4700,
+			"runout_elev": 2600,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 2100
+		}
+	},
+	{
+		"id": 915,
+		"client_id": 15,
+		"location_id": 883,
+		"json_schema_id": 15,
+		"full_name": "Odd Ball",
+		"short_name": "D-12",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Eaglecrest",
+			"full_name": "Odd Ball",
+			"short_name": "D-12",
+			"start_elev": 2500,
+			"runout_elev": 2350,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 150
+		}
+	},
+	{
+		"id": 932,
+		"client_id": 15,
+		"location_id": 900,
+		"json_schema_id": 15,
+		"full_name": "Off The Back",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SE",
+			"location": "Moller",
+			"full_name": "Off The Back",
+			"start_elev": 2700,
+			"runout_elev": 2200,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 500
+		}
+	},
+	{
+		"id": 883,
+		"client_id": 15,
+		"location_id": 851,
+		"json_schema_id": 15,
+		"full_name": "Old Eight",
+		"short_name": "A-5",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Old Eight",
+			"short_name": "A-5",
+			"start_elev": 2350,
+			"runout_elev": 1950,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 400
+		}
+	},
+	{
+		"id": 882,
+		"client_id": 15,
+		"location_id": 850,
+		"json_schema_id": 15,
+		"full_name": "Old Seven",
+		"short_name": "A-4",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Fish Creek",
+			"full_name": "Old Seven",
+			"short_name": "A-4",
+			"start_elev": 2300,
+			"runout_elev": 1850,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 450
+		}
+	},
+	{
+		"id": 885,
+		"client_id": 15,
+		"location_id": 853,
+		"json_schema_id": 15,
+		"full_name": "Old Ten",
+		"short_name": "A-7",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNW",
+			"location": "Eaglecrest",
+			"full_name": "Old Ten",
+			"short_name": "A-7",
+			"start_elev": 2200,
+			"runout_elev": 2100,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 100
+		}
+	},
+	{
+		"id": 969,
+		"client_id": 15,
+		"location_id": 937,
+		"json_schema_id": 15,
+		"full_name": "Olds Chutes",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "SE",
+			"location": "Perseverance",
+			"full_name": "Olds Chutes",
+			"start_elev": 3800,
+			"runout_elev": 2900,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 900
+		}
+	},
+	{
+		"id": 968,
+		"client_id": 15,
+		"location_id": 936,
+		"json_schema_id": 15,
+		"full_name": "Olds West",
+		"short_name": "nan",
+		"data": {
+			"full_name": "Olds West"
+		}
+	},
+	{
+		"id": 1074,
+		"client_id": 15,
+		"location_id": 1046,
+		"json_schema_id": 15,
+		"full_name": "Perseverance Trailhead",
+		"short_name": null,
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "S",
+			"location": "Perseverance",
+			"full_name": "Perseverance Trailhead",
+			"start_elev": 1700,
+			"runout_elev": 300,
+			"location_lat": 58.2,
+			"location_long": -134.2,
+			"vertical_fall": 1400
+		}
+	},
+	{
+		"id": 959,
+		"client_id": 15,
+		"location_id": 927,
+		"json_schema_id": 15,
+		"full_name": "Pioneer Road Couloir",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "North Douglas",
+			"full_name": "Pioneer Road Couloir",
+			"start_elev": 2900,
+			"runout_elev": 1000,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 1900
+		}
+	},
+	{
+		"id": 888,
+		"client_id": 15,
+		"location_id": 856,
+		"json_schema_id": 15,
+		"full_name": "Pipe Dream",
+		"short_name": "A-10",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WNW",
+			"location": "Eaglecrest",
+			"full_name": "Pipe Dream",
+			"short_name": "A-10",
+			"start_elev": 2100,
+			"runout_elev": 1900,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 913,
+		"client_id": 15,
+		"location_id": 881,
+		"json_schema_id": 15,
+		"full_name": "Pit Site",
+		"short_name": "D-10",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Pit Site",
+			"short_name": "D-10",
+			"start_elev": 2600,
+			"runout_elev": 2300,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 300
+		}
+	},
+	{
+		"id": 848,
+		"client_id": 15,
+		"location_id": 816,
+		"json_schema_id": 15,
+		"full_name": "Porcupine Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NE",
+			"location": "Fish Creek",
+			"full_name": "Porcupine Bowl",
+			"start_elev": 2800,
+			"runout_elev": 1900,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 900
+		}
+	},
+	{
+		"id": 903,
+		"client_id": 15,
+		"location_id": 871,
+		"json_schema_id": 15,
+		"full_name": "Powder Patch",
+		"short_name": "AA-14",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNW",
+			"location": "Eaglecrest",
+			"full_name": "Powder Patch",
+			"short_name": "AA-14",
+			"start_elev": 2050,
+			"runout_elev": 1900,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 150
+		}
+	},
+	{
+		"id": 776,
+		"client_id": 15,
+		"location_id": null,
+		"json_schema_id": 15,
+		"full_name": "Powerhouse Adit Path",
+		"short_name": "nan",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "SE",
+			"location": "Snettisham",
+			"full_name": "Powerhouse Adit Path",
+			"start_elev": 400,
+			"runout_elev": 0,
+			"location_lat": 58.1,
+			"location_long": -133.7,
+			"vertical_fall": 400
+		}
+	},
+	{
+		"id": 982,
+		"client_id": 15,
+		"location_id": 950,
+		"json_schema_id": 15,
+		"full_name": "Ptarmigan Chutes",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "W",
+			"location": "Lemon Creek",
+			"full_name": "Ptarmigan Chutes",
+			"start_elev": 3900,
+			"runout_elev": 1600,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 2300
+		}
+	},
+	{
+		"id": 978,
+		"client_id": 15,
+		"location_id": 946,
+		"json_schema_id": 15,
+		"full_name": "Ptarmigan Glacier",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "NW",
+			"location": "Lemon Creek",
+			"full_name": "Ptarmigan Glacier",
+			"start_elev": 4500,
+			"runout_elev": 3200,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 1300
+		}
+	},
+	{
+		"id": 944,
+		"client_id": 15,
+		"location_id": 912,
+		"json_schema_id": 15,
+		"full_name": "Ready Bullion Backside",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SE",
+			"location": "South Douglas",
+			"full_name": "Ready Bullion Backside",
+			"start_elev": 2700,
+			"runout_elev": 1950,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 750
+		}
+	},
+	{
+		"id": 942,
+		"client_id": 15,
+		"location_id": 910,
+		"json_schema_id": 15,
+		"full_name": "Ready Bullion Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NE",
+			"location": "South Douglas",
+			"full_name": "Ready Bullion Bowl",
+			"start_elev": 3000,
+			"runout_elev": 2100,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 900
+		}
+	},
+	{
+		"id": 943,
+		"client_id": 15,
+		"location_id": 911,
+		"json_schema_id": 15,
+		"full_name": "Ready Bullion Chutes",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "South Douglas",
+			"full_name": "Ready Bullion Chutes",
+			"start_elev": 2900,
+			"runout_elev": 1100,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 1800
+		}
+	},
+	{
+		"id": 946,
+		"client_id": 15,
+		"location_id": 914,
+		"json_schema_id": 15,
+		"full_name": "Ready Bullion Pocket",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNE",
+			"location": "South Douglas",
+			"full_name": "Ready Bullion Pocket",
+			"start_elev": 2500,
+			"runout_elev": 1000,
+			"location_lat": 58.2,
+			"location_long": -134.4,
+			"vertical_fall": 1500
+		}
+	},
+	{
+		"id": 983,
+		"client_id": 15,
+		"location_id": 951,
+		"json_schema_id": 15,
+		"full_name": "Reservoir Wall",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "N",
+			"location": "Salmon Creek",
+			"full_name": "Reservoir Wall",
+			"start_elev": 2900,
+			"runout_elev": 1100,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 1800
+		}
+	},
+	{
+		"id": 908,
+		"client_id": 15,
+		"location_id": 876,
+		"json_schema_id": 15,
+		"full_name": "Ricky's Ride",
+		"short_name": "D-5",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Ricky's Ride",
+			"short_name": "D-5",
+			"start_elev": 2650,
+			"runout_elev": 2450,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 835,
+		"client_id": 15,
+		"location_id": 803,
+		"json_schema_id": 15,
+		"full_name": "Roberts Basin",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "N",
+			"location": "Perseverance",
+			"full_name": "Roberts Basin",
+			"start_elev": 3800,
+			"runout_elev": 2600,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 1200
+		}
+	},
+	{
+		"id": 897,
+		"client_id": 15,
+		"location_id": 865,
+		"json_schema_id": 15,
+		"full_name": "Rock Cliff",
+		"short_name": "AA-8",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNW",
+			"location": "Eaglecrest",
+			"full_name": "Rock Cliff",
+			"short_name": "AA-8",
+			"start_elev": 2100,
+			"runout_elev": 1900,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 912,
+		"client_id": 15,
+		"location_id": 880,
+		"json_schema_id": 15,
+		"full_name": "Rock Slot",
+		"short_name": "D-9",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNW",
+			"location": "Eaglecrest",
+			"full_name": "Rock Slot",
+			"short_name": "D-9",
+			"start_elev": 2550,
+			"runout_elev": 2300,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 250
+		}
+	},
+	{
+		"id": 866,
+		"client_id": 15,
+		"location_id": 834,
+		"json_schema_id": 15,
+		"full_name": "Saddle Boat",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SSW",
+			"location": "Fish Creek",
+			"full_name": "Saddle Boat",
+			"start_elev": 2900,
+			"runout_elev": 1000,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1900
+		}
+	},
+	{
+		"id": 870,
+		"client_id": 15,
+		"location_id": 838,
+		"json_schema_id": 15,
+		"full_name": "Saddle East",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "E",
+			"location": "North Douglas",
+			"full_name": "Saddle East",
+			"start_elev": 3000,
+			"runout_elev": 1900,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1100
+		}
+	},
+	{
+		"id": 869,
+		"client_id": 15,
+		"location_id": 837,
+		"json_schema_id": 15,
+		"full_name": "Saddle North",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNW",
+			"location": "North Douglas",
+			"full_name": "Saddle North",
+			"start_elev": 3000,
+			"runout_elev": 1700,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1300
+		}
+	},
+	{
+		"id": 880,
+		"client_id": 15,
+		"location_id": 848,
+		"json_schema_id": 15,
+		"full_name": "Sailors",
+		"short_name": "A-2",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Sailors",
+			"short_name": "A-2",
+			"start_elev": 2500,
+			"runout_elev": 2350,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 150
+		}
+	},
+	{
+		"id": 973,
+		"client_id": 15,
+		"location_id": 941,
+		"json_schema_id": 15,
+		"full_name": "Salmon Runs",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "NW",
+			"location": "Salmon Creek",
+			"full_name": "Salmon Runs",
+			"start_elev": 3800,
+			"runout_elev": 1100,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2700
+		}
+	},
+	{
+		"id": 974,
+		"client_id": 15,
+		"location_id": 942,
+		"json_schema_id": 15,
+		"full_name": "Salmon Strips",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "SW",
+			"location": "Salmon Creek",
+			"full_name": "Salmon Strips",
+			"start_elev": 3400,
+			"runout_elev": 1100,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2300
+		}
+	},
+	{
+		"id": 893,
+		"client_id": 15,
+		"location_id": 861,
+		"json_schema_id": 15,
+		"full_name": "Saltys' Shaker",
+		"short_name": "AA-4",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Saltys' Shaker",
+			"short_name": "AA-4",
+			"start_elev": 2350,
+			"runout_elev": 2150,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 779,
+		"client_id": 15,
+		"location_id": 754,
+		"json_schema_id": 15,
+		"full_name": "Satellite Dish",
+		"short_name": "T007",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "SW",
+			"location": "Thane Road",
+			"full_name": "Satellite Dish",
+			"short_name": "T007",
+			"start_elev": 2300,
+			"runout_elev": 250,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 2050
+		}
+	},
+	{
+		"id": 947,
+		"client_id": 15,
+		"location_id": 915,
+		"json_schema_id": 15,
+		"full_name": "Sheep Creek Chutes",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "SE",
+			"location": "Hawthorn",
+			"full_name": "Sheep Creek Chutes",
+			"start_elev": 4100,
+			"runout_elev": 700,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 3400
+		}
+	},
+	{
+		"id": 962,
+		"client_id": 15,
+		"location_id": 930,
+		"json_schema_id": 15,
+		"full_name": "Sheep Proper",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "NW",
+			"location": "Perseverance",
+			"full_name": "Sheep Proper",
+			"start_elev": 4200,
+			"runout_elev": 1200,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 3000
+		}
+	},
+	{
+		"id": 853,
+		"client_id": 15,
+		"location_id": 821,
+		"json_schema_id": 15,
+		"full_name": "Shit For Brains Chutes",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "E",
+			"location": "Fish Creek",
+			"full_name": "Shit For Brains Chutes",
+			"start_elev": 2700,
+			"runout_elev": 2100,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 600
+		}
+	},
+	{
+		"id": 863,
+		"client_id": 15,
+		"location_id": 831,
+		"json_schema_id": 15,
+		"full_name": "Show Boat",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Fish Creek",
+			"full_name": "Show Boat",
+			"start_elev": 2550,
+			"runout_elev": 1200,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1350
+		}
+	},
+	{
+		"id": 864,
+		"client_id": 15,
+		"location_id": 832,
+		"json_schema_id": 15,
+		"full_name": "Show Boat Extremes",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Fish Creek",
+			"full_name": "Show Boat Extremes",
+			"start_elev": 2800,
+			"runout_elev": 1100,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1700
+		}
+	},
+	{
+		"id": 892,
+		"client_id": 15,
+		"location_id": 860,
+		"json_schema_id": 15,
+		"full_name": "Sign Line",
+		"short_name": "AA-3",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WNW",
+			"location": "Eaglecrest",
+			"full_name": "Sign Line",
+			"short_name": "AA-3",
+			"start_elev": 2500,
+			"runout_elev": 2300,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 1155,
+		"client_id": 15,
+		"location_id": 1133,
+		"json_schema_id": 15,
+		"full_name": "Sledders Ridge",
+		"short_name": null,
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "S",
+			"location": "South Douglas",
+			"full_name": "Sledders Ridge",
+			"start_elev": 3000,
+			"runout_elev": 2400,
+			"vertical_fall": 600
+		}
+	},
+	{
+		"id": 861,
+		"client_id": 15,
+		"location_id": 829,
+		"json_schema_id": 15,
+		"full_name": "Slow Boat",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SW",
+			"location": "Fish Creek",
+			"full_name": "Slow Boat",
+			"start_elev": 2300,
+			"runout_elev": 1500,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 813,
+		"client_id": 15,
+		"location_id": 785,
+		"json_schema_id": 15,
+		"full_name": "Snettisham Airstrip Opposite",
+		"short_name": "Snet Air ",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "NE",
+			"location": "Snettisham",
+			"full_name": "Snettisham Airstrip Opposite",
+			"short_name": "Snet Air ",
+			"start_elev": 1600,
+			"runout_elev": 0,
+			"location_lat": 58.1,
+			"location_long": -133.7,
+			"vertical_fall": 1600
+		}
+	},
+	{
+		"id": 805,
+		"client_id": 15,
+		"location_id": 778,
+		"json_schema_id": 15,
+		"full_name": "Snettisham Powerhouse",
+		"short_name": "nan",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "SE",
+			"location": "Snettisham",
+			"full_name": "Snettisham Powerhouse",
+			"start_elev": 400,
+			"runout_elev": 0,
+			"location_lat": 58.1,
+			"location_long": -133.7,
+			"vertical_fall": 400
+		}
+	},
+	{
+		"id": 775,
+		"client_id": 15,
+		"location_id": 751,
+		"json_schema_id": 15,
+		"full_name": "Snowslide Creek",
+		"short_name": "T011",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "SW",
+			"location": "Thane Road",
+			"full_name": "Snowslide Creek",
+			"short_name": "T011",
+			"start_elev": 3200,
+			"runout_elev": 0,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 3200
+		}
+	},
+	{
+		"id": 793,
+		"client_id": 15,
+		"location_id": 768,
+		"json_schema_id": 15,
+		"full_name": "Snowslide Gulch",
+		"short_name": "J007",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "NW",
+			"location": "Perseverance",
+			"full_name": "Snowslide Gulch",
+			"short_name": "J007",
+			"start_elev": 3200,
+			"runout_elev": 300,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2900
+		}
+	},
+	{
+		"id": 922,
+		"client_id": 15,
+		"location_id": 890,
+		"json_schema_id": 15,
+		"full_name": "Soup Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "Moller",
+			"full_name": "Soup Bowl",
+			"start_elev": 2400,
+			"runout_elev": 2200,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 820,
+		"client_id": 15,
+		"location_id": 788,
+		"json_schema_id": 15,
+		"full_name": "South Crater Face",
+		"short_name": "5-2",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "ESE",
+			"location": "Speel Fours",
+			"full_name": "South Crater Face",
+			"short_name": "5-2",
+			"start_elev": 3200,
+			"runout_elev": 0,
+			"location_lat": 58.1,
+			"location_long": -133.8,
+			"vertical_fall": 3200
+		}
+	},
+	{
+		"id": 819,
+		"client_id": 15,
+		"location_id": 787,
+		"json_schema_id": 15,
+		"full_name": "South Crater Shoulder",
+		"short_name": "5-1 ",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "SSE",
+			"location": "Speel Fours",
+			"full_name": "South Crater Shoulder",
+			"short_name": "5-1 ",
+			"start_elev": 2400,
+			"runout_elev": 600,
+			"location_lat": 58.1,
+			"location_long": -133.8,
+			"vertical_fall": 1800
+		}
+	},
+	{
+		"id": 989,
+		"client_id": 15,
+		"location_id": 957,
+		"json_schema_id": 15,
+		"full_name": "Split Thumb South",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "S",
+			"location": "Lemon Creek",
+			"full_name": "Split Thumb South",
+			"start_elev": 5300,
+			"runout_elev": 2500,
+			"location_lat": 58.4,
+			"location_long": -134.3,
+			"vertical_fall": 2800
+		}
+	},
+	{
+		"id": 990,
+		"client_id": 15,
+		"location_id": 958,
+		"json_schema_id": 15,
+		"full_name": "Split Thumb SW",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "SW",
+			"location": "Lemon Creek",
+			"full_name": "Split Thumb SW",
+			"start_elev": 5000,
+			"runout_elev": 3700,
+			"location_lat": 58.4,
+			"location_long": -134.3,
+			"vertical_fall": 1300
+		}
+	},
+	{
+		"id": 902,
+		"client_id": 15,
+		"location_id": 870,
+		"json_schema_id": 15,
+		"full_name": "Steves Ride",
+		"short_name": "AA-13",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNW",
+			"location": "Eaglecrest",
+			"full_name": "Steves Ride",
+			"short_name": "AA-13",
+			"start_elev": 2050,
+			"runout_elev": 1850,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 841,
+		"client_id": 15,
+		"location_id": 809,
+		"json_schema_id": 15,
+		"full_name": "Stewart Extremes",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "ENE",
+			"location": "Fish Creek",
+			"full_name": "Stewart Extremes",
+			"start_elev": 3400,
+			"runout_elev": 2600,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 1005,
+		"client_id": 15,
+		"location_id": 973,
+		"json_schema_id": 15,
+		"full_name": "Stroller Saddle",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "S",
+			"location": "Valley",
+			"full_name": "Stroller Saddle",
+			"start_elev": 4000,
+			"runout_elev": 1600,
+			"location_lat": 58.5,
+			"location_long": -134.6,
+			"vertical_fall": 2400
+		}
+	},
+	{
+		"id": 1004,
+		"client_id": 15,
+		"location_id": 972,
+		"json_schema_id": 15,
+		"full_name": "Stroller White SE",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "SE",
+			"location": "Valley",
+			"full_name": "Stroller White SE",
+			"start_elev": 4700,
+			"runout_elev": 1600,
+			"location_lat": 58.5,
+			"location_long": -134.6,
+			"vertical_fall": 3100
+		}
+	},
+	{
+		"id": 895,
+		"client_id": 15,
+		"location_id": 863,
+		"json_schema_id": 15,
+		"full_name": "Sugar Bowl",
+		"short_name": "AA-6",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Sugar Bowl",
+			"short_name": "AA-6",
+			"start_elev": 2300,
+			"runout_elev": 2150,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 150
+		}
+	},
+	{
+		"id": 850,
+		"client_id": 15,
+		"location_id": 818,
+		"json_schema_id": 15,
+		"full_name": "Sunny Side",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SSW",
+			"location": "Backside",
+			"full_name": "Sunny Side",
+			"start_elev": 3300,
+			"runout_elev": 2400,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1000
+		}
+	},
+	{
+		"id": 792,
+		"client_id": 15,
+		"location_id": 767,
+		"json_schema_id": 15,
+		"full_name": "Sunshine",
+		"short_name": "J006",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "SSE",
+			"location": "Perseverance",
+			"full_name": "Sunshine",
+			"short_name": "J006",
+			"start_elev": 2900,
+			"runout_elev": 300,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2600
+		}
+	},
+	{
+		"id": 953,
+		"client_id": 15,
+		"location_id": 921,
+		"json_schema_id": 15,
+		"full_name": "Super Drool",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NNW",
+			"location": "Fish Creek",
+			"full_name": "Super Drool",
+			"start_elev": 3000,
+			"runout_elev": 1500,
+			"location_lat": 58.3,
+			"location_long": -134.6,
+			"vertical_fall": 1500
+		}
+	},
+	{
+		"id": 909,
+		"client_id": 15,
+		"location_id": 877,
+		"json_schema_id": 15,
+		"full_name": "Sweet Spot",
+		"short_name": "D-6",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WNW",
+			"location": "Eaglecrest",
+			"full_name": "Sweet Spot",
+			"short_name": "D-6",
+			"start_elev": 2700,
+			"runout_elev": 2500,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 200
+		}
+	},
+	{
+		"id": 865,
+		"client_id": 15,
+		"location_id": 833,
+		"json_schema_id": 15,
+		"full_name": "Table Top Boat",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SW",
+			"location": "Fish Creek",
+			"full_name": "Table Top Boat",
+			"start_elev": 3000,
+			"runout_elev": 1000,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 2000
+		}
+	},
+	{
+		"id": 872,
+		"client_id": 15,
+		"location_id": 840,
+		"json_schema_id": 15,
+		"full_name": "Table Top East",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "E",
+			"location": "North Douglas",
+			"full_name": "Table Top East",
+			"start_elev": 3100,
+			"runout_elev": 1550,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1550
+		}
+	},
+	{
+		"id": 871,
+		"client_id": 15,
+		"location_id": 839,
+		"json_schema_id": 15,
+		"full_name": "Table Top North",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "North Douglas",
+			"full_name": "Table Top North",
+			"start_elev": 3100,
+			"runout_elev": 1800,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1300
+		}
+	},
+	{
+		"id": 851,
+		"client_id": 15,
+		"location_id": 819,
+		"json_schema_id": 15,
+		"full_name": "Terrain Trap",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Fish Creek",
+			"full_name": "Terrain Trap",
+			"start_elev": 2800,
+			"runout_elev": 2200,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 600
+		}
+	},
+	{
+		"id": 847,
+		"client_id": 15,
+		"location_id": 815,
+		"json_schema_id": 15,
+		"full_name": "The Gills",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "N",
+			"location": "Fish Creek",
+			"full_name": "The Gills",
+			"start_elev": 3000,
+			"runout_elev": 1400,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1600
+		}
+	},
+	{
+		"id": 859,
+		"client_id": 15,
+		"location_id": 827,
+		"json_schema_id": 15,
+		"full_name": "The Orient",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NE",
+			"location": "Backside",
+			"full_name": "The Orient",
+			"start_elev": 2600,
+			"runout_elev": 1500,
+			"location_lat": 58.2,
+			"location_long": -134.5,
+			"vertical_fall": 1100
+		}
+	},
+	{
+		"id": 996,
+		"client_id": 15,
+		"location_id": 964,
+		"json_schema_id": 15,
+		"full_name": "Thunder Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "WNW",
+			"location": "Nugget Creek",
+			"full_name": "Thunder Bowl",
+			"start_elev": 3500,
+			"runout_elev": 1900,
+			"location_lat": 58.4,
+			"location_long": -134.5,
+			"vertical_fall": 1600
+		}
+	},
+	{
+		"id": 998,
+		"client_id": 15,
+		"location_id": 966,
+		"json_schema_id": 15,
+		"full_name": "Thunder Face",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "W",
+			"location": "Valley",
+			"full_name": "Thunder Face",
+			"start_elev": 2700,
+			"runout_elev": 100,
+			"location_lat": 58.4,
+			"location_long": -134.5,
+			"vertical_fall": 2600
+		}
+	},
+	{
+		"id": 997,
+		"client_id": 15,
+		"location_id": 965,
+		"json_schema_id": 15,
+		"full_name": "Tlaxhsatanjin NW",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "NW",
+			"location": "Nugget Creek",
+			"full_name": "Tlaxhsatanjin NW",
+			"start_elev": 3800,
+			"runout_elev": 2000,
+			"location_lat": 58.4,
+			"location_long": -134.5,
+			"vertical_fall": 1800
+		}
+	},
+	{
+		"id": 994,
+		"client_id": 15,
+		"location_id": 962,
+		"json_schema_id": 15,
+		"full_name": "Tlaxhsatanjin SE",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "SE",
+			"location": "Lemon Creek",
+			"full_name": "Tlaxhsatanjin SE",
+			"start_elev": 3700,
+			"runout_elev": 400,
+			"location_lat": 58.4,
+			"location_long": -134.5,
+			"vertical_fall": 3300
+		}
+	},
+	{
+		"id": 980,
+		"client_id": 15,
+		"location_id": 948,
+		"json_schema_id": 15,
+		"full_name": "Topless Ridge West",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "W",
+			"location": "Lemon Creek",
+			"full_name": "Topless Ridge West",
+			"start_elev": 3950,
+			"runout_elev": 2250,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 1700
+		}
+	},
+	{
+		"id": 803,
+		"client_id": 15,
+		"location_id": 1039,
+		"json_schema_id": 15,
+		"full_name": "Tower 4-1",
+		"short_name": "",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "NE",
+			"location": "Speel Fours",
+			"full_name": "Tower 4-1",
+			"short_name": "",
+			"start_elev": 1200,
+			"runout_elev": 700,
+			"location_lat": 58.1,
+			"area_affected": "Transmission line",
+			"location_long": -133.8,
+			"vertical_fall": 500
+		}
+	},
+	{
+		"id": 815,
+		"client_id": 15,
+		"location_id": 1041,
+		"json_schema_id": 15,
+		"full_name": "Tower 4-2",
+		"short_name": "4-2",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "ENE",
+			"location": "Speel Fours",
+			"full_name": "Tower 4-2",
+			"short_name": "4-2",
+			"start_elev": 1600,
+			"runout_elev": 800,
+			"location_lat": 58.1,
+			"area_affected": "Transmission line",
+			"location_long": -133.8,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 816,
+		"client_id": 15,
+		"location_id": 1043,
+		"json_schema_id": 15,
+		"full_name": "Tower 4-3",
+		"short_name": "4-3",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "ENE",
+			"location": "Speel Fours",
+			"full_name": "Tower 4-3",
+			"short_name": "4-3",
+			"start_elev": 1800,
+			"runout_elev": 0,
+			"location_lat": 58.1,
+			"area_affected": "Transmission line",
+			"location_long": -133.8,
+			"vertical_fall": 1800
+		}
+	},
+	{
+		"id": 817,
+		"client_id": 15,
+		"location_id": 1044,
+		"json_schema_id": 15,
+		"full_name": "Tower 4-4",
+		"short_name": "4-4",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "NE",
+			"comments": "Avalanche diverter and weather station installed",
+			"location": "Speel Fours",
+			"full_name": "Tower 4-4",
+			"short_name": "4-4",
+			"start_elev": 1800,
+			"runout_elev": 0,
+			"sig_history": "Multiple avalanche impacts",
+			"location_lat": 58.1,
+			"area_affected": "Transmission tower",
+			"location_long": -133.8,
+			"vertical_fall": 1800
+		}
+	},
+	{
+		"id": 818,
+		"client_id": 15,
+		"location_id": 1045,
+		"json_schema_id": 15,
+		"full_name": "Tower 4-5",
+		"short_name": "4-5",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "ENE",
+			"comments": "Avalanche diverter installed",
+			"location": "Speel Fours",
+			"full_name": "Tower 4-5",
+			"short_name": "4-5",
+			"start_elev": 1800,
+			"runout_elev": 0,
+			"location_lat": 58.1,
+			"area_affected": "Transmission tower",
+			"location_long": -133.8,
+			"vertical_fall": 1800
+		}
+	},
+	{
+		"id": 802,
+		"client_id": 15,
+		"location_id": 776,
+		"json_schema_id": 15,
+		"full_name": "Tower 4-6",
+		"short_name": "4-6",
+		"data": {
+			"zone": "Speel Arm",
+			"aspect": "ESE",
+			"comments": "Avalanche diverter installed",
+			"location": "Speel Fours",
+			"full_name": "Tower 4-6",
+			"short_name": "4-6",
+			"start_elev": 1900,
+			"runout_elev": 0,
+			"location_lat": 58.1,
+			"area_affected": "Transmission tower",
+			"location_long": -133.8,
+			"vertical_fall": 1900
+		}
+	},
+	{
+		"id": 777,
+		"client_id": 15,
+		"location_id": 752,
+		"json_schema_id": 15,
+		"full_name": "Tram Path",
+		"short_name": "T000",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "SW",
+			"location": "Thane Road",
+			"full_name": "Tram Path",
+			"short_name": "T000",
+			"start_elev": 1700,
+			"runout_elev": 150,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1550
+		}
+	},
+	{
+		"id": 981,
+		"client_id": 15,
+		"location_id": 949,
+		"json_schema_id": 15,
+		"full_name": "Trick or Treat",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "W",
+			"location": "Lemon Creek",
+			"full_name": "Trick or Treat",
+			"start_elev": 4400,
+			"runout_elev": 2400,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 2000
+		}
+	},
+	{
+		"id": 877,
+		"client_id": 15,
+		"location_id": 845,
+		"json_schema_id": 15,
+		"full_name": "Trojan Horse",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "SW",
+			"location": "Backside",
+			"full_name": "Trojan Horse",
+			"start_elev": 3000,
+			"runout_elev": 1450,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1550
+		}
+	},
+	{
+		"id": 876,
+		"client_id": 15,
+		"location_id": 844,
+		"json_schema_id": 15,
+		"full_name": "Troy Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Fish Creek",
+			"full_name": "Troy Bowl",
+			"start_elev": 2800,
+			"runout_elev": 1950,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 850
+		}
+	},
+	{
+		"id": 920,
+		"client_id": 15,
+		"location_id": 888,
+		"json_schema_id": 15,
+		"full_name": "Troy Moller",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "E",
+			"location": "Moller",
+			"full_name": "Troy Moller",
+			"start_elev": 2800,
+			"runout_elev": 1600,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1200
+		}
+	},
+	{
+		"id": 929,
+		"client_id": 15,
+		"location_id": 897,
+		"json_schema_id": 15,
+		"full_name": "Troy Saddle",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NE",
+			"location": "Moller",
+			"full_name": "Troy Saddle",
+			"start_elev": 2700,
+			"runout_elev": 1900,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 800
+		}
+	},
+	{
+		"id": 886,
+		"client_id": 15,
+		"location_id": 854,
+		"json_schema_id": 15,
+		"full_name": "Tugboat",
+		"short_name": "A-8",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Eaglecrest",
+			"full_name": "Tugboat",
+			"short_name": "A-8",
+			"start_elev": 2150,
+			"runout_elev": 1800,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 350
+		}
+	},
+	{
+		"id": 778,
+		"client_id": 15,
+		"location_id": 753,
+		"json_schema_id": 15,
+		"full_name": "Union Oil",
+		"short_name": "T003",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "SW",
+			"location": "Thane Road",
+			"full_name": "Union Oil",
+			"short_name": "T003",
+			"start_elev": 1750,
+			"runout_elev": 150,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 1600
+		}
+	},
+	{
+		"id": 979,
+		"client_id": 15,
+		"location_id": 947,
+		"json_schema_id": 15,
+		"full_name": "Vesper West",
+		"short_name": "nan",
+		"data": {
+			"zone": "Interior Front Range",
+			"aspect": "W",
+			"location": "Lemon Creek",
+			"full_name": "Vesper West",
+			"start_elev": 4400,
+			"runout_elev": 3000,
+			"location_lat": 58.4,
+			"location_long": -134.4,
+			"vertical_fall": 1400
+		}
+	},
+	{
+		"id": 901,
+		"client_id": 15,
+		"location_id": 869,
+		"json_schema_id": 15,
+		"full_name": "Waterfall Gulley",
+		"short_name": "AA-12",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WNW",
+			"location": "Eaglecrest",
+			"full_name": "Waterfall Gulley",
+			"short_name": "AA-12",
+			"start_elev": 2000,
+			"runout_elev": 1850,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 150
+		}
+	},
+	{
+		"id": 900,
+		"client_id": 15,
+		"location_id": 868,
+		"json_schema_id": 15,
+		"full_name": "Waterfall Left",
+		"short_name": "AA-11",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Waterfall Left",
+			"short_name": "AA-11",
+			"start_elev": 2100,
+			"runout_elev": 1800,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 300
+		}
+	},
+	{
+		"id": 899,
+		"client_id": 15,
+		"location_id": 867,
+		"json_schema_id": 15,
+		"full_name": "Waterfall Right",
+		"short_name": "AA-10",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WNW",
+			"location": "Eaglecrest",
+			"full_name": "Waterfall Right",
+			"short_name": "AA-10",
+			"start_elev": 2100,
+			"runout_elev": 1800,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 300
+		}
+	},
+	{
+		"id": 840,
+		"client_id": 15,
+		"location_id": 808,
+		"json_schema_id": 15,
+		"full_name": "Wedding Bowl",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NE",
+			"location": "Fish Creek",
+			"full_name": "Wedding Bowl",
+			"start_elev": 3300,
+			"runout_elev": 2200,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1100
+		}
+	},
+	{
+		"id": 780,
+		"client_id": 15,
+		"location_id": 755,
+		"json_schema_id": 15,
+		"full_name": "West AJ",
+		"short_name": "T008",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "SW",
+			"location": "Thane Road",
+			"full_name": "West AJ",
+			"short_name": "T008",
+			"start_elev": 2400,
+			"runout_elev": 0,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2400
+		}
+	},
+	{
+		"id": 856,
+		"client_id": 15,
+		"location_id": 824,
+		"json_schema_id": 15,
+		"full_name": "West Hogs",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "WSW",
+			"location": "Backside",
+			"full_name": "West Hogs",
+			"start_elev": 2700,
+			"runout_elev": 1200,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 1500
+		}
+	},
+	{
+		"id": 927,
+		"client_id": 15,
+		"location_id": 895,
+		"json_schema_id": 15,
+		"full_name": "West Moller Ridge Alders",
+		"short_name": "nan",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "W",
+			"location": "Moller",
+			"full_name": "West Moller Ridge Alders",
+			"start_elev": 2400,
+			"runout_elev": 1450,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 950
+		}
+	},
+	{
+		"id": 827,
+		"client_id": 15,
+		"location_id": 795,
+		"json_schema_id": 15,
+		"full_name": "West Peak",
+		"short_name": "West",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "W",
+			"location": "Hawthorn",
+			"full_name": "West Peak",
+			"short_name": "West",
+			"start_elev": 3500,
+			"runout_elev": 2400,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 1100
+		}
+	},
+	{
+		"id": 828,
+		"client_id": 15,
+		"location_id": 796,
+		"json_schema_id": 15,
+		"full_name": "West Peak North",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "NNW",
+			"location": "Hawthorn",
+			"full_name": "West Peak North",
+			"start_elev": 3400,
+			"runout_elev": 900,
+			"location_lat": 58.3,
+			"location_long": -134.3,
+			"vertical_fall": 2500
+		}
+	},
+	{
+		"id": 830,
+		"client_id": 15,
+		"location_id": 798,
+		"json_schema_id": 15,
+		"full_name": "West Peak South East",
+		"short_name": "nan",
+		"data": {
+			"zone": "Gastineau Channel",
+			"aspect": "SE",
+			"location": "Hawthorn",
+			"full_name": "West Peak South East",
+			"start_elev": 3400,
+			"runout_elev": 900,
+			"location_lat": 58.2,
+			"location_long": -134.2,
+			"vertical_fall": 2500
+		}
+	},
+	{
+		"id": 800,
+		"client_id": 15,
+		"location_id": 775,
+		"json_schema_id": 15,
+		"full_name": "White",
+		"short_name": "J015",
+		"data": {
+			"zone": "Mt Juneau",
+			"aspect": "W",
+			"location": "Egan",
+			"full_name": "White",
+			"short_name": "J015",
+			"start_elev": 2400,
+			"runout_elev": 0,
+			"location_lat": 58.3,
+			"location_long": -134.4,
+			"vertical_fall": 2400
+		}
+	},
+	{
+		"id": 884,
+		"client_id": 15,
+		"location_id": 852,
+		"json_schema_id": 15,
+		"full_name": "Willie",
+		"short_name": "A-6",
+		"data": {
+			"zone": "Douglas Island",
+			"aspect": "NW",
+			"location": "Eaglecrest",
+			"full_name": "Willie",
+			"short_name": "A-6",
+			"start_elev": 2250,
+			"runout_elev": 2150,
+			"location_lat": 58.3,
+			"location_long": -134.5,
+			"vertical_fall": 100
+		}
+	},
+	{
+		"id": 1009,
+		"client_id": 15,
+		"location_id": 977,
+		"json_schema_id": 15,
+		"full_name": "Windfall Face",
+		"short_name": "nan",
+		"data": {
+			"zone": "Herbert",
+			"aspect": "W",
+			"location": "Windfall Lake",
+			"full_name": "Windfall Face",
+			"start_elev": 3500,
+			"runout_elev": 1400,
+			"location_lat": 58.5,
+			"location_long": -134.7,
+			"vertical_fall": 2100
+		}
+	},
+	{
+		"id": 1000,
+		"client_id": 15,
+		"location_id": 968,
+		"json_schema_id": 15,
+		"full_name": "Wrather Face",
+		"short_name": "nan",
+		"data": {
+			"zone": "Mendenhall",
+			"aspect": "SW",
+			"location": "Valley",
+			"full_name": "Wrather Face",
+			"start_elev": 5700,
+			"runout_elev": 2000,
+			"location_lat": 58.5,
+			"location_long": -134.5,
+			"vertical_fall": 3700
+		}
+	}
+]
