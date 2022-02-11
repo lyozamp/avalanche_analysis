@@ -1,0 +1,2315 @@
+[
+	{
+		"id": 66,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 775,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-01-13 15:00:00",
+		"data": {
+			"path_aspect": "WNW",
+			"est_date_time": "2019-01-13 12:00:00",
+			"obs_date_time": "2019-01-13 15:00:00",
+			"relative_size": 1,
+			"avalanche_type": "U",
+			"destructive_size": 1,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 67,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 793,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-02-02 14:00:00",
+		"data": {
+			"slab_width": 50,
+			"path_aspect": "WSW",
+			"est_date_time": "2019-02-02 06:00:00",
+			"obs_date_time": "2019-02-02 14:00:00",
+			"path_location": "top left",
+			"relative_size": 1,
+			"avalanche_type": "HS",
+			"path_elevation": "2700",
+			"slab_thickness": 50,
+			"destructive_size": 1,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 68,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 793,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-02-08 09:00:00",
+		"data": {
+			"comments": "observed flying over headed to Snettisham for fieldwork; moderate N winds transporting snow",
+			"slab_type": "windslab",
+			"slab_width": 100,
+			"weak_layer": "new snow",
+			"bed_surface": "old snow surface",
+			"path_aspect": "WNW",
+			"est_date_time": "2019-02-08 06:00:00",
+			"obs_date_time": "2019-02-08 09:00:00",
+			"path_location": "bottom center",
+			"relative_size": 1.5,
+			"avalanche_type": "SS",
+			"path_elevation": "1800",
+			"slab_thickness": 30,
+			"destructive_size": 1,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 69,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 784,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-02-28 06:00:00",
+		"data": {
+			"comments": "Observed first by Dustin Carrol, morning of DOT daisybell mission. Slide occurred pre-mission. Slab width, vertical and elevation in feet.",
+			"slab_type": "Wind Slab",
+			"slab_width": 500,
+			"path_aspect": "SW",
+			"est_date_time": "2019-02-28 06:00:00",
+			"obs_date_time": "2019-02-28 06:00:00",
+			"path_location": "Roberts-Gastineau Saddle",
+			"relative_size": 3,
+			"vertical_fall": 1400,
+			"avalanche_type": "HS",
+			"path_elevation": "2800",
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 70,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 793,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-02-22 08:30:00",
+		"data": {
+			"comments": "Slid at beginning of massive outflow event, possibly during storm. Observed from Douglas Breeze In. Crown disappeared within first two days of wind. Debris observed 2/26 at Gold Creek level. Slab Thickness in cm. Width, vertical and elevation in feet.",
+			"slab_width": 300,
+			"path_aspect": "NW",
+			"est_date_time": "2019-02-22 08:30:00",
+			"obs_date_time": "2019-02-22 08:30:00",
+			"path_location": "Windward  N shoulder",
+			"vertical_fall": 2000,
+			"avalanche_type": "SS",
+			"path_elevation": "2400",
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 71,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 792,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-02-23 08:30:00",
+		"data": {
+			"comments": "Timelapse video of \\\\\"Downtown Juneau from Douglas Island at 475ft elevation\\\\\" on thesnowcloud.com showed slide occured at 08:30 and powderblast hit Perseverance Trail. High hazard on Gold Creek paths.",
+			"slab_type": "Wind Slab going SS to HS",
+			"slab_width": 400,
+			"path_aspect": "SSW",
+			"est_date_time": "2019-02-23 08:30:00",
+			"obs_date_time": "2019-02-23 08:30:00",
+			"path_location": "Below main top cliff bench",
+			"vertical_fall": 2600,
+			"avalanche_type": "SS",
+			"path_elevation": "3000",
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 72,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 807,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-03-03 06:00:00",
+		"data": {
+			"comments": "4th shot of Daisybell mission",
+			"slab_type": "hard slab ",
+			"slab_width": 80,
+			"weak_layer": "Facet sandwich",
+			"bed_surface": "Meltfreeze Crust",
+			"path_aspect": "W",
+			"est_date_time": "2019-02-26 13:00:00",
+			"obs_date_time": "2019-03-03 06:00:00",
+			"path_location": "Main central path of the face",
+			"relative_size": 2,
+			"vertical_fall": 500,
+			"avalanche_type": "HS",
+			"path_elevation": "2720",
+			"slab_thickness": 80,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "AX"
+		}
+	},
+	{
+		"id": 73,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 807,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-03-03 06:00:00",
+		"data": {
+			"comments": "3rd shot of Daisybell mission",
+			"slab_type": "hard slab ",
+			"slab_width": 80,
+			"weak_layer": "Facet sandwich",
+			"bed_surface": "Meltfreeze Crust",
+			"path_aspect": "W",
+			"est_date_time": "2019-02-26 13:00:00",
+			"obs_date_time": "2019-03-03 06:00:00",
+			"path_location": "Bottom lookers-right pocket",
+			"relative_size": 2,
+			"vertical_fall": 500,
+			"avalanche_type": "HS",
+			"path_elevation": "2650",
+			"slab_thickness": 80,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "AX"
+		}
+	},
+	{
+		"id": 74,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 809,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-02-08 10:00:00",
+		"data": {
+			"comments": "Rapid wind stripping of light new snow creating isolated ribs of touchy windslab",
+			"slab_type": "wind slab",
+			"slab_width": 50,
+			"weak_layer": "Facet sandwich",
+			"bed_surface": "Meltfreeze Crust",
+			"path_aspect": "E",
+			"est_date_time": "2019-02-08 10:00:00",
+			"obs_date_time": "2019-02-08 10:00:00",
+			"path_location": "Upper pocket, above bowl",
+			"relative_size": 1,
+			"vertical_fall": 100,
+			"avalanche_type": "SS",
+			"path_elevation": "2630",
+			"slab_thickness": 75,
+			"destructive_size": 1,
+			"avalanche_trigger": "AR"
+		}
+	},
+	{
+		"id": 75,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 808,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-02-08 13:00:00",
+		"data": {
+			"slab_type": "soft slab",
+			"slab_width": 20,
+			"weak_layer": "Facet sandwich",
+			"bed_surface": "Meltfreeze Crust",
+			"path_aspect": "W",
+			"est_date_time": "2019-02-08 13:00:00",
+			"obs_date_time": "2019-02-08 13:00:00",
+			"path_location": "Lowest wind quarterpipe",
+			"relative_size": 1,
+			"vertical_fall": 50,
+			"avalanche_type": "SS",
+			"path_elevation": "3000",
+			"slab_thickness": 45,
+			"destructive_size": 0.5,
+			"avalanche_trigger": "AR"
+		}
+	},
+	{
+		"id": 76,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 809,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-02-20 12:00:00",
+		"data": {
+			"comments": "Last Daisybell result of mission. Profile dug adjacent to crown.",
+			"slab_type": "soft slab",
+			"slab_width": 50,
+			"weak_layer": "Preserved Graupel snow grains",
+			"bed_surface": "Meltfreeze Crust",
+			"path_aspect": "E",
+			"est_date_time": "2019-02-20 11:00:00",
+			"obs_date_time": "2019-02-20 12:00:00",
+			"path_location": "Main central path of bowl",
+			"relative_size": 2,
+			"vertical_fall": 400,
+			"avalanche_type": "SS",
+			"path_elevation": "2320",
+			"slab_thickness": 70,
+			"destructive_size": 2,
+			"avalanche_trigger": "AX"
+		}
+	},
+	{
+		"id": 77,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 782,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-02-20 11:00:00",
+		"data": {
+			"comments": "Swept rider off his feet. Touchy ridgeline windslab ski cut nearby.",
+			"slab_type": "wind slab",
+			"slab_width": 150,
+			"path_aspect": "ESE",
+			"est_date_time": "2019-02-20 11:00:00",
+			"obs_date_time": "2019-02-20 11:00:00",
+			"path_location": "Along ridgeline",
+			"relative_size": 1,
+			"vertical_fall": 150,
+			"avalanche_type": "HS",
+			"path_elevation": "3600",
+			"slab_thickness": 30,
+			"destructive_size": 1,
+			"avalanche_trigger": "AS"
+		}
+	},
+	{
+		"id": 78,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 793,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-03-18 14:30:00",
+		"data": {
+			"comments": "Multiple step-down/secondary slabs",
+			"slab_width": 300,
+			"path_aspect": "NW",
+			"est_date_time": "2019-03-17 06:00:00",
+			"obs_date_time": "2019-03-18 14:30:00",
+			"path_location": "Gastineau Gold Ridge",
+			"relative_size": 2,
+			"vertical_fall": 2400,
+			"avalanche_type": "WS",
+			"path_elevation": "3000",
+			"slab_thickness": 30,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 79,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 790,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-03-18 15:00:00",
+		"data": {
+			"comments": "multiple crowns in area",
+			"slab_width": 300,
+			"path_aspect": "NW",
+			"est_date_time": "2019-03-17 06:00:00",
+			"obs_date_time": "2019-03-18 15:00:00",
+			"path_location": "Backside Mt Juneau Salmon side",
+			"relative_size": 2,
+			"vertical_fall": 800,
+			"avalanche_type": "WS",
+			"path_elevation": "3400",
+			"slab_thickness": 100,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 80,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 824,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-03-19 10:00:00",
+		"data": {
+			"comments": "Ridgline and midbowl releases long propagations",
+			"slab_width": 500,
+			"path_aspect": "NE",
+			"est_date_time": "2019-03-17 10:00:00",
+			"obs_date_time": "2019-03-19 10:00:00",
+			"path_location": "Northside Gastineau",
+			"relative_size": 3,
+			"vertical_fall": 2000,
+			"avalanche_type": "WS",
+			"path_elevation": "3600",
+			"slab_thickness": 50,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 81,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 825,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-03-19 10:00:00",
+		"data": {
+			"comments": "Multiple stepdowns and secondary slides",
+			"slab_width": 500,
+			"path_aspect": "NNW",
+			"est_date_time": "2019-03-17 06:00:00",
+			"obs_date_time": "2019-03-19 10:00:00",
+			"path_location": "Main bowl off the peak ridge",
+			"relative_size": 2,
+			"vertical_fall": 2600,
+			"avalanche_type": "WS",
+			"path_elevation": "3800",
+			"slab_thickness": 50,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 82,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 826,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-03-19 10:00:00",
+		"data": {
+			"slab_width": 100,
+			"path_aspect": "N",
+			"est_date_time": "2019-03-17 06:00:00",
+			"obs_date_time": "2019-03-19 10:00:00",
+			"path_location": "westside halfway down",
+			"relative_size": 1,
+			"vertical_fall": 600,
+			"avalanche_type": "WS",
+			"path_elevation": "3200",
+			"slab_thickness": 50,
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 83,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 827,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-03-19 10:00:00",
+		"data": {
+			"slab_width": 50,
+			"path_aspect": "NW",
+			"est_date_time": "2019-03-17 06:00:00",
+			"obs_date_time": "2019-03-19 10:00:00",
+			"path_location": "north of south rib main bowl",
+			"relative_size": 1,
+			"vertical_fall": 600,
+			"avalanche_type": "WS",
+			"path_elevation": "3000",
+			"slab_thickness": 30,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 84,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 811,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-03-19 10:15:00",
+		"data": {
+			"comments": "entire north face of bride",
+			"slab_width": 5000,
+			"path_aspect": "N",
+			"est_date_time": "2019-03-17 06:00:00",
+			"obs_date_time": "2019-03-19 10:15:00",
+			"path_location": "across from snettisham camp",
+			"relative_size": 4,
+			"vertical_fall": 4000,
+			"avalanche_type": "WS",
+			"path_elevation": "4000",
+			"slab_thickness": 100,
+			"destructive_size": 3.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 85,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 782,
+		"json_schema_id": 34,
+		"obs_date_time": "2019-03-19 10:15:00",
+		"data": {
+			"comments": "Propagation cracks between two slides indicate simultaneous release, therefore calling it one whole avalanche",
+			"slab_type": "Wet",
+			"slab_width": 6500,
+			"weak_layer": "NSFacets / Meltforms",
+			"bed_surface": "Ice - Rain Crust",
+			"path_aspect": "ENE",
+			"est_date_time": "2019-03-19 10:15:00",
+			"obs_date_time": "2019-03-19 10:15:00",
+			"path_location": "Middle and North paths",
+			"relative_size": 3,
+			"vertical_fall": 3000,
+			"avalanche_type": "WS",
+			"path_elevation": "3700",
+			"slab_thickness": 105,
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 86,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 790,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-01-25 16:00:00",
+		"data": {
+			"comments": "Reported by Steve Sano who saw the powdercloud hit the flume from basin road",
+			"path_aspect": "S",
+			"est_date_time": "2020-01-25 16:00:00",
+			"obs_date_time": "2020-01-25 16:00:00",
+			"path_location": "Perseverance",
+			"relative_size": 1,
+			"avalanche_type": "U",
+			"path_elevation": "3000",
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 87,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 849,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-01-15 12:00:00",
+		"data": {
+			"comments": "Reported by Matt Callahan who triggered it and sent an email to Pat Dryer with photos",
+			"slab_width": 100,
+			"path_aspect": "SSE",
+			"est_date_time": "2020-02-04 06:00:00",
+			"obs_date_time": "2020-01-15 12:00:00",
+			"path_location": "Stuart",
+			"relative_size": 3,
+			"vertical_fall": 50,
+			"avalanche_type": "HS",
+			"path_elevation": "2800",
+			"slab_thickness": 30,
+			"destructive_size": 2,
+			"avalanche_trigger": "AS"
+		}
+	},
+	{
+		"id": 88,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 971,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-01-17 11:00:00",
+		"data": {
+			"comments": "Observed from Roberts trail the day after major wind event that knocked down mny trees on the trail",
+			"path_aspect": "S",
+			"est_date_time": "2020-01-16 06:00:00",
+			"obs_date_time": "2020-01-17 11:00:00",
+			"path_location": "Perseverance",
+			"relative_size": 2,
+			"avalanche_type": "HS",
+			"path_elevation": "3200",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 89,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 994,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-01-14 13:00:00",
+		"data": {
+			"comments": "Glide slide all the way to the ground, triggered secondary slide to the ground lower down in the path. date of event uncertain",
+			"path_aspect": "S",
+			"est_date_time": "2020-01-02 13:00:00",
+			"obs_date_time": "2020-01-14 13:00:00",
+			"path_location": "Lemon Creek",
+			"relative_size": 2,
+			"avalanche_type": "HS",
+			"path_elevation": "2500",
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 90,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 993,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-01-14 13:00:00",
+		"data": {
+			"comments": "wind slab",
+			"path_aspect": "SW",
+			"est_date_time": "2020-01-14 06:00:00",
+			"obs_date_time": "2020-01-14 13:00:00",
+			"path_location": "Lemon Creek",
+			"relative_size": 1,
+			"avalanche_type": "SS",
+			"path_elevation": "3000",
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 91,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 836,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-01-14 14:00:00",
+		"data": {
+			"comments": "wind slab",
+			"path_aspect": "NNW",
+			"est_date_time": "2020-01-14 06:00:00",
+			"obs_date_time": "2020-01-14 14:00:00",
+			"path_location": "Tram Ridge",
+			"relative_size": 2,
+			"avalanche_type": "SS",
+			"path_elevation": "2500",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 92,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 864,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-01-31 13:30:00",
+		"data": {
+			"comments": "may have been deeper and filled in before observed",
+			"path_aspect": "W",
+			"est_date_time": "2020-01-31 06:00:00",
+			"obs_date_time": "2020-01-31 13:30:00",
+			"path_location": "Fish Creek",
+			"relative_size": 2,
+			"avalanche_type": "SS",
+			"path_elevation": "2000",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 93,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 864,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-01-31 13:30:00",
+		"data": {
+			"comments": "thinner slab at similar elevation in a different chute",
+			"path_aspect": "NW",
+			"est_date_time": "2020-01-31 06:00:00",
+			"obs_date_time": "2020-01-31 13:30:00",
+			"path_location": "Fish Creek",
+			"relative_size": 2,
+			"avalanche_type": "SS",
+			"path_elevation": "2000",
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 94,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 1010,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-02 11:00:00",
+		"data": {
+			"path_aspect": "SW",
+			"est_date_time": "2020-02-01 06:00:00",
+			"obs_date_time": "2020-02-02 11:00:00",
+			"path_location": "Limestone Inlet",
+			"relative_size": 2,
+			"avalanche_type": "SS",
+			"path_elevation": "2600",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 95,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 1011,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-02 11:00:00",
+		"data": {
+			"path_aspect": "S",
+			"est_date_time": "2020-02-02 06:00:00",
+			"obs_date_time": "2020-02-02 11:00:00",
+			"path_location": "Limestone Inlet",
+			"relative_size": 2,
+			"avalanche_type": "SS",
+			"path_elevation": "2000",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 96,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 814,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-02 13:00:00",
+		"data": {
+			"path_aspect": "SW",
+			"est_date_time": "2020-02-02 06:00:00",
+			"obs_date_time": "2020-02-02 13:00:00",
+			"path_location": "Crater Peak",
+			"relative_size": 2,
+			"avalanche_type": "SS",
+			"path_elevation": "3200",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 97,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 817,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-02 14:00:00",
+		"data": {
+			"comments": "Multiple small surface slabs triggered by Daisy Bell before battery died.",
+			"path_aspect": "ENE",
+			"est_date_time": "2020-02-02 14:00:00",
+			"obs_date_time": "2020-02-02 14:00:00",
+			"path_location": "Speel Fours",
+			"relative_size": 2,
+			"avalanche_type": "SS",
+			"path_elevation": "1600",
+			"destructive_size": 1.5,
+			"avalanche_trigger": "AB"
+		}
+	},
+	{
+		"id": 98,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 775,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-02 15:00:00",
+		"data": {
+			"comments": "Multiple small surface loose slides triggered by DOT Daisy Bell.",
+			"path_aspect": "W",
+			"est_date_time": "2020-02-02 13:00:00",
+			"obs_date_time": "2020-02-02 15:00:00",
+			"path_location": "Thane",
+			"relative_size": 1,
+			"avalanche_type": "L",
+			"path_elevation": "3000",
+			"destructive_size": 0.5,
+			"avalanche_trigger": "AB"
+		}
+	},
+	{
+		"id": 99,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 793,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-06 10:00:00",
+		"data": {
+			"comments": "Small slab entrained lots of snow on the way down and developed a significant debris pile at the runout.",
+			"path_aspect": "NW",
+			"est_date_time": "2020-02-04 06:00:00",
+			"obs_date_time": "2020-02-06 10:00:00",
+			"path_location": "Perseverance",
+			"relative_size": 1,
+			"avalanche_type": "WL",
+			"path_elevation": "1600",
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 100,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 794,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-06 10:00:00",
+		"data": {
+			"path_aspect": "NW",
+			"est_date_time": "2020-02-04 06:00:00",
+			"obs_date_time": "2020-02-06 10:00:00",
+			"path_location": "Perseverance",
+			"relative_size": 2,
+			"avalanche_type": "WL",
+			"path_elevation": "1200",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 101,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 793,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-12 06:00:00",
+		"data": {
+			"comments": "Natural noted as filled in; could have been from the 9th or 10th. Debris down into Gully; not sure how far down it went.",
+			"slab_type": "U",
+			"slab_width": 500,
+			"weak_layer": "U",
+			"bed_surface": "U",
+			"path_aspect": "WNW",
+			"est_date_time": "2020-02-10 06:00:00",
+			"obs_date_time": "2020-02-12 06:00:00",
+			"path_location": "Perseverence",
+			"relative_size": 2,
+			"vertical_fall": 2500,
+			"avalanche_type": "SS",
+			"destructive_size": 3,
+			"avalanche_trigger": "NC"
+		}
+	},
+	{
+		"id": 102,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 939,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-11 06:00:00",
+		"data": {
+			"comments": "Visible across the Channel; can't see runout. Included pockets above the rock band.",
+			"slab_type": "U",
+			"slab_width": 1200,
+			"weak_layer": "U",
+			"bed_surface": "U",
+			"path_aspect": "N",
+			"est_date_time": "2020-02-10 06:00:00",
+			"obs_date_time": "2020-02-11 06:00:00",
+			"path_location": "South Douglas",
+			"relative_size": 2,
+			"avalanche_type": "SS",
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 103,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 857,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-09 17:00:00",
+		"data": {
+			"path_aspect": "NNE",
+			"est_date_time": "2020-02-09 06:00:00",
+			"obs_date_time": "2020-02-09 17:00:00",
+			"path_location": "Fish Creek",
+			"relative_size": 3,
+			"avalanche_type": "HS",
+			"path_elevation": "2900",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 104,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 863,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-09 17:00:00",
+		"data": {
+			"path_aspect": "WNW",
+			"est_date_time": "2020-02-09 06:00:00",
+			"obs_date_time": "2020-02-09 17:00:00",
+			"path_location": "Fish Creek",
+			"relative_size": 1,
+			"avalanche_type": "SS",
+			"path_elevation": "2000",
+			"destructive_size": 1,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 105,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 775,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-11 14:00:00",
+		"data": {
+			"comments": "Two shots from DOT cleared out storm slab from the previous day",
+			"slab_type": "storm slab",
+			"slab_width": 300,
+			"path_aspect": "SW",
+			"est_date_time": "2020-02-11 14:00:00",
+			"obs_date_time": "2020-02-11 14:00:00",
+			"path_location": "Thane Road",
+			"relative_size": 3,
+			"vertical_fall": 3100,
+			"avalanche_type": "SS",
+			"path_elevation": "3200",
+			"slab_thickness": 40,
+			"destructive_size": 3,
+			"avalanche_trigger": "AB"
+		}
+	},
+	{
+		"id": 106,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 784,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-11 14:00:00",
+		"data": {
+			"comments": "One shot from DOT cleared out storm slab from the previous day",
+			"slab_type": "storm slab",
+			"slab_width": 300,
+			"path_aspect": "WSW",
+			"est_date_time": "2020-02-11 14:00:00",
+			"obs_date_time": "2020-02-11 14:00:00",
+			"path_location": "Thane Road",
+			"relative_size": 3,
+			"vertical_fall": 1200,
+			"avalanche_type": "SS",
+			"path_elevation": "2800",
+			"slab_thickness": 40,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "AB"
+		}
+	},
+	{
+		"id": 107,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 938,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-11 16:00:00",
+		"data": {
+			"comments": "Scoped from downtown, also could see a slab crown just below the peak above the cliffs. No debris visible.",
+			"path_aspect": "N",
+			"est_date_time": "2020-02-11 06:00:00",
+			"obs_date_time": "2020-02-11 16:00:00",
+			"path_location": "South Douglas",
+			"relative_size": 2,
+			"avalanche_type": "SS",
+			"path_elevation": "2600",
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 108,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 790,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-12 12:00:00",
+		"data": {
+			"comments": "Powdercloud hit the flume, observed by Johnny B and on thesnowcloud.com timelapse at 09:30",
+			"slab_type": "storm slab",
+			"slab_width": 100,
+			"path_aspect": "SSW",
+			"est_date_time": "2020-02-12 09:00:00",
+			"obs_date_time": "2020-02-12 12:00:00",
+			"path_location": "Perseverance",
+			"relative_size": 2,
+			"vertical_fall": 2400,
+			"avalanche_type": "SS",
+			"path_elevation": "2800",
+			"slab_thickness": 40,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 109,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 943,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-24 10:00:00",
+		"data": {
+			"slab_width": 300,
+			"path_aspect": "NE",
+			"est_date_time": "2020-02-24 06:00:00",
+			"obs_date_time": "2020-02-24 10:00:00",
+			"path_location": "South Douglas",
+			"relative_size": 2,
+			"vertical_fall": 800,
+			"avalanche_type": "SS",
+			"path_elevation": "2200",
+			"slab_thickness": 50,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 110,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 832,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-24 10:00:00",
+		"data": {
+			"slab_width": 20,
+			"path_aspect": "NW",
+			"est_date_time": "2020-02-23 06:00:00",
+			"obs_date_time": "2020-02-24 10:00:00",
+			"path_location": "Dorothy",
+			"relative_size": 1,
+			"vertical_fall": 100,
+			"avalanche_type": "SS",
+			"path_elevation": "2600",
+			"slab_thickness": 20,
+			"destructive_size": 1,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 111,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 775,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-26 06:00:00",
+		"data": {
+			"comments": "Largest result of the short weather window for DOT daisybell. Powdercloud hit the road. A few smaller pockets released as well. Unable to reach Cross Bay Creek before weather moved in.",
+			"slab_type": "Storm",
+			"slab_width": 200,
+			"path_aspect": "SW",
+			"est_date_time": "2020-02-26 06:00:00",
+			"obs_date_time": "2020-02-26 06:00:00",
+			"path_location": "Thane Road",
+			"relative_size": 2,
+			"vertical_fall": 3200,
+			"avalanche_type": "SS",
+			"path_elevation": "3200",
+			"slab_thickness": 50,
+			"destructive_size": 2,
+			"avalanche_trigger": "AB"
+		}
+	},
+	{
+		"id": 112,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 790,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-26 06:00:00",
+		"data": {
+			"comments": "Slide heard by linecrew working above Basin Rd. I observed a small new debris pile at foot of the cliffs.",
+			"slab_type": "SS",
+			"weak_layer": "U",
+			"bed_surface": "U",
+			"path_aspect": "SSE",
+			"est_date_time": "2020-02-26 06:00:00",
+			"obs_date_time": "2020-02-26 06:00:00",
+			"path_location": "Gold Creek",
+			"relative_size": 1,
+			"avalanche_type": "WL",
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 113,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 793,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-27 14:00:00",
+		"data": {
+			"comments": "couldn't see crown",
+			"path_aspect": "NW",
+			"est_date_time": "2020-02-27 06:00:00",
+			"obs_date_time": "2020-02-27 14:00:00",
+			"path_location": "Perseverance",
+			"relative_size": 3,
+			"avalanche_type": "U",
+			"path_elevation": "3000",
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 114,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 808,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-29 10:00:00",
+		"data": {
+			"path_aspect": "W",
+			"est_date_time": "2020-02-29 06:00:00",
+			"obs_date_time": "2020-02-29 10:00:00",
+			"path_location": "Arthur Peak",
+			"relative_size": 1,
+			"avalanche_type": "SS",
+			"path_elevation": "2800",
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 115,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 776,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-29 11:00:00",
+		"data": {
+			"path_aspect": "SE",
+			"est_date_time": "2020-02-29 06:00:00",
+			"obs_date_time": "2020-02-29 11:00:00",
+			"path_location": "Snettisham",
+			"relative_size": 1,
+			"avalanche_type": "WS",
+			"path_elevation": "200",
+			"destructive_size": 1,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 116,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 817,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-29 12:00:00",
+		"data": {
+			"comments": "Observed after daisybell mitigation produced minimal results. Glide release occurred while dropping daisybell back at Snettisham.",
+			"slab_type": "glide to ground",
+			"slab_width": 50,
+			"weak_layer": "glide",
+			"bed_surface": "bedrock",
+			"path_aspect": "NE",
+			"est_date_time": "2020-02-29 11:30:00",
+			"obs_date_time": "2020-02-29 12:00:00",
+			"path_location": "Speel Fours",
+			"relative_size": 1,
+			"vertical_fall": 100,
+			"avalanche_type": "WS",
+			"path_elevation": "1500",
+			"slab_thickness": 200,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 117,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 818,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-29 10:00:00",
+		"data": {
+			"slab_type": "glide to ground",
+			"slab_width": 50,
+			"weak_layer": "glide",
+			"bed_surface": "bedrock",
+			"path_aspect": "ENE",
+			"est_date_time": "2020-02-29 06:00:00",
+			"obs_date_time": "2020-02-29 10:00:00",
+			"path_location": "Speel Fours",
+			"relative_size": 1,
+			"vertical_fall": 400,
+			"avalanche_type": "WS",
+			"path_elevation": "1600",
+			"slab_thickness": 200,
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 118,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 808,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-03-07 15:30:00",
+		"data": {
+			"comments": "Potentially reloaded from avalanche observed previous Saturday",
+			"slab_type": "soft, +uncertain new",
+			"slab_width": 100,
+			"weak_layer": "graupel/dendrites",
+			"bed_surface": "rime crust (reloaded?)",
+			"path_aspect": "W",
+			"est_date_time": "2020-03-07 15:30:00",
+			"obs_date_time": "2020-03-07 15:30:00",
+			"path_location": "Arthur Peak",
+			"relative_size": 1,
+			"vertical_fall": 200,
+			"avalanche_type": "SS",
+			"path_elevation": "2700",
+			"slab_thickness": 40,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "NC"
+		}
+	},
+	{
+		"id": 119,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 800,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-03-10 15:00:00",
+		"data": {
+			"comments": "Mid right pocket of upper SZ. Observed driving on Egan. Appears last night due to filled in a bit. Debris did not pass bench.",
+			"slab_type": "U",
+			"slab_width": 150,
+			"weak_layer": "U",
+			"bed_surface": "U",
+			"path_aspect": "SW",
+			"est_date_time": "2020-03-09 22:00:00",
+			"obs_date_time": "2020-03-10 15:00:00",
+			"relative_size": 1,
+			"avalanche_type": "SS",
+			"slab_thickness": 40,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 120,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 971,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-04-19 17:00:00",
+		"data": {
+			"comments": "Slide crossed gold creek and perseverance trail sometime between 4/18 @ 1500 and 4/19 @ 1700. Temps warmer on 4/18 and smaller natural activity noted on adjacent slope at 1500 so 1600 most likely time of occurence.",
+			"path_aspect": "S",
+			"est_date_time": "2020-04-18 16:00:00",
+			"obs_date_time": "2020-04-19 17:00:00",
+			"path_location": "Perseverance",
+			"relative_size": 2,
+			"avalanche_type": "WL",
+			"path_elevation": "2000",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 121,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 824,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-04-17 13:00:00",
+		"data": {
+			"comments": "High uncertainty on date of occurence, large chunk of cornice visibly broken off, many large chunks down below",
+			"path_aspect": "N",
+			"est_date_time": "2020-04-09 06:00:00",
+			"obs_date_time": "2020-04-17 13:00:00",
+			"path_location": "Perseverance",
+			"relative_size": 2,
+			"vertical_fall": 1200,
+			"avalanche_type": "HS",
+			"path_elevation": "3600",
+			"destructive_size": 3,
+			"avalanche_trigger": "NC"
+		}
+	},
+	{
+		"id": 122,
+		"client_id": 15,
+		"user_id": 3,
+		"avalanche_atlas_id": 845,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-04-11 18:00:00",
+		"data": {
+			"comments": "Likely slid and refilled by intense winds. Hard to tell how deep it went.",
+			"path_aspect": "W",
+			"est_date_time": "2020-04-09 06:00:00",
+			"obs_date_time": "2020-04-11 18:00:00",
+			"path_location": "Fish Creek",
+			"relative_size": 3,
+			"vertical_fall": 2200,
+			"avalanche_type": "SS",
+			"path_elevation": "2700",
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 123,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 776,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-13 17:00:00",
+		"data": {
+			"comments": "Glide avalanche- post cool down. Noted in net radiation at BCY that skies cleared briefly this afternoon. Rob told me of the slide on 2/14 (noted it occurred between 3-5pm) after it blocked the Erection Bay entrance.",
+			"slab_type": "WS",
+			"slab_width": 40,
+			"weak_layer": "MF",
+			"bed_surface": "ground",
+			"path_aspect": "S",
+			"est_date_time": "2020-02-13 16:00:00",
+			"obs_date_time": "2020-02-13 17:00:00",
+			"path_location": "Snettisham Camp",
+			"relative_size": 2,
+			"vertical_fall": 200,
+			"avalanche_type": "WS",
+			"slab_thickness": 30,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 124,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 780,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-03-05 06:00:00",
+		"data": {
+			"comments": "Natural that came pretty close to the campground as well as poles #14860 and #14861",
+			"path_aspect": "SW",
+			"est_date_time": "2020-03-05 06:00:00",
+			"obs_date_time": "2020-03-05 06:00:00",
+			"path_location": "Thane Road",
+			"relative_size": 3,
+			"avalanche_type": "WS",
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 125,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 807,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-05-01 06:00:00",
+		"data": {
+			"comments": "Glide avalanche lower right went into trees above the gully. Don't know when released.",
+			"path_aspect": "WNW",
+			"est_date_time": "2020-04-22 06:00:00",
+			"obs_date_time": "2020-05-01 06:00:00",
+			"path_location": "Stephens Passage",
+			"relative_size": 2,
+			"avalanche_type": "WS",
+			"path_elevation": "2600",
+			"slab_thickness": 500,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 126,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 816,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-05-01 06:00:00",
+		"data": {
+			"comments": "Series of glide releases that came down sometime in the last 2 weeks. Debris flowed through tower base.",
+			"path_aspect": "E",
+			"est_date_time": "2020-04-22 06:00:00",
+			"obs_date_time": "2020-05-01 06:00:00",
+			"path_location": "Speel Arm",
+			"relative_size": 3,
+			"avalanche_type": "WS",
+			"path_elevation": "1400'",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 127,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 817,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-05-01 06:00:00",
+		"data": {
+			"comments": "Glide release that came close to diverter. Only a relatively small portion of SZ.",
+			"path_aspect": "E",
+			"est_date_time": "2020-04-22 06:00:00",
+			"obs_date_time": "2020-05-01 06:00:00",
+			"path_location": "Speel Arm",
+			"relative_size": 2,
+			"avalanche_type": "WS",
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 128,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 816,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-18 15:00:00",
+		"data": {
+			"comments": "Daisybell control work released shallow storm snow layers. Dusted tower.",
+			"path_aspect": "E",
+			"est_date_time": "2020-02-18 15:00:00",
+			"obs_date_time": "2020-02-18 15:00:00",
+			"relative_size": 1,
+			"avalanche_type": "SS",
+			"slab_thickness": 25,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "AX"
+		}
+	},
+	{
+		"id": 129,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 811,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-02-18 12:00:00",
+		"data": {
+			"comments": "Natural released mid face in multiple pockets. Resulted in deep multi fingered wet debris in runout.",
+			"path_aspect": "N",
+			"est_date_time": "2020-02-17 06:00:00",
+			"obs_date_time": "2020-02-18 12:00:00",
+			"relative_size": 2,
+			"avalanche_type": "HS",
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 130,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 818,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-04-11 06:00:00",
+		"data": {
+			"comments": "Natural glide release pushed well into trees just above the Diverter. Not sure when this released. Daisybell could not move anything else.",
+			"path_aspect": "E",
+			"est_date_time": "2020-04-10 06:00:00",
+			"obs_date_time": "2020-04-11 06:00:00",
+			"relative_size": 2,
+			"avalanche_type": "WS",
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 657,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 775,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-01 13:40:00",
+		"data": {
+			"path_aspect": "SW",
+			"est_date_time": "2020-12-01 13:40",
+			"obs_date_time": "2020-12-01 13:40",
+			"relative_size": 3.5,
+			"avalanche_type": "WS",
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 658,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 821,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 11:26:00",
+		"data": {
+			"est_date_time": "2020-12-01 11:15",
+			"obs_date_time": "2020-12-03 11:26",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 659,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 811,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 11:54:00",
+		"data": {
+			"est_date_time": "2020-12-01 11:54",
+			"obs_date_time": "2020-12-03 11:54",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 660,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 813,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 11:55:00",
+		"data": {
+			"est_date_time": "2020-12-01 11:55",
+			"obs_date_time": "2020-12-03 11:55",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 661,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 810,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 11:56:00",
+		"data": {
+			"est_date_time": "2020-12-01 11:56",
+			"obs_date_time": "2020-12-03 11:56",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 662,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 816,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 12:05:00",
+		"data": {
+			"est_date_time": "2020-12-01 12:05",
+			"obs_date_time": "2020-12-03 12:05",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 663,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 818,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 12:06:00",
+		"data": {
+			"est_date_time": "2020-12-01 12:06",
+			"obs_date_time": "2020-12-03 12:06",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 664,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 947,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 12:11:00",
+		"data": {
+			"est_date_time": "2020-12-01 12:11",
+			"obs_date_time": "2020-12-03 12:11",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 665,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 948,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 12:13:00",
+		"data": {
+			"est_date_time": "2020-12-01 12:13",
+			"obs_date_time": "2020-12-03 12:13",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 666,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 972,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 12:15:00",
+		"data": {
+			"est_date_time": "2020-12-01 12:15",
+			"obs_date_time": "2020-12-03 12:15",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 667,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 977,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 12:17:00",
+		"data": {
+			"est_date_time": "2020-12-01 12:17",
+			"obs_date_time": "2020-12-03 12:17",
+			"relative_size": 2,
+			"avalanche_type": "WS",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 668,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 1075,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-03 11:58:00",
+		"data": {
+			"path_aspect": "E",
+			"est_date_time": "2020-12-01 12:59",
+			"obs_date_time": "2020-12-03 11:58",
+			"relative_size": 2,
+			"avalanche_type": "WS",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 669,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 1074,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-01 13:01:00",
+		"data": {
+			"path_aspect": "S",
+			"est_date_time": "2020-12-01 12:01",
+			"obs_date_time": "2020-12-01 13:01",
+			"relative_size": 3,
+			"avalanche_type": "U",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 670,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 788,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-01 13:04:00",
+		"data": {
+			"path_aspect": "SW",
+			"est_date_time": "2020-12-01 13:04",
+			"obs_date_time": "2020-12-01 13:04",
+			"avalanche_type": "U",
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 671,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 917,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-02 09:45:00",
+		"data": {
+			"est_date_time": "2020-12-01 09:45",
+			"obs_date_time": "2020-12-02 09:45",
+			"relative_size": 2.5,
+			"avalanche_type": "WS",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 672,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 907,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-02 09:47:00",
+		"data": {
+			"comments": "observed by Tucker Cooper on CAAC",
+			"slab_width": 300,
+			"bed_surface": "Nov 1st super crust",
+			"path_aspect": "NW",
+			"est_date_time": "2020-12-01 09:47",
+			"obs_date_time": "2020-12-02 09:47",
+			"relative_size": 4,
+			"vertical_fall": 300,
+			"avalanche_type": "SS",
+			"slab_thickness": 200,
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 673,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 838,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-02 09:45:00",
+		"data": {
+			"est_date_time": "2020-12-01 09:47",
+			"obs_date_time": "2020-12-02 09:45",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 674,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 853,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-02 09:47:00",
+		"data": {
+			"est_date_time": "2020-12-01 09:47",
+			"obs_date_time": "2020-12-02 09:47"
+		}
+	},
+	{
+		"id": 675,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 865,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-01 13:40:00",
+		"data": {
+			"est_date_time": "2020-12-01 09:45",
+			"obs_date_time": "2020-12-01 13:40",
+			"relative_size": 1,
+			"avalanche_type": "WS",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 676,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 793,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-02 11:34:00",
+		"data": {
+			"path_aspect": "W",
+			"est_date_time": "2020-12-01 11:34",
+			"obs_date_time": "2020-12-02 11:34",
+			"relative_size": 1.5,
+			"avalanche_type": "WS",
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 677,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 840,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-05 12:23:00",
+		"data": {
+			"comments": "Ray Imel posting on CAAC",
+			"est_date_time": "2020-12-01 17:39",
+			"obs_date_time": "2020-12-05 12:23",
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 678,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 842,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-05 12:23:00",
+		"data": {
+			"comments": "Ray Imel posting on CAAC",
+			"est_date_time": "2020-12-01 11:34",
+			"obs_date_time": "2020-12-05 12:23",
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 679,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 921,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-05 16:24:00",
+		"data": {
+			"comments": "Mike Hekkers posting on CAAC",
+			"est_date_time": "2020-12-01 17:48",
+			"obs_date_time": "2020-12-05 16:24",
+			"relative_size": 2,
+			"avalanche_type": "WS",
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 680,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 928,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-05 16:24:00",
+		"data": {
+			"comments": "Mike Hekkers posting on CAAC",
+			"est_date_time": "2020-12-01 17:39",
+			"obs_date_time": "2020-12-05 16:24",
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 681,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 840,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-11-13 11:00:00",
+		"data": {
+			"comments": "Peter Flynn/Sam Roche postings on CAAC",
+			"slab_type": "soft slab",
+			"slab_width": 300,
+			"weak_layer": "1mm facets",
+			"bed_surface": "Nov 1 super crust",
+			"path_aspect": "N",
+			"est_date_time": "2020-11-13 11:00",
+			"obs_date_time": "2020-11-13 11:00",
+			"path_location": "Upper bowl",
+			"relative_size": 3.5,
+			"vertical_fall": 100,
+			"avalanche_type": "SS",
+			"path_elevation": 3000,
+			"slab_thickness": 100,
+			"destructive_size": 2,
+			"avalanche_trigger": "AS"
+		}
+	},
+	{
+		"id": 682,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 950,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-11-10 12:23:00",
+		"data": {
+			"comments": "Mike Janes posting on CAAC. Two slides one of which does not have a path on this atlas yet.",
+			"path_aspect": "WNW",
+			"est_date_time": "2020-11-09 18:13",
+			"obs_date_time": "2020-11-10 12:23",
+			"path_location": "North Ridge off Hawthorne Peak ",
+			"relative_size": 3,
+			"vertical_fall": 3000,
+			"avalanche_type": "U",
+			"path_elevation": 3500,
+			"slab_thickness": 35,
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 700,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 784,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-09 12:23:00",
+		"data": {
+			"comments": "observed from Douglas boat harbor, partially filled in ",
+			"path_aspect": "W",
+			"est_date_time": "2021-01-07 11:34",
+			"obs_date_time": "2021-01-09 12:23",
+			"relative_size": 1,
+			"avalanche_type": "SS",
+			"path_elevation": 2600,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 701,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 843,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-27 12:23:00",
+		"data": {
+			"comments": "Sam Steenlands posting on CAAC, also noted widespread surface hoar",
+			"est_date_time": "2020-12-24 12:08",
+			"obs_date_time": "2020-12-27 12:23",
+			"relative_size": 2,
+			"avalanche_type": "U",
+			"path_elevation": 3100,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 702,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 876,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-10 12:23:00",
+		"data": {
+			"comments": "D K posting on CAAC",
+			"bed_surface": "January 10",
+			"path_aspect": "NW",
+			"est_date_time": "2021-01-10 09:22",
+			"obs_date_time": "2021-01-10 12:23",
+			"relative_size": 1,
+			"avalanche_type": "WL",
+			"path_elevation": 2400,
+			"destructive_size": 1,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 703,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 840,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-24 12:23:00",
+		"data": {
+			"comments": "Noah Jenkins posting on CAAC",
+			"est_date_time": "2021-01-23 12:33",
+			"obs_date_time": "2020-12-24 12:23",
+			"avalanche_type": "SS",
+			"slab_thickness": 30,
+			"destructive_size": 1.5
+		}
+	},
+	{
+		"id": 704,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 849,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-25 12:23:00",
+		"data": {
+			"comments": "Alex Burkhart posting on CAAC",
+			"slab_width": 15,
+			"weak_layer": "12/24",
+			"bed_surface": "12/23",
+			"path_aspect": "SE",
+			"est_date_time": "2020-12-25 12:39",
+			"obs_date_time": "2020-12-25 12:23",
+			"relative_size": 1,
+			"vertical_fall": 20,
+			"avalanche_type": "HS",
+			"path_elevation": 2200,
+			"slab_thickness": 20,
+			"destructive_size": 1,
+			"avalanche_trigger": "AS"
+		}
+	},
+	{
+		"id": 705,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 939,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-03 12:23:00",
+		"data": {
+			"comments": "Alex Burkhart posting on CAAC",
+			"slab_width": 40,
+			"weak_layer": "1/3 new snow",
+			"bed_surface": "12/30 FZFG crust",
+			"path_aspect": "N",
+			"est_date_time": "2021-01-03 02:51",
+			"obs_date_time": "2021-01-03 12:23",
+			"relative_size": 1,
+			"avalanche_type": "SS",
+			"path_elevation": 2100,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 706,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 844,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-03 12:23:00",
+		"data": {
+			"comments": "Mike Riederer posting on CAAC",
+			"bed_surface": "1/3",
+			"path_aspect": "N",
+			"est_date_time": "2021-01-03 12:58",
+			"obs_date_time": "2021-01-03 12:23",
+			"relative_size": 1,
+			"vertical_fall": 50,
+			"avalanche_type": "L",
+			"slab_thickness": 15,
+			"destructive_size": 0.5,
+			"avalanche_trigger": "AR"
+		}
+	},
+	{
+		"id": 707,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 939,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-08 13:13:00",
+		"data": {
+			"comments": "First noted by Tom Mattice, potential deep slab off the cliffs, uncertain if it triggered anything below",
+			"slab_width": 100,
+			"bed_surface": "potentially December 2 or November 1",
+			"path_aspect": "N",
+			"est_date_time": "2021-01-07 13:13",
+			"obs_date_time": "2021-01-08 13:13",
+			"path_location": "Above the huge cliffs",
+			"relative_size": 1,
+			"avalanche_type": "HS",
+			"path_elevation": 2700,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 708,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 837,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-19 11:00:00",
+		"data": {
+			"path_aspect": "N",
+			"est_date_time": "2021-01-18 11:34",
+			"obs_date_time": "2021-01-19 11:00",
+			"relative_size": 1,
+			"vertical_fall": 100,
+			"avalanche_type": "C",
+			"path_elevation": 2600,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "NC"
+		}
+	},
+	{
+		"id": 709,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 972,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-21 10:31:00",
+		"data": {
+			"comments": "debris partially buried, deep slab, destructive size uncertain",
+			"path_aspect": "NNW",
+			"est_date_time": "2021-01-18 11:34",
+			"obs_date_time": "2021-01-21 10:31",
+			"relative_size": 3,
+			"avalanche_type": "HS",
+			"path_elevation": 3300,
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 710,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 824,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-21 10:33:00",
+		"data": {
+			"comments": "debris partially buried, ran full path length, destructive size uncertain",
+			"path_aspect": "N",
+			"est_date_time": "2021-01-18 17:04",
+			"obs_date_time": "2021-01-21 10:33",
+			"relative_size": 3,
+			"vertical_fall": 1500,
+			"avalanche_type": "SS",
+			"path_elevation": 3000,
+			"destructive_size": 3,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 711,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 917,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-26 12:23:00",
+		"data": {
+			"comments": "Unknown trigger, multiple crowns, see my CAAC post",
+			"path_aspect": "E",
+			"est_date_time": "2021-01-18 17:09",
+			"obs_date_time": "2021-01-26 12:23",
+			"relative_size": 4,
+			"vertical_fall": 600,
+			"avalanche_type": "SS",
+			"path_elevation": 2000,
+			"destructive_size": 2.5
+		}
+	},
+	{
+		"id": 712,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 927,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-26 12:23:00",
+		"data": {
+			"path_aspect": "W",
+			"est_date_time": "2021-01-18 11:34",
+			"obs_date_time": "2021-01-26 12:23",
+			"relative_size": 3,
+			"avalanche_type": "WS",
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 713,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 935,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-26 12:23:00",
+		"data": {
+			"comments": "crown seen from Lawson meadows, debris unknown",
+			"path_aspect": "N",
+			"est_date_time": "2021-01-18 11:34",
+			"obs_date_time": "2021-01-26 12:23",
+			"relative_size": 2,
+			"path_elevation": 2600,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 714,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 847,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-31 10:23:00",
+		"data": {
+			"comments": "multiple debris piles, almost all of the gills slid",
+			"path_aspect": "N",
+			"est_date_time": "2021-01-18 11:34",
+			"obs_date_time": "2021-01-31 10:23",
+			"relative_size": 2,
+			"avalanche_type": "WS",
+			"path_elevation": 2400,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 715,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 876,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-02-02 12:46:00",
+		"data": {
+			"comments": "Triggered by Salar Peirovi, mistakenly initiated rescue response",
+			"slab_width": 20,
+			"weak_layer": "SH",
+			"bed_surface": "PP",
+			"path_aspect": "WSW",
+			"est_date_time": "2021-02-02 12:46",
+			"obs_date_time": "2021-02-02 12:46",
+			"path_location": "classic wind loaded face",
+			"relative_size": 1,
+			"vertical_fall": 60,
+			"avalanche_type": "SS",
+			"path_elevation": 2600,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "AS"
+		}
+	},
+	{
+		"id": 716,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 1155,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-02-02 12:23:00",
+		"data": {
+			"comments": "Triggered by Mitchel Laudert, photos from Paul Paramore",
+			"slab_type": "wind slab",
+			"slab_width": 100,
+			"path_aspect": "S",
+			"est_date_time": "2021-02-02 12:17",
+			"obs_date_time": "2021-02-02 12:23",
+			"relative_size": 3,
+			"vertical_fall": 150,
+			"avalanche_type": "HS",
+			"slab_thickness": 200,
+			"destructive_size": 2.5,
+			"avalanche_trigger": "AM"
+		}
+	},
+	{
+		"id": 717,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 790,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-02-04 13:41:00",
+		"data": {
+			"comments": "heard from Gastineau Ridge, obscured by cloud, Mike Janes observed debris pile afterwards",
+			"est_date_time": "2021-02-04 13:41",
+			"obs_date_time": "2021-02-04 13:41",
+			"relative_size": 1,
+			"avalanche_type": "L",
+			"destructive_size": 1,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 718,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 790,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-26 14:23:00",
+		"data": {
+			"comments": "Jordan Watson posting on CAAC",
+			"est_date_time": "2021-01-26 14:23",
+			"obs_date_time": "2021-01-26 14:23",
+			"relative_size": 2,
+			"destructive_size": 2,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 719,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 849,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-27 12:34:00",
+		"data": {
+			"comments": "Peter Flynn posting on CAAC",
+			"slab_type": "wind slab",
+			"slab_width": 100,
+			"weak_layer": "SH",
+			"path_aspect": "SE",
+			"est_date_time": "2021-01-27 12:34",
+			"obs_date_time": "2021-01-27 12:34",
+			"relative_size": 1,
+			"avalanche_type": "SS",
+			"path_elevation": 2500,
+			"slab_thickness": 30,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "AS"
+		}
+	},
+	{
+		"id": 720,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 876,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-01-30 10:00:00",
+		"data": {
+			"comments": "Brent Wittmer posting on CAAC",
+			"slab_width": 25,
+			"path_aspect": "W",
+			"est_date_time": "2021-01-28 18:32",
+			"obs_date_time": "2021-01-30 10:00",
+			"relative_size": 1,
+			"vertical_fall": 50,
+			"avalanche_type": "SS",
+			"path_elevation": 2600,
+			"destructive_size": 1
+		}
+	},
+	{
+		"id": 721,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 790,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-02-09 15:40:00",
+		"data": {
+			"comments": "I watched this come off the mountain from right below at the Roberts Trailhead! see my CAAC post for video/photos.",
+			"slab_type": "wind slab",
+			"slab_width": 300,
+			"path_aspect": "S",
+			"est_date_time": "2021-02-09 15:40",
+			"obs_date_time": "2021-02-09 15:40",
+			"path_location": "bottom left corner pocket",
+			"relative_size": 2,
+			"vertical_fall": 2500,
+			"avalanche_type": "SS",
+			"path_elevation": 2600,
+			"destructive_size": 1.5,
+			"avalanche_trigger": "N"
+		}
+	},
+	{
+		"id": 722,
+		"client_id": 15,
+		"user_id": 21,
+		"avalanche_atlas_id": 944,
+		"json_schema_id": 34,
+		"obs_date_time": "2020-12-13 14:35:00",
+		"data": {
+			"comments": "Mike Janes/Alan Gordon posting on CAAC",
+			"slab_type": "triple wind slab stack",
+			"slab_width": 50,
+			"path_aspect": "SE",
+			"est_date_time": "2021-02-13 14:35",
+			"obs_date_time": "2020-12-13 14:35",
+			"relative_size": 2,
+			"vertical_fall": 1000,
+			"avalanche_type": "HS",
+			"slab_thickness": 40,
+			"destructive_size": 2,
+			"avalanche_trigger": "AM"
+		}
+	},
+	{
+		"id": 747,
+		"client_id": 15,
+		"user_id": 2,
+		"avalanche_atlas_id": 775,
+		"json_schema_id": 34,
+		"obs_date_time": "2021-04-22 08:43:00",
+		"data": {
+			"obs_date_time": "2021-04-22 08:43"
+		}
+	}
+]
