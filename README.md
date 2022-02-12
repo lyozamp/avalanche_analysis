@@ -20,18 +20,28 @@ X: All team members have decided what technologies will be used for each step of
 
 ## Overview of the Analysis:
 
-The framework for this project was to analyze avalanche data from Snowbound Solutions LLC based out of Boise, ID and present to the owner. This data was presented to us from a family friend of Rylee's who is the owner of Snowbound Solutions LLC. We realize that although predicting natural phenomenons are relatively difficult, this analysis might help answer a key question: Based on weather conditions, what is the probability of an avalanche occurring? 
-
-## Resources:
-
-## Purpose:
-
-## Results: 
-
-# Summary:
+The framework for this project was to analyze avalanche data from Snowbound Solutions LLC based out of Boise, ID and present our findings to the owner. This data was presented to us from a family friend of Rylee's who is also the owner of Snowbound Solutions LLC. We realize that although predicting natural phenomenons are relatively difficult, this analysis might help answer a key question: Based on weather conditions, what is the probability of an avalanche occurring? 
 
 # Second Segment: Build the Pieces
 
+## Resources:
+
+Converted the provided Json files into CSV files 
+
+Database: Postgres SQL
+Machine Learning: Supervised Model
+Coding: Python - Pandas
+Visualization: Tableau
+
+## Purpose:
+
+Analysing weather conditions are a critical piece of information for building avalanche forecasts or assessing avalanche hazard for a specific geographic areas. Historically avalanches pose a threat to anyone on snowy mountainsides and can be deadly because of their intensity and seeming unpredictability. By taking the data over the course of several years and multiple areas and examine weather conditions during past avalanches we can predict the probabilty of an avalanche occurring again based on those factors. 
+
 # Third Segment: Plug It In
 
+## Results: 
+
 # Fourth Segment: Put It All Together
+
+# Summary:
+
