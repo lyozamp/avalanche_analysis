@@ -1,5 +1,5 @@
 # Avalanche Analysis
-Final Project analysis of Avalanche data
+Final project analysis of Avalanche data
 
 # First Segment: Sketch It Out
 
@@ -20,17 +20,20 @@ X: All team members have decided what technologies will be used for each step of
 
 ## Overview of the Analysis:
 
-The framework for this project was to analyze avalanche data from Snowbound Solutions LLC based out of Boise, ID and present our findings to the owner. This data was presented to us from a family friend of Rylee's who is also the owner of Snowbound Solutions LLC. We realize that although predicting natural phenomenons are relatively difficult, this analysis might help answer a key question: Based on weather conditions, what is the probability of an avalanche occurring? 
+The framework for this project was to analyze avalanche data from Snowbound Solutions LLC based out of Boise, ID and present our findings to the owner, Scott. This data was presented to us from Scott who is a family friend of Rylee's. As seen in our converted and cleaned avalanche_data.csv file, observations range from November 2015 to December of 2021 and include observation location with various weather parameters noted as well as a hazard score. We realize that although predicting natural phenomenons are relatively difficult, this analysis might help answer a key question: Based on weather conditions, what is the probability of an avalanche occurring? 
 
 # Second Segment: Build the Pieces
 
 ## Resources:
 
-Converted the provided Json files into CSV files 
+Converted the provided Json files from Snowbound Solutions LLC into CSV files 
 
 Database: Postgres SQL
+
 Machine Learning: Supervised Model
+
 Coding: Python - Pandas
+
 Visualization: Tableau
 
 ## Purpose:
