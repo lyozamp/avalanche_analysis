@@ -39,7 +39,7 @@ CREATE TABLE avalanche_atlas (
 DROP TABLE avalanche_atlas
 
 -- Join the avalanche_atlas and avalanche_obs tables
--- pause
+-- pause, may come back to this merge later
 SELECT 
 	avalanche_obs.avalanche_atlas_id,
 	avalanche_obs.obs_date_time, 
@@ -54,7 +54,8 @@ FROM avalanche_atlas
 LEFT JOIN avalanche_obs
 ON avalanche_obs.avalanche_atlas_id = avalanche_atlas.id;
 
--- join the avalanche_stats and daily_obs tables
+-- join the avalanche_obs and daily_obs tables to convert to csv
+-- for machine learning model
 SELECT 
  	daily_obs.obs_date_time,
     daily_obs.obs_location,
