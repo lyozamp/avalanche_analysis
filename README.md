@@ -54,7 +54,7 @@ During the preliminary data preprocessing, we noticed a lot of null values so we
 
 2. Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:
 
-We decided on logistic regression in our supervised model because we are finding feature importance related to avalanche and hazard level so we kept all of the feautures since they are all important. 
+We decided on logistic regression in our supervised model because we are finding feature importance related to avalanche and hazard level so we kept all of the features since they are all important. 
 
 3. Description of how data was split into training and testing sets:
 
