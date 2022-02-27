@@ -5,15 +5,19 @@ Final project analysis of Avalanche data
 
 ## Overview of the Analysis:
 
-The framework for this project was to analyze avalanche data from Snowbound Solutions LLC based out of Boise, ID and present our findings to the owner, Scott. This data was presented to us from Scott who is a family friend of Rylee's. As seen in our converted and cleaned avalanche_data.csv file, observations range from November 2015 to December of 2021 and include different observation locations in Juneau, Alaska with various weather parameters noted as well as a hazard score. 
+The framework for this project was to analyze avalanche data from Snowbound Solutions LLC based out of Boise, ID and present our findings to the owner, Scott. This data was presented to us from Scott who is a family friend of Rylee's. As seen in our converted and cleaned daily_obs.csv file, observations range from November 2015 to December of 2021 and include different observation locations in Juneau, Alaska with various weather parameters noted as well as a hazard score. 
 
-We realize that although predicting natural phenomenons are relatively difficult, this analysis might help answer a key question: What weather features contribute most to Avalanche occurances in Juneau, Alaska?
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/Daily_Obs_Table.png)
+
+We realize that although predicting natural phenomenons are relatively difficult, this analysis might help answer a key question: What weather features contribute most to Avalanche occurrences in Juneau, Alaska?
 
 # Second Segment: Build the Pieces
 
 ## Resources:
 
-Converted the provided Json files from Snowbound Solutions LLC into CSV files 
+Joined the avalanche_obs and daily_obs provided Json files from Snowbound Solutions LLC into CSV files for our machine learning model
+
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/Table_Merge_Code.png)
 
 Database: Postgres SQL
 
@@ -25,14 +29,21 @@ Visualization: Tableau
 
 ## Machine Learning Model
 
-### Description of preliminary data preprocessing
+Description of preliminary data preprocessing:
 
-### Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+During the preliminary data preprocessing, we noticed a lot of null values so we dropped those by replacing null values with no as well as replacing the observation dates with yes. Then dropped the observation dates and encoded our categorical columns such as the wind direction, sky cover, precipitation type, etc. Lastly, we scaled the data which is super important when training the model and giving each feature the same footing without any upfront importance.
 
-### Description of how data was split into training and testing sets
+Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:
 
-### Explanation of model choice, including limitations and benefits
+We decided on logistic regression in our supervised model because we are finding feature importance related to avalanche and hazard level so we kept all of the feautures since they are all important. 
 
+Description of how data was split into training and testing sets:
+
+We split the feature and target variables in to X and Y variables, X variable being the feature and Y being the target. Also, we used TRAIN_TEST_SPLIT to split the data in to train and test sets.
+
+Explanation of model choice, including limitations and benefits:
+
+We tried multiple directions but a supervised model helped answer our thesis question the best. A supervised model is the simplest model choice when it comes to optimizing performance criteria using experience and solving various types of real-world computation problems. A benefit specifically to our dataset is that it looks at what features are weighted more heavily and we can clearly look at what features matter by importance. One limitation of this type of model is it is tough to obtain complex relationships
 
 ## Purpose:
 
