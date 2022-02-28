@@ -84,3 +84,6 @@ Analysing weather conditions are a critical piece of information for building av
 
 ## Summary:
 
+# Google Slides Presentation
+
+This google slide presentation can be seen, in its entirety, [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf).
