@@ -1,0 +1,2204 @@
+,obs_location,sky_cover,precip_type,air_temp_min,air_temp_max,air_temp_current,snow_height,new_snow_height,wind_direction,wind_speed,wind_gust,hazard,avalanche_occured
+0,Mt Roberts Tram,OVC,RA,-0.1,2.7,2.7,71.9,19.0,NNE,0.3,1.0,0.0,0
+1,Speel Arm Balcony,OVC,RA,0.4,3.0,3.0,52.0,8.0,Other,4.5,8.5,0.0,0
+2,SS Creek DOT,OVC,RA,3.3,6.9,6.8,0.0,0.0,ESE,5.5,16.1,0.0,0
+3,Snettisham Dorm,OVC,RS,-0.8,0.6,0.3,41.0,0.0,ESE,0.7,4.4,1.0,0
+4,Mt Roberts Tram,OVC,SN,0.1,3.6,0.1,63.0,2.0,N,0.0,1.8,0.0,0
+5,Speel Arm Balcony,X,SN,-0.2,3.7,-0.2,43.0,3.0,Other,2.6,11.8,0.0,0
+6,SS Creek DOT,OVC,RA,3.5,7.9,3.8,0.0,0.0,ESE,3.6,14.2,0.0,0
+7,Snettisham Dorm,OVC,RA,0.3,7.9,4.0,30.0,0.0,Other,6.2,15.2,1.0,0
+8,Mt Roberts Tram,BKN,SN,-1.3,0.1,-1.3,63.0,2.0,N,0.0,0.0,0.0,0
+9,Speel Arm Balcony,OVC,SN,-1.6,-0.2,-1.5,55.0,15.0,N,0.0,8.4,0.0,0
+10,Snettisham Dorm,OVC,RS,0.0,4.1,0.0,33.0,2.0,Other,0.0,12.4,0.0,0
+11,Mt Roberts Tram,CLR,NO,-3.8,-1.3,-3.7,65.3,0.0,N,0.0,0.0,0.0,0
+12,Speel Arm Balcony,CLR,NO,-5.3,-1.5,-5.3,54.0,0.0,N,0.0,0.0,0.0,0
+13,SS Creek DOT,CLR,NO,-2.1,2.3,-2.0,0.0,0.0,Other,0.8,6.9,0.0,0
+14,Snettisham Dorm,CLR,NO,-4.2,1.6,-4.2,33.0,0.0,N,6.7,8.3,0.0,0
+15,Other,CLR,NO,-3.6,1.9,-3.0,53.0,0.0,N,0.0,2.3,0.0,0
+16,Mt Roberts Tram,CLR,NO,-7.0,-3.7,-6.4,63.5,0.0,NNW,0.3,1.5,0.0,0
+17,Speel Arm Balcony,CLR,NO,-8.3,-4.6,-7.6,55.0,0.0,N,1.5,4.9,0.0,0
+18,SS Creek DOT,CLR,NO,-4.9,-0.9,-4.9,0.0,0.0,Other,0.6,3.9,0.0,0
+19,Snettisham Dorm,CLR,NO,-8.1,-3.2,-8.1,33.0,0.0,ESE,2.1,7.4,0.0,0
+20,Mt Roberts Tram,CLR,NO,-9.9,-6.4,-9.9,62.1,0.0,N,0.6,3.2,0.0,0
+21,Speel Arm Balcony,CLR,NO,-10.1,-6.7,-10.1,53.0,0.0,NNE,6.3,11.3,0.0,0
+22,SS Creek DOT,CLR,NO,-5.5,-1.9,-4.2,0.0,0.0,Other,5.8,14.4,0.0,0
+23,Snettisham Dorm,CLR,NO,-21.9,-5.1,-21.9,33.0,0.0,Other,6.2,10.1,0.0,0
+24,Mt Roberts Tram,CLR,NO,-13.2,-9.9,-13.2,62.7,0.0,N,1.3,3.2,0.0,0
+25,Speel Arm Balcony,CLR,NO,-13.8,-10.1,-13.8,50.0,0.0,N,3.2,12.1,0.0,0
+26,SS Creek DOT,CLR,NO,-8.0,-4.4,-8.0,0.0,0.0,Other,4.7,13.3,0.0,0
+27,Snettisham Dorm,CLR,NO,-25.5,-5.3,-10.3,27.0,0.0,NNE,1.1,13.5,0.0,0
+28,Mt Roberts Tram,OVC,NO,-13.3,-9.6,-9.6,70.6,11.0,N,0.0,3.0,0.0,0
+29,Speel Arm Balcony,X,NO,-14.6,-10.2,-10.2,54.0,5.0,Other,0.5,5.8,0.0,0
+30,SS Creek DOT,OVC,NO,-8.5,-6.2,-6.3,5.0,5.0,NNE,0.3,9.2,0.0,0
+31,Snettisham Dorm,OVC,NO,-12.3,-8.7,-8.7,41.0,15.0,Other,1.7,7.2,1.0,0
+32,Mt Roberts Tram,CLR,NO,-9.9,-6.8,-7.4,78.1,0.0,NNW,1.8,5.3,1.0,0
+33,Speel Arm Balcony,CLR,NO,-11.4,-6.3,-7.0,50.0,0.0,N,5.7,11.7,1.0,0
+34,Snettisham Dorm,CLR,NO,-9.5,-5.4,-5.4,38.0,0.0,Other,4.5,11.4,1.0,0
+35,Speel Arm Balcony,X,SN,-11.2,-7.0,-10.2,49.0,3.0,NNW,1.4,10.7,1.0,0
+36,Snettisham Dorm,X,SN,-6.8,-3.7,-6.7,39.0,3.0,Other,4.7,13.8,1.0,0
+37,Mt Roberts Tram,X,SN,-8.9,-0.2,-0.7,108.5,31.0,N,0.0,0.8,1.0,0
+38,Speel Arm Balcony,X,SN,-10.5,-2.0,-2.0,83.0,40.0,N,0.0,5.8,1.0,0
+39,SS Creek DOT,OVC,SN,-5.2,-3.0,-3.0,36.0,30.0,N,0.0,1.4,1.0,0
+40,Snettisham Dorm,X,SN,-7.1,-4.6,-4.6,84.0,47.0,Other,1.9,8.2,1.0,0
+41,Mt Roberts Tram,X,RS,-0.7,1.0,1.0,120.0,2.0,ESE,0.0,0.6,2.0,0
+42,Speel Arm Balcony,X,RS,-2.0,1.7,0.9,76.0,10.0,Other,1.2,7.1,2.0,0
+43,SS Creek DOT,OVC,RA,-2.8,2.3,1.4,33.0,0.0,SE,1.7,5.0,2.0,0
+44,Snettisham Dorm,X,RA,-4.6,0.8,0.7,74.0,5.0,ESE,0.0,5.1,2.0,0
+45,Mt Roberts Tram,OVC,RS,0.0,2.2,0.5,120.7,3.0,N,0.0,1.8,2.0,0
+46,Speel Arm Balcony,OVC,SN,-0.5,2.1,-0.2,77.0,10.0,NNW,0.6,5.0,2.0,0
+47,SS Creek DOT,OVC,RS,0.3,2.0,0.7,28.0,0.0,N,0.3,2.8,2.0,0
+48,Snettisham Dorm,OVC,RS,0.4,2.1,1.0,69.0,0.0,Other,1.6,5.1,2.0,0
+49,Mt Roberts Tram,OVC,RA,0.4,3.5,3.0,113.5,0.0,SE,0.0,1.2,2.0,0
+50,Speel Arm Balcony,X,RA,-0.2,3.4,2.5,67.0,0.0,Other,0.2,4.4,2.0,0
+51,SS Creek DOT,OVC,RA,0.7,2.1,1.6,18.0,0.0,N,0.0,1.9,2.0,0
+52,Snettisham Dorm,OVC,RA,1.0,1.7,1.3,58.0,0.0,Other,1.0,4.5,2.0,0
+53,Mt Roberts Tram,OVC,NO,2.4,4.1,3.4,108.8,0.0,Other,0.3,1.5,2.0,0
+54,Speel Arm Balcony,BKN,NO,2.2,4.5,2.3,63.0,0.0,N,1.7,4.9,2.0,0
+55,SS Creek DOT,BKN,NO,0.6,2.6,0.9,18.0,0.0,Other,0.3,2.5,2.0,0
+56,Snettisham Dorm,OVC,NO,1.2,2.5,2.0,52.0,0.0,NNE,4.2,8.5,2.0,0
+57,Mt Roberts Tram,CLR,NO,1.7,4.5,2.7,105.7,0.0,Other,0.9,2.4,1.0,0
+58,Speel Arm Balcony,CLR,NO,0.6,4.0,1.0,63.0,0.0,N,3.2,6.9,1.0,0
+59,SS Creek DOT,FEW,NO,-1.0,3.1,-0.2,15.0,0.0,Other,1.4,3.3,1.0,0
+60,Snettisham Dorm,FEW,NO,-1.1,3.8,-1.0,50.0,0.0,Other,1.9,8.6,1.0,0
+61,Mt Roberts Tram,CLR,NO,-3.6,3.0,-3.6,103.6,0.0,NNW,1.1,2.9,1.0,0
+62,Speel Arm Balcony,CLR,NO,-4.7,2.0,-4.7,60.0,0.0,N,5.1,8.5,1.0,0
+63,SS Creek DOT,CLR,NO,-0.4,7.2,0.9,15.0,0.0,ESE,0.6,12.5,1.0,0
+64,Snettisham Dorm,CLR,NO,-2.7,1.1,-2.7,49.0,0.0,NNE,2.1,9.4,1.0,0
+65,Mt Roberts Tram,FEW,NO,-7.2,-5.2,-6.0,93.1,0.5,Other,0.4,2.6,1.0,0
+66,Speel Arm Balcony,FEW,NO,-9.1,-7.7,-8.3,59.0,0.5,N,4.9,10.3,1.0,0
+67,SS Creek DOT,FEW,NO,-3.8,-1.8,-3.4,15.0,0.5,N,0.0,1.9,1.0,0
+68,Snettisham Dorm,FEW,NO,-5.5,-2.6,-3.6,49.0,0.5,Other,2.2,10.3,1.0,0
+69,Mt Roberts Tram,OVC,SN,-6.7,-4.2,-5.3,97.0,3.0,N,0.0,3.1,1.0,0
+70,Speel Arm Balcony,OVC,SN,-8.8,-6.7,-7.1,55.0,3.0,Other,0.2,10.3,1.0,0
+71,SS Creek DOT,OVC,SN,-3.6,0.0,-2.9,15.0,1.0,N,0.0,8.3,1.0,0
+72,Snettisham Dorm,OVC,SN,-5.3,-2.3,-4.9,53.0,4.0,Other,0.0,10.7,1.0,0
+73,Mt Roberts Tram,X,SN,-5.3,0.1,0.1,426.7,19.0,N,0.0,0.0,1.0,0
+74,Speel Arm Balcony,X,SN,-7.2,0.5,0.5,83.0,30.0,Other,3.5,6.5,1.0,0
+75,Snettisham Dorm,X,SN,-5.1,-1.7,-1.7,78.0,30.0,ESE,1.6,4.4,2.0,0
+76,Mt Roberts Tram,X,NO,0.1,1.8,1.3,117.6,1.0,Other,0.1,2.4,2.0,0
+77,Speel Arm Balcony,SCT,NO,0.0,1.7,1.7,78.0,2.0,NNW,1.7,6.6,2.0,0
+78,SS Creek DOT,CLR,NO,0.5,2.7,0.8,25.0,0.0,Other,0.3,6.1,2.0,0
+79,Snettisham Dorm,X,NO,-1.6,1.6,0.6,72.0,0.0,Other,0.9,7.4,4.0,0
+80,Mt Roberts Tram,BKN,NO,-1.6,1.4,-0.9,116.9,0.0,Other,0.0,2.0,1.0,0
+81,Speel Arm Balcony,BKN,NO,-2.2,1.7,-1.4,77.0,0.0,Other,0.5,5.5,1.0,0
+82,SS Creek DOT,X,NO,-1.7,0.6,-1.6,23.0,0.0,Other,0.3,3.3,1.0,0
+83,Snettisham Dorm,BKN,NO,-3.5,1.7,-3.2,71.0,0.0,NNE,2.7,8.5,2.0,0
+84,Mt Roberts Tram,OVC,NO,-1.4,1.1,1.0,116.9,3.0,NNE,0.1,1.5,1.0,0
+85,Speel Arm Balcony,OVC,NO,-2.4,1.8,1.8,75.0,4.0,Other,1.6,7.1,1.0,0
+86,SS Creek DOT,OVC,NO,-1.4,5.5,4.3,15.0,0.0,Other,0.3,7.5,1.0,0
+87,Snettisham Dorm,OVC,NO,-3.2,1.0,1.0,71.0,2.0,NNE,1.4,4.3,1.0,0
+88,Mt Roberts Tram,OVC,RA,0.9,3.1,2.6,111.8,0.0,N,0.5,2.0,1.0,0
+89,Speel Arm Balcony,OVC,RA,0.0,3.8,2.5,64.0,0.0,Other,4.4,8.3,1.0,0
+90,SS Creek DOT,OVC,RA,4.0,7.3,6.9,5.0,0.0,ESE,6.9,13.0,1.0,0
+91,Snettisham Dorm,OVC,RA,0.9,1.6,1.5,63.0,0.0,Other,5.8,5.8,2.0,0
+92,Mt Roberts Tram,OVC,RA,2.3,3.8,3.1,101.0,0.0,NNE,0.4,1.7,2.0,0
+93,Speel Arm Balcony,OVC,RA,2.5,4.4,2.7,46.0,0.0,Other,5.7,10.0,2.0,0
+94,SS Creek DOT,OVC,RA,4.9,7.4,7.0,0.0,0.0,ESE,6.4,14.2,2.0,0
+95,Snettisham Dorm,OVC,RA,1.8,6.3,2.8,59.0,0.0,Other,2.4,11.5,2.0,0
+96,Mt Roberts Tram,X,NO,0.0,3.8,0.3,106.4,0.0,ESE,0.0,1.5,2.0,0
+97,Speel Arm Balcony,FEW,NO,-0.1,4.1,-0.1,45.0,0.0,N,1.4,10.4,2.0,0
+98,SS Creek DOT,X,NO,1.2,7.6,1.8,0.0,0.0,NNW,1.9,11.4,2.0,0
+99,Snettisham Dorm,X,NO,0.9,8.4,0.9,50.0,0.0,Other,1.1,16.7,2.0,0
+100,Mt Roberts Tram,BKN,NO,-0.6,1.2,1.2,105.1,0.0,Other,0.1,0.6,1.0,0
+101,Speel Arm Balcony,SCT,NO,-0.6,1.7,1.7,45.0,0.0,Other,0.9,4.5,1.0,0
+102,SS Creek DOT,X,NO,-1.9,1.6,-1.5,0.0,0.0,N,0.0,2.8,1.0,0
+103,Snettisham Dorm,SCT,NO,-1.4,3.2,-1.4,49.0,0.0,Other,2.1,5.8,1.0,0
+104,Mt Roberts Tram,OVC,RA,0.1,4.3,2.4,103.0,0.0,Other,0.3,1.3,1.0,0
+105,Speel Arm Balcony,OVC,NO,0.0,4.5,3.7,45.0,0.0,Other,0.5,3.6,1.0,0
+106,SS Creek DOT,OVC,RA,-1.8,1.9,1.9,0.0,0.0,ESE,2.5,3.6,1.0,0
+107,Snettisham Dorm,OVC,NO,-2.0,1.0,0.6,49.0,0.0,NNE,1.4,5.3,1.0,0
+108,Mt Roberts Tram,X,SN,-0.5,3.6,0.4,122.0,16.0,N,0.0,1.0,1.0,0
+109,Speel Arm Balcony,X,SN,-1.0,3.1,0.4,61.0,13.0,Other,1.3,6.3,1.0,0
+110,Snettisham Dorm,OVC,RS,0.6,1.4,0.7,53.0,6.0,ESE,0.0,4.0,1.0,0
+111,Mt Roberts Tram,OVC,NO,0.3,1.3,0.8,117.6,2.0,N,0.0,0.0,1.0,0
+112,Speel Arm Balcony,BKN,NO,0.1,1.1,0.6,59.0,3.0,N,1.6,6.0,1.0,0
+113,SS Creek DOT,OVC,NO,2.5,5.1,2.7,0.0,0.0,NNW,0.8,5.5,1.0,0
+114,Snettisham Dorm,X,NO,0.7,1.3,0.9,53.0,2.0,Other,0.0,3.5,1.0,0
+115,Mt Roberts Tram,CLR,NO,-13.3,0.7,-13.3,115.6,0.0,N,1.0,4.7,1.0,0
+116,Speel Arm Balcony,CLR,NO,-13.4,0.6,-13.4,57.0,0.0,N,7.1,13.9,1.0,0
+117,SS Creek DOT,CLR,NO,-8.0,5.1,-8.0,0.0,0.0,Other,3.9,19.7,1.0,0
+118,Snettisham Dorm,CLR,NO,-7.4,3.1,-7.4,52.3,0.0,ESE,6.7,17.4,1.0,0
+119,Mt Roberts Tram,CLR,NO,-18.6,-13.3,-17.7,113.8,0.0,NNW,1.3,4.3,1.0,1
+120,Speel Arm Balcony,CLR,NO,-19.4,-13.4,-18.4,55.0,0.0,NNE,5.0,12.7,1.0,1
+121,SS Creek DOT,CLR,NO,-13.5,-8.3,-12.5,0.0,0.0,Other,3.1,16.1,1.0,1
+122,Snettisham Dorm,CLR,NO,-13.5,-7.5,-12.9,52.0,0.0,NNE,3.9,17.1,1.0,1
+123,Mt Roberts Tram,CLR,NO,-17.8,-13.6,-13.6,115.6,0.0,NNW,0.3,4.1,1.0,0
+124,Speel Arm Balcony,CLR,NO,-18.4,-14.0,-14.0,55.0,0.0,NNE,4.3,10.7,1.0,0
+125,SS Creek DOT,CLR,NO,-12.7,-8.8,-10.5,0.0,0.0,Other,0.3,10.0,1.0,0
+126,Snettisham Dorm,CLR,NO,-12.9,-9.6,-12.3,51.8,0.0,NNE,6.2,16.8,1.0,0
+127,Mt Roberts Tram,OVC,NO,-14.4,-9.5,-9.5,114.7,0.0,N,0.0,1.7,1.0,0
+128,Speel Arm Balcony,OVC,NO,-14.4,-9.8,-9.8,55.0,0.0,Other,0.6,8.5,1.0,0
+129,SS Creek DOT,OVC,NO,-10.4,-5.5,-7.1,0.0,0.0,Other,0.8,5.5,1.0,0
+130,Snettisham Dorm,OVC,NO,-13.3,-9.1,-11.5,52.0,0.0,ESE,1.5,8.8,1.0,0
+131,Mt Roberts Tram,CLR,NO,-10.0,-4.4,-4.4,110.4,0.1,Other,0.1,0.6,1.0,0
+132,Speel Arm Balcony,CLR,NO,-10.4,-3.9,-5.5,57.0,0.1,N,1.6,4.8,1.0,0
+133,SS Creek DOT,CLR,NO,-7.8,-5.0,-6.4,0.0,0.1,Other,0.6,2.5,1.0,0
+134,Snettisham Dorm,CLR,NO,-11.2,-8.1,-10.8,51.4,0.1,ESE,1.7,7.4,1.0,0
+135,Mt Roberts Tram,X,SN,-5.9,-3.2,-3.2,113.0,7.0,Other,0.3,1.0,1.0,0
+136,Speel Arm Balcony,X,SN,-6.4,-4.0,-4.1,57.0,8.0,N,0.0,4.1,1.0,0
+137,SS Creek DOT,X,SN,-6.3,-1.6,-1.6,10.0,10.0,ESE,0.8,9.2,1.0,0
+138,Snettisham Dorm,X,SN,-10.9,-4.5,-4.5,58.4,7.0,Other,0.9,4.5,1.0,0
+139,Speel Arm Balcony,FEW,NO,-4.1,-2.4,-3.9,79.0,22.0,NNW,0.8,3.2,1.0,0
+140,Snettisham Dorm,FEW,NO,-5.4,-1.7,-5.4,71.8,15.0,Other,2.6,7.4,2.0,0
+141,Mt Roberts Tram,CLR,NO,-5.5,-2.1,-2.1,128.4,0.0,N,0.0,0.0,2.0,1
+142,Mt Roberts Tram,CLR,NO,-5.5,-2.1,-2.1,128.4,0.0,N,0.0,0.0,2.0,1
+143,Mt Roberts Tram,CLR,NO,-5.5,-2.1,-2.1,128.4,0.0,N,0.0,0.0,2.0,1
+144,Speel Arm Balcony,CLR,NO,-5.1,-2.0,-3.1,72.0,0.0,N,4.4,8.1,1.0,1
+145,Speel Arm Balcony,CLR,NO,-5.1,-2.0,-3.1,72.0,0.0,N,4.4,8.1,1.0,1
+146,Speel Arm Balcony,CLR,NO,-5.1,-2.0,-3.1,72.0,0.0,N,4.4,8.1,1.0,1
+147,Snettisham Dorm,CLR,NO,-8.9,-2.7,-8.1,71.4,0.0,Other,1.4,6.7,2.0,1
+148,Snettisham Dorm,CLR,NO,-8.9,-2.7,-8.1,71.4,0.0,Other,1.4,6.7,2.0,1
+149,Snettisham Dorm,CLR,NO,-8.9,-2.7,-8.1,71.4,0.0,Other,1.4,6.7,2.0,1
+150,Mt Roberts Tram,CLR,NO,-5.8,-2.1,-5.8,134.8,0.0,SE,0.0,2.1,2.0,0
+151,Speel Arm Balcony,CLR,NO,-7.0,-2.5,-6.3,60.0,0.0,Other,0.5,8.1,1.0,0
+152,SS Creek DOT,CLR,NO,-6.0,2.8,-6.0,19.0,0.0,N,0.3,10.3,2.0,0
+153,Snettisham Dorm,CLR,NO,-10.8,-3.0,-10.8,72.6,0.0,NNE,2.3,7.9,1.0,0
+154,Mt Roberts Tram,CLR,NO,-6.6,1.1,-4.4,132.8,0.0,NNW,1.2,3.6,2.0,0
+155,Speel Arm Balcony,CLR,NO,-6.4,0.2,-4.9,54.0,0.0,N,4.0,10.2,1.0,0
+156,SS Creek DOT,CLR,NO,-6.4,0.5,0.5,17.0,0.0,Other,1.7,6.7,2.0,0
+157,Snettisham Dorm,CLR,NO,-11.3,-3.4,-5.6,71.0,0.0,NNE,6.3,9.5,1.0,0
+158,Mt Roberts Tram,CLR,NO,-5.9,-3.5,-5.2,134.1,0.0,Other,0.3,3.3,1.0,0
+159,Speel Arm Balcony,CLR,NO,-7.7,-3.4,-7.7,54.0,0.0,NNW,1.7,9.3,1.0,0
+160,SS Creek DOT,CLR,NO,-2.8,2.3,-2.3,17.0,0.0,Other,0.6,12.5,1.0,0
+161,Snettisham Dorm,CLR,NO,-9.8,1.0,-9.5,68.3,0.0,Other,0.0,10.0,1.0,0
+162,Mt Roberts Tram,OVC,NO,-5.8,-1.9,-4.5,133.1,0.0,Other,0.0,2.1,1.0,0
+163,Speel Arm Balcony,BKN,NO,-7.8,-2.9,-6.9,55.0,0.0,Other,0.5,6.3,1.0,0
+164,SS Creek DOT,OVC,NO,-6.2,2.4,-2.4,16.0,0.0,ESE,1.9,3.9,1.0,0
+165,Snettisham Dorm,BKN,NO,-11.4,-2.5,-9.8,67.9,0.0,NNE,2.2,8.8,2.0,0
+166,Mt Roberts Tram,X,SN,-5.8,-4.4,-4.7,133.8,12.0,N,0.0,1.4,1.0,0
+167,Speel Arm Balcony,X,SN,-7.5,-4.7,-5.5,62.0,14.0,N,0.0,3.6,1.0,0
+168,SS Creek DOT,X,SN,-3.4,-1.5,-2.0,27.0,11.0,SE,0.6,7.2,1.0,0
+169,Snettisham Dorm,X,SN,-10.3,-4.9,-5.1,76.4,9.0,Other,0.7,4.9,1.0,0
+170,Mt Roberts Tram,SCT,NO,-5.2,-4.3,-4.9,164.0,6.5,NNW,1.4,4.1,1.0,0
+171,Speel Arm Balcony,SCT,NO,-5.6,-4.3,-5.3,57.0,7.0,N,6.2,10.3,1.0,0
+172,SS Creek DOT,SCT,NO,-2.3,1.0,0.2,20.0,5.0,Other,2.8,14.2,1.0,0
+173,Snettisham Dorm,SCT,NO,-5.1,-1.0,-1.3,74.8,3.0,Other,4.3,10.4,1.0,0
+174,Mt Roberts Tram,CLR,NO,-7.5,-4.1,-7.5,172.4,0.0,NNW,0.9,4.7,2.0,0
+175,Speel Arm Balcony,CLR,NO,-7.8,-4.0,-7.8,54.0,0.0,NNE,4.9,12.9,1.0,0
+176,SS Creek DOT,CLR,NO,-2.5,0.7,-2.5,16.0,0.0,Other,0.8,13.6,2.0,0
+177,Snettisham Dorm,CLR,NO,-2.5,1.9,-2.1,73.3,0.0,ESE,3.4,16.0,1.0,0
+178,Mt Roberts Tram,FEW,NO,-11.3,-7.5,-11.0,167.6,0.0,NNW,0.6,3.5,2.0,0
+179,Speel Arm Balcony,FEW,NO,-12.0,-7.7,-11.7,54.0,0.0,N,5.2,9.9,1.0,0
+180,SS Creek DOT,FEW,NO,-6.7,-2.5,-5.8,16.0,0.0,Other,2.8,16.4,2.0,0
+181,Snettisham Dorm,FEW,NO,-6.6,-0.9,-6.4,70.2,0.0,Other,3.4,11.2,1.0,0
+182,Mt Roberts Tram,FEW,NO,-11.1,-7.1,-8.8,163.5,0.0,NNW,0.0,2.7,2.0,0
+183,Speel Arm Balcony,CLR,NO,-11.7,-8.5,-10.4,53.0,0.0,N,2.2,9.9,1.0,0
+184,SS Creek DOT,FEW,NO,-6.7,-2.2,-5.4,16.0,0.0,N,0.6,8.9,2.0,0
+185,Snettisham Dorm,CLR,NO,-10.8,-1.8,-10.6,68.5,0.0,N,5.9,11.9,2.0,0
+186,Mt Roberts Tram,OVC,SN,-8.8,-5.0,-5.3,158.5,7.5,N,0.0,1.1,1.0,0
+187,Speel Arm Balcony,OVC,SN,-10.4,-5.1,-5.1,52.0,2.0,Other,2.3,6.3,1.0,0
+188,SS Creek DOT,OVC,SN,-7.1,-1.2,-1.2,19.0,5.0,SE,3.1,9.2,1.0,0
+189,Snettisham Dorm,OVC,SN,-11.0,-3.0,-5.8,72.4,4.0,ESE,2.5,7.0,1.0,0
+190,Mt Roberts Tram,X,SN,-5.3,-1.4,-1.4,186.1,27.0,N,0.0,0.9,2.0,0
+191,Speel Arm Balcony,X,SN,-5.5,-1.3,-1.3,61.0,12.0,Other,2.6,6.8,1.0,0
+192,SS Creek DOT,X,RS,-1.2,2.1,1.4,17.0,3.0,SE,1.4,8.6,2.0,0
+193,Snettisham Dorm,X,RS,-5.8,0.8,0.8,94.7,25.0,Other,0.0,4.4,2.0,0
+194,Mt Roberts Tram,BKN,NO,-2.6,0.8,-2.6,181.9,2.7,N,0.0,0.1,2.0,1
+195,Mt Roberts Tram,BKN,NO,-2.6,0.8,-2.6,181.9,2.7,N,0.0,0.1,2.0,1
+196,Speel Arm Balcony,CLR,NO,-2.4,-0.6,-2.4,69.0,11.0,NNW,2.1,4.5,2.0,1
+197,Speel Arm Balcony,CLR,NO,-2.4,-0.6,-2.4,69.0,11.0,NNW,2.1,4.5,2.0,1
+198,SS Creek DOT,OVC,NO,-0.3,3.1,-0.3,14.0,0.0,NNW,0.3,5.0,2.0,1
+199,SS Creek DOT,OVC,NO,-0.3,3.1,-0.3,14.0,0.0,NNW,0.3,5.0,2.0,1
+200,Snettisham Dorm,CLR,NO,-2.8,3.0,-2.8,90.3,0.0,Other,1.6,4.7,4.0,1
+201,Snettisham Dorm,CLR,NO,-2.8,3.0,-2.8,90.3,0.0,Other,1.6,4.7,4.0,1
+202,Mt Roberts Tram,X,SN,-2.6,-0.4,-2.5,182.7,3.0,ESE,0.0,1.0,2.0,0
+203,Speel Arm Balcony,X,SN,-3.7,0.2,-2.9,68.0,20.0,Other,4.3,6.7,2.0,0
+204,SS Creek DOT,OVC,RS,-1.0,3.4,1.1,16.0,2.0,ESE,5.0,8.6,2.0,0
+205,Snettisham Dorm,OVC,RS,-4.3,2.6,-2.8,103.0,19.0,ESE,1.1,4.8,2.0,0
+206,Mt Roberts Tram,OVC,NO,-6.0,-1.0,-6.0,205.7,28.0,N,0.0,1.2,1.0,0
+207,Speel Arm Balcony,BKN,NO,-4.5,-1.6,-3.4,80.0,40.0,N,3.4,7.9,1.0,0
+208,SS Creek DOT,OVC,NO,-0.9,2.3,-0.8,17.0,1.0,Other,2.5,11.4,1.0,0
+209,Snettisham Dorm,BKN,NO,-3.0,-0.4,-1.0,132.8,32.0,NNE,5.3,7.0,3.0,0
+210,Mt Roberts Tram,CLR,NO,-5.6,-2.0,-2.6,190.4,0.0,NNW,1.2,2.6,3.0,0
+211,Speel Arm Balcony,CLR,NO,-8.0,-2.3,-3.3,55.0,0.0,N,4.4,8.0,3.0,0
+212,SS Creek DOT,CLR,NO,-6.7,2.0,-0.5,16.0,0.0,SE,0.3,5.5,3.0,0
+213,Snettisham Dorm,CLR,NO,-11.9,-2.0,-8.9,119.8,0.0,NNW,2.1,9.8,2.0,0
+214,Mt Roberts Tram,CLR,NO,-3.2,1.1,-1.0,187.8,0.0,SE,0.0,3.0,2.0,0
+215,Speel Arm Balcony,CLR,NO,-3.4,0.5,-1.7,54.0,0.0,N,2.6,7.9,2.0,0
+216,SS Creek DOT,CLR,NO,-2.8,6.1,-2.7,16.0,0.0,Other,0.6,11.1,2.0,0
+217,Snettisham Dorm,CLR,NO,-8.6,2.1,-5.3,116.1,0.0,Other,3.9,8.9,2.0,0
+218,Mt Roberts Tram,CLR,NO,-1.5,3.9,3.5,184.0,0.0,NNW,0.7,2.0,2.0,0
+219,Speel Arm Balcony,CLR,NO,-2.5,4.1,4.1,54.0,0.0,N,4.6,8.1,2.0,0
+220,SS Creek DOT,CLR,NO,-3.1,3.6,-1.9,16.0,0.0,N,0.8,5.0,2.0,0
+221,Snettisham Dorm,CLR,NO,-7.2,4.8,-4.9,114.0,0.0,Other,1.8,7.8,2.0,0
+222,Mt Roberts Tram,CLR,NO,3.5,6.5,5.4,181.7,0.0,Other,0.9,3.5,1.0,1
+223,Speel Arm Balcony,CLR,NO,1.8,5.2,1.8,52.0,0.0,NNW,2.4,8.2,1.0,1
+224,SS Creek DOT,CLR,NO,-2.1,10.5,-0.8,14.0,0.0,Other,1.4,4.7,1.0,1
+225,Snettisham Dorm,CLR,NO,-5.1,7.6,-3.3,110.7,0.0,NNE,6.0,10.5,2.0,1
+226,Mt Roberts Tram,CLR,NO,0.4,5.6,1.1,179.3,0.0,Other,0.3,2.0,1.0,0
+227,Speel Arm Balcony,CLR,NO,-0.8,5.1,-0.8,51.0,0.0,NNW,2.2,6.2,1.0,0
+228,SS Creek DOT,CLR,NO,-2.4,6.9,-2.4,14.0,0.0,Other,0.8,5.3,1.0,0
+229,Snettisham Dorm,CLR,NO,-5.5,8.2,-5.0,109.4,0.0,Other,1.6,9.6,2.0,0
+230,Mt Roberts Tram,OVC,NO,-3.4,1.4,-3.4,177.2,0.0,Other,0.8,3.6,1.0,0
+231,Speel Arm Balcony,OVC,NO,-4.4,1.4,-4.4,51.0,0.0,NNW,2.0,7.0,1.0,0
+232,SS Creek DOT,OVC,NO,-2.3,6.5,1.2,14.0,0.0,Other,0.6,10.8,1.0,0
+233,Snettisham Dorm,OVC,NO,-5.8,7.0,-0.3,107.8,0.0,Other,3.3,10.3,1.0,0
+234,Mt Roberts Tram,CLR,NO,-6.1,-3.4,-6.1,174.8,0.0,Other,0.9,2.8,1.0,1
+235,Mt Roberts Tram,CLR,NO,-6.1,-3.4,-6.1,174.8,0.0,Other,0.9,2.8,1.0,1
+236,Speel Arm Balcony,CLR,NO,-8.0,-4.4,-8.0,51.0,0.0,N,3.4,7.0,1.0,1
+237,Speel Arm Balcony,CLR,NO,-8.0,-4.4,-8.0,51.0,0.0,N,3.4,7.0,1.0,1
+238,SS Creek DOT,CLR,NO,-2.7,0.9,-2.3,14.0,0.0,ESE,0.8,10.6,1.0,1
+239,SS Creek DOT,CLR,NO,-2.7,0.9,-2.3,14.0,0.0,ESE,0.8,10.6,1.0,1
+240,Snettisham Dorm,CLR,NO,-9.9,0.0,-9.9,106.4,0.0,NNE,6.9,10.3,1.0,1
+241,Snettisham Dorm,CLR,NO,-9.9,0.0,-9.9,106.4,0.0,NNE,6.9,10.3,1.0,1
+242,Mt Roberts Tram,CLR,NO,-6.2,-3.9,-6.2,173.7,0.0,SE,0.1,2.4,1.0,0
+243,Speel Arm Balcony,CLR,NO,-8.0,-5.4,-8.0,51.0,0.0,NNW,2.1,7.3,1.0,0
+244,SS Creek DOT,CLR,NO,-6.3,2.6,-6.3,14.0,0.0,NNW,0.8,5.3,1.0,0
+245,Snettisham Dorm,CLR,NO,-12.2,1.0,-12.2,105.1,0.0,NNE,6.9,8.5,1.0,0
+246,Mt Roberts Tram,CLR,NO,-6.2,-2.9,-4.1,172.4,0.0,Other,0.9,2.2,1.0,0
+247,Speel Arm Balcony,CLR,NO,-8.0,-4.2,-6.1,50.0,0.0,N,3.3,6.7,1.0,0
+248,SS Creek DOT,CLR,NO,-6.4,2.7,-5.3,13.0,0.0,N,1.1,5.3,1.0,0
+249,Snettisham Dorm,CLR,NO,-12.5,0.5,-11.2,104.8,0.0,Other,7.7,9.2,1.0,0
+250,Mt Roberts Tram,FEW,NO,-4.8,-2.3,-4.8,170.1,0.0,SE,0.1,2.6,1.0,0
+251,Speel Arm Balcony,CLR,NO,-6.2,-3.3,-4.7,50.0,0.0,N,3.0,6.9,1.0,0
+252,SS Creek DOT,FEW,NO,-5.7,3.0,-5.7,14.0,0.0,Other,0.8,9.4,1.0,0
+253,Snettisham Dorm,CLR,NO,-11.7,2.0,-9.9,103.0,0.0,NNE,6.0,9.3,1.0,0
+254,Mt Roberts Tram,CLR,NO,-4.9,-0.4,-4.1,170.1,0.0,SE,0.0,0.8,1.0,0
+255,Speel Arm Balcony,CLR,NO,-5.0,0.0,-3.7,51.0,0.0,Other,0.6,7.1,1.0,0
+256,SS Creek DOT,CLR,NO,-5.8,4.7,-5.1,14.0,0.0,N,0.0,3.6,1.0,0
+257,Snettisham Dorm,CLR,NO,-10.0,2.8,-9.5,102.5,0.0,NNE,2.8,9.8,1.0,0
+258,Mt Roberts Tram,OVC,NO,-4.3,0.1,-2.4,168.0,0.0,N,0.0,0.7,1.0,0
+259,Speel Arm Balcony,CLR,NO,-4.1,1.0,-4.1,50.0,0.0,Other,0.8,2.3,1.0,0
+260,SS Creek DOT,OVC,NO,-5.2,3.1,-2.4,13.0,0.0,ESE,0.3,5.0,1.0,0
+261,Snettisham Dorm,CLR,NO,-10.5,3.7,-10.3,102.8,0.0,NNE,2.8,6.0,1.0,0
+262,Mt Roberts Tram,OVC,NO,-2.4,0.2,-1.7,166.7,0.0,Other,0.0,0.7,1.0,0
+263,Speel Arm Balcony,OVC,NO,-4.1,1.4,-2.0,50.0,0.0,Other,0.5,1.8,1.0,0
+264,SS Creek DOT,OVC,NO,-2.1,3.6,1.6,13.0,0.0,ESE,0.6,5.3,1.0,0
+265,Snettisham Dorm,OVC,NO,-10.6,4.7,-3.1,102.4,0.0,N,2.1,4.9,1.0,0
+266,Mt Roberts Tram,X,SN,-2.1,1.2,-2.1,167.8,3.0,NNE,0.4,1.8,1.0,0
+267,Speel Arm Balcony,X,SN,-2.4,0.5,-2.1,49.0,3.0,Other,6.1,9.4,1.0,0
+268,SS Creek DOT,X,RS,1.4,4.9,1.9,11.0,0.0,SE,8.3,14.2,1.0,0
+269,Snettisham Dorm,X,RS,-3.3,5.1,2.9,105.1,6.0,Other,2.6,11.2,1.0,0
+270,Mt Roberts Tram,X,SN,-2.1,-0.5,-0.9,189.1,20.0,N,0.0,1.8,2.0,0
+271,Speel Arm Balcony,X,SN,-2.2,-0.9,-1.4,56.0,10.0,Other,2.4,9.5,2.0,0
+272,SS Creek DOT,OVC,RA,1.8,3.4,2.9,5.0,0.0,ESE,2.8,15.5,2.0,0
+273,Snettisham Dorm,OVC,RS,0.6,4.0,1.3,101.5,3.0,NNE,1.0,11.9,2.0,0
+274,Mt Roberts Tram,X,SN,-1.0,0.3,-0.8,181.0,5.0,Other,0.0,0.5,2.0,0
+275,Speel Arm Balcony,X,SN,-1.5,-0.6,-1.0,64.0,7.0,Other,2.5,4.9,2.0,0
+276,SS Creek DOT,OVC,RA,2.3,4.2,3.2,1.0,0.0,ESE,2.2,6.4,2.0,0
+277,Snettisham Dorm,X,RA,0.9,5.4,1.1,95.2,0.0,Other,1.5,4.6,2.0,0
+278,Mt Roberts Tram,X,SN,-0.8,0.4,-0.1,186.1,4.0,N,0.0,0.3,1.0,0
+279,Speel Arm Balcony,X,SN,-1.2,-0.1,-0.9,79.0,14.0,Other,3.6,6.3,1.0,0
+280,SS Creek DOT,OVC,RA,2.9,4.0,3.2,1.0,0.0,SE,3.1,7.5,1.0,0
+281,Snettisham Dorm,OVC,RS,0.7,5.3,0.8,89.5,0.0,Other,0.0,4.3,2.0,0
+282,Mt Roberts Tram,X,SN,-0.7,0.2,-0.4,196.9,11.0,N,0.0,1.3,1.0,0
+283,Speel Arm Balcony,X,SN,-1.3,-0.2,-1.2,93.0,22.0,Other,4.4,8.4,1.0,0
+284,SS Creek DOT,OVC,RA,2.5,5.5,3.1,0.0,0.0,SE,5.3,11.1,1.0,0
+285,Mt Roberts Tram,X,SN,-1.2,0.2,-1.2,193.2,8.0,N,0.0,1.1,2.0,0
+286,Speel Arm Balcony,X,SN,-2.0,-0.3,-2.0,80.0,15.0,Other,2.9,8.5,2.0,0
+287,SS Creek DOT,OVC,RA,2.5,4.1,2.7,0.0,0.0,ESE,3.3,8.9,2.0,0
+288,Snettisham Dorm,OVC,RS,0.7,4.9,1.3,85.4,0.0,Other,1.9,10.0,2.0,0
+289,Mt Roberts Tram,OVC,RS,-1.4,1.1,1.1,204.0,7.0,Other,0.2,1.4,2.0,0
+290,Speel Arm Balcony,X,SN,-2.0,0.0,0.0,93.0,18.0,N,1.5,4.5,2.0,0
+291,SS Creek DOT,OVC,RA,2.1,3.8,3.5,0.0,0.0,SE,0.8,5.8,2.0,0
+292,Snettisham Dorm,OVC,RA,0.9,3.8,1.6,83.7,0.0,Other,2.2,6.1,2.0,0
+293,Mt Roberts Tram,OVC,NO,3.1,6.2,6.2,174.3,0.0,ESE,0.2,1.9,2.0,1
+294,Mt Roberts Tram,OVC,NO,3.1,6.2,6.2,174.3,0.0,ESE,0.2,1.9,2.0,1
+295,Speel Arm Balcony,OVC,NO,3.7,8.8,8.0,60.0,0.0,Other,3.2,10.5,2.0,1
+296,Speel Arm Balcony,OVC,NO,3.7,8.8,8.0,60.0,0.0,Other,3.2,10.5,2.0,1
+297,SS Creek DOT,OVC,NO,4.4,12.4,7.9,0.0,0.0,SE,4.2,15.8,2.0,1
+298,SS Creek DOT,OVC,NO,4.4,12.4,7.9,0.0,0.0,SE,4.2,15.8,2.0,1
+299,Snettisham Dorm,OVC,NO,2.1,4.6,2.8,78.2,0.0,ESE,1.7,6.2,2.0,1
+300,Snettisham Dorm,OVC,NO,2.1,4.6,2.8,78.2,0.0,ESE,1.7,6.2,2.0,1
+301,Mt Roberts Tram,CLR,NO,6.2,10.5,8.7,170.2,0.0,Other,0.1,1.7,2.0,1
+302,Mt Roberts Tram,CLR,NO,6.2,10.5,8.7,170.2,0.0,Other,0.1,1.7,2.0,1
+303,Mt Roberts Tram,CLR,NO,6.2,10.5,8.7,170.2,0.0,Other,0.1,1.7,2.0,1
+304,Mt Roberts Tram,CLR,NO,6.2,10.5,8.7,170.2,0.0,Other,0.1,1.7,2.0,1
+305,Mt Roberts Tram,CLR,NO,6.2,10.5,8.7,170.2,0.0,Other,0.1,1.7,2.0,1
+306,Mt Roberts Tram,CLR,NO,6.2,10.5,8.7,170.2,0.0,Other,0.1,1.7,2.0,1
+307,Speel Arm Balcony,CLR,NO,8.0,11.0,8.5,54.0,0.0,Other,0.9,7.4,2.0,1
+308,Speel Arm Balcony,CLR,NO,8.0,11.0,8.5,54.0,0.0,Other,0.9,7.4,2.0,1
+309,Speel Arm Balcony,CLR,NO,8.0,11.0,8.5,54.0,0.0,Other,0.9,7.4,2.0,1
+310,Speel Arm Balcony,CLR,NO,8.0,11.0,8.5,54.0,0.0,Other,0.9,7.4,2.0,1
+311,Speel Arm Balcony,CLR,NO,8.0,11.0,8.5,54.0,0.0,Other,0.9,7.4,2.0,1
+312,Speel Arm Balcony,CLR,NO,8.0,11.0,8.5,54.0,0.0,Other,0.9,7.4,2.0,1
+313,SS Creek DOT,CLR,NO,2.8,14.4,2.8,0.0,0.0,SE,2.8,10.6,2.0,1
+314,SS Creek DOT,CLR,NO,2.8,14.4,2.8,0.0,0.0,SE,2.8,10.6,2.0,1
+315,SS Creek DOT,CLR,NO,2.8,14.4,2.8,0.0,0.0,SE,2.8,10.6,2.0,1
+316,SS Creek DOT,CLR,NO,2.8,14.4,2.8,0.0,0.0,SE,2.8,10.6,2.0,1
+317,SS Creek DOT,CLR,NO,2.8,14.4,2.8,0.0,0.0,SE,2.8,10.6,2.0,1
+318,SS Creek DOT,CLR,NO,2.8,14.4,2.8,0.0,0.0,SE,2.8,10.6,2.0,1
+319,Snettisham Dorm,CLR,NO,0.8,10.7,0.8,75.8,0.0,Other,0.3,4.5,2.0,1
+320,Snettisham Dorm,CLR,NO,0.8,10.7,0.8,75.8,0.0,Other,0.3,4.5,2.0,1
+321,Snettisham Dorm,CLR,NO,0.8,10.7,0.8,75.8,0.0,Other,0.3,4.5,2.0,1
+322,Snettisham Dorm,CLR,NO,0.8,10.7,0.8,75.8,0.0,Other,0.3,4.5,2.0,1
+323,Snettisham Dorm,CLR,NO,0.8,10.7,0.8,75.8,0.0,Other,0.3,4.5,2.0,1
+324,Snettisham Dorm,CLR,NO,0.8,10.7,0.8,75.8,0.0,Other,0.3,4.5,2.0,1
+325,Mt Roberts Tram,X,RA,0.8,3.5,3.1,188.8,0.0,Other,0.1,1.5,2.0,0
+326,Speel Arm Balcony,X,RA,-0.1,5.1,4.5,73.0,0.0,Other,1.9,8.7,2.0,0
+327,SS Creek DOT,OVC,RA,3.0,7.4,4.3,0.0,0.0,SE,0.6,9.2,2.0,0
+328,Snettisham Dorm,OVC,RA,1.4,4.2,2.1,81.7,0.0,NNW,0.8,4.4,2.0,0
+329,Snettisham Dorm,X,RS,0.6,6.3,0.7,85.6,2.0,Other,1.9,4.6,1.0,0
+330,Mt Roberts Tram,SCT,NO,8.7,13.7,9.8,165.8,0.0,SE,0.1,1.0,2.0,0
+331,Speel Arm Balcony,FEW,NO,8.5,11.9,11.1,50.0,0.0,Other,1.9,3.9,2.0,0
+332,SS Creek DOT,SCT,NO,1.8,11.5,2.1,0.0,0.0,Other,1.1,3.3,2.0,0
+333,Snettisham Dorm,FEW,NO,0.5,14.0,0.7,73.8,0.0,ESE,2.1,5.1,2.0,0
+334,Mt Roberts Tram,OVC,RA,8.6,13.3,10.7,155.3,0.0,Other,0.2,1.8,1.0,0
+335,Speel Arm Balcony,OVC,RA,7.8,12.1,10.2,46.0,0.0,Other,1.0,4.5,1.0,0
+336,SS Creek DOT,OVC,RA,1.9,10.2,5.5,0.0,0.0,SE,1.4,4.2,1.0,0
+337,Snettisham Dorm,OVC,RA,0.5,11.8,3.0,71.5,0.0,Other,3.0,6.8,1.0,0
+338,Mt Roberts Tram,BKN,NO,8.3,12.7,9.1,152.3,0.0,Other,0.2,1.4,1.0,0
+339,Speel Arm Balcony,OVC,NO,8.1,11.7,9.3,38.0,0.0,NNW,1.6,4.1,1.0,0
+340,SS Creek DOT,BKN,NO,4.2,10.9,4.3,0.0,0.0,Other,0.8,3.3,1.0,0
+341,Snettisham Dorm,OVC,NO,2.5,12.4,3.5,68.2,0.0,ESE,1.4,6.4,1.0,0
+342,Mt Roberts Tram,OVC,RA,3.9,11.5,3.9,146.1,0.0,ESE,0.1,1.4,1.0,0
+343,Speel Arm Balcony,OVC,RA,4.8,10.9,4.8,36.0,0.0,Other,2.3,5.8,1.0,0
+344,SS Creek DOT,OVC,RA,4.1,10.1,8.2,0.0,0.0,SE,4.2,8.3,1.0,0
+345,Snettisham Dorm,OVC,RA,2.1,11.8,2.5,64.3,0.0,Other,1.4,5.2,1.0,0
+346,Mt Roberts Tram,FEW,NO,2.7,5.1,4.3,142.0,0.0,SE,0.0,1.1,1.0,0
+347,Speel Arm Balcony,CLR,NO,2.4,4.8,4.0,33.0,0.0,Other,1.2,6.4,1.0,0
+348,SS Creek DOT,FEW,NO,1.9,8.6,1.9,0.0,0.0,N,0.0,9.4,1.0,0
+349,Snettisham Dorm,FEW,NO,1.7,7.4,1.8,62.1,0.0,ESE,1.1,9.2,1.0,0
+350,Mt Roberts Tram,CLR,NO,2.3,7.8,2.3,140.3,0.0,Other,0.0,1.0,1.0,0
+351,Speel Arm Balcony,CLR,NO,3.1,7.6,3.1,31.0,0.0,Other,0.5,2.5,1.0,0
+352,SS Creek DOT,CLR,NO,0.8,7.9,1.3,0.0,0.0,N,0.0,3.3,1.0,0
+353,Snettisham Dorm,CLR,NO,-0.8,11.4,-0.6,59.7,0.0,NNE,1.5,4.8,1.0,0
+354,Mt Roberts Tram,FEW,NO,1.7,5.9,5.9,138.6,0.0,N,0.2,1.3,0.0,0
+355,Speel Arm Balcony,SCT,NO,2.9,7.7,5.2,29.0,0.0,N,1.9,4.8,1.0,0
+356,SS Creek DOT,FEW,NO,0.6,11.0,2.8,0.0,0.0,NNW,1.4,8.1,0.0,0
+357,Snettisham Dorm,SCT,NO,-1.0,10.6,0.8,57.8,0.0,Other,2.5,5.0,0.0,0
+358,Mt Roberts Tram,CLR,NO,5.0,7.3,5.0,136.3,0.0,N,0.0,3.3,0.0,0
+359,Speel Arm Balcony,CLR,NO,4.2,7.9,4.6,26.0,0.0,NNW,0.6,8.0,1.0,0
+360,SS Creek DOT,CLR,NO,1.7,12.9,1.7,0.0,0.0,N,0.0,13.6,0.0,0
+361,Snettisham Dorm,CLR,NO,0.3,15.1,0.9,52.6,0.0,NNW,0.0,11.4,0.0,0
+362,Mt Roberts Tram,CLR,NO,4.3,9.3,4.6,134.9,0.0,Other,0.0,1.1,0.0,0
+363,Speel Arm Balcony,CLR,NO,4.4,10.3,5.9,23.0,0.0,Other,0.6,2.2,1.0,0
+364,SS Creek DOT,CLR,NO,0.2,9.3,0.2,0.0,0.0,N,0.0,4.2,0.0,0
+365,Snettisham Dorm,CLR,NO,-0.2,13.6,0.1,46.1,0.0,N,1.8,6.0,0.0,0
+366,Mt Roberts Tram,CLR,NO,5.7,9.0,9.0,130.9,0.0,NNW,0.7,2.2,0.0,0
+367,Speel Arm Balcony,CLR,NO,5.8,8.0,7.7,15.0,0.0,NNW,1.5,5.9,1.0,0
+368,SS Creek DOT,CLR,NO,2.1,14.0,3.1,0.0,0.0,NNW,1.1,7.8,0.0,0
+369,Snettisham Dorm,CLR,NO,0.0,15.2,0.3,38.0,0.0,ESE,1.1,8.3,0.0,0
+370,Mt Roberts Tram,CLR,NO,8.0,12.8,8.1,129.9,0.0,SE,0.0,1.8,0.0,0
+371,SS Creek DOT,CLR,NO,1.6,12.6,1.6,0.0,0.0,N,0.0,3.9,0.0,0
+372,Snettisham Dorm,CLR,NO,0.2,15.6,1.9,33.9,0.0,N,0.7,6.9,0.0,0
+373,Mt Roberts Tram,OVC,NO,5.3,12.1,5.3,128.1,0.0,SE,0.0,0.8,0.0,0
+374,SS Creek DOT,OVC,NO,1.3,12.2,5.1,0.0,0.0,ESE,0.6,5.5,0.0,0
+375,Snettisham Dorm,OVC,NO,0.6,15.8,1.1,29.3,0.0,NNE,0.5,6.7,0.0,0
+376,Mt Roberts Tram,X,SN,0.1,6.8,0.3,130.1,5.0,N,0.0,1.3,0.0,0
+377,SS Creek DOT,OVC,RA,2.5,9.6,2.5,0.0,0.0,Other,0.3,6.9,0.0,0
+378,Snettisham Dorm,OVC,RA,0.4,12.2,5.7,24.1,0.0,Other,2.1,7.4,0.0,0
+379,Mt Roberts Tram,OVC,SN,-1.0,0.7,-0.5,134.2,4.4,Other,0.7,2.1,0.0,0
+380,SS Creek DOT,OVC,RA,2.2,5.5,2.2,0.0,0.0,N,0.8,2.8,0.0,0
+381,Snettisham Dorm,OVC,RA,1.9,6.0,1.9,19.9,0.0,NNE,2.9,9.4,0.0,0
+382,Mt Roberts Tram,OVC,NO,-0.8,3.4,2.5,134.6,2.3,Other,0.1,2.5,0.0,0
+383,SS Creek DOT,OVC,NO,2.1,6.2,4.1,0.0,0.0,N,0.0,9.2,0.0,0
+384,Snettisham Dorm,OVC,NO,1.7,5.2,3.0,15.7,0.0,N,3.8,7.9,0.0,0
+385,Mt Roberts Tram,OVC,RA,0.9,4.9,1.3,128.1,0.0,Other,0.1,2.6,0.0,0
+386,SS Creek DOT,OVC,RA,4.3,9.1,4.3,0.0,0.0,Other,0.3,7.2,0.0,0
+387,Snettisham Dorm,OVC,RA,2.8,9.1,3.0,10.0,0.0,ESE,4.4,9.2,0.0,0
+388,Mt Roberts Tram,OVC,RA,0.3,2.6,0.3,127.8,0.0,SE,0.0,0.9,0.0,0
+389,Speel Arm Balcony,X,RS,-0.1,2.2,0.3,0.0,2.0,Other,1.5,5.1,0.0,0
+390,Snettisham Dorm,OVC,RA,1.9,7.2,2.6,0.0,0.0,Other,0.0,7.1,0.0,0
+391,Other,OVC,RA,0.6,4.3,1.7,0.0,0.0,Other,0.1,2.3,0.0,0
+392,Mt Roberts Tram,OVC,RA,0.3,2.2,0.7,129.1,0.0,Other,0.0,0.9,0.0,0
+393,Snettisham Dorm,OVC,RA,1.9,3.7,2.0,0.0,0.0,Other,1.4,4.5,0.0,0
+394,Mt Roberts Tram,OVC,RA,0.8,4.0,1.2,129.5,0.0,NNE,0.1,1.6,0.0,0
+395,SS Creek DOT,OVC,RA,4.1,7.7,5.3,0.0,0.0,SE,3.9,11.4,0.0,0
+396,Snettisham Dorm,OVC,RA,2.8,7.2,2.9,3.7,0.0,Other,2.0,9.7,0.0,0
+397,Mt Roberts Tram,CLR,NO,0.3,4.5,0.6,127.8,0.0,SE,0.0,1.2,0.0,0
+398,SS Creek DOT,X,NO,-0.3,7.8,-0.2,0.0,0.0,NNW,0.3,6.1,0.0,0
+399,Snettisham Dorm,CLR,NO,-0.4,9.5,-0.1,0.0,0.0,Other,0.5,6.2,0.0,0
+400,Mt Roberts Tram,X,SN,-0.1,1.9,-0.1,114.6,1.0,N,0.0,2.1,0.0,0
+401,SS Creek DOT,OVC,RA,3.9,6.2,3.9,0.0,0.0,ESE,3.6,14.4,0.0,0
+402,Snettisham Dorm,OVC,RA,3.5,6.9,3.9,0.0,0.0,Other,6.1,14.3,0.0,0
+403,Mt Roberts Tram,X,RA,0.7,3.2,2.9,120.7,0.0,N,0.3,2.2,0.0,0
+404,SS Creek DOT,OVC,RA,4.6,5.6,5.5,0.0,0.0,ESE,2.2,6.1,0.0,0
+405,Snettisham Dorm,OVC,RA,2.5,4.2,3.2,0.0,0.0,Other,1.7,5.9,0.0,0
+406,Mt Roberts Tram,BKN,GR,-2.1,0.6,-2.0,120.7,3.4,Other,0.0,1.6,0.0,0
+407,Mt Roberts Tram,BKN,GR,-0.4,4.1,-0.4,113.2,3.4,NNE,0.4,1.8,0.0,0
+408,Snettisham Dorm,BKN,GR,3.1,8.5,4.8,0.0,1.0,Other,7.4,16.4,0.0,0
+409,Mt Roberts Tram,CLR,NO,2.0,9.0,3.6,117.9,0.0,N,0.0,1.5,0.0,0
+410,SS Creek DOT,CLR,NO,1.2,13.8,1.9,0.0,0.0,NNW,0.3,5.5,0.0,0
+411,Snettisham Dorm,CLR,NO,-0.2,14.6,1.1,0.0,0.0,ESE,0.3,5.6,0.0,0
+412,Mt Roberts Tram,CLR,NO,2.0,9.7,2.0,119.6,0.0,N,0.0,1.5,0.0,0
+413,SS Creek DOT,CLR,NO,0.6,14.6,1.1,0.0,0.0,NNW,0.3,5.0,0.0,0
+414,Snettisham Dorm,CLR,NO,0.0,14.8,0.0,0.0,0.0,N,0.7,5.5,0.0,0
+415,Mt Roberts Tram,FEW,NO,3.2,11.2,4.7,2.7,0.0,NNE,0.0,1.3,0.0,0
+416,SS Creek DOT,FEW,NO,1.8,16.1,2.7,0.0,0.0,N,0.0,6.4,0.0,0
+417,Snettisham Dorm,FEW,NO,0.6,16.8,1.4,0.0,0.0,Other,1.0,6.1,0.0,0
+418,Mt Roberts Tram,X,RA,5.2,8.0,5.8,0.0,0.0,Other,0.2,1.3,0.0,0
+419,Speel Arm Balcony,X,RA,5.1,8.9,7.4,0.0,0.0,Other,1.9,5.0,0.0,0
+420,SS Creek DOT,OVC,RA,7.3,9.8,9.4,0.0,0.0,SE,5.3,8.9,0.0,0
+421,Snettisham Dorm,OVC,RA,6.5,10.9,8.3,0.0,0.0,ESE,0.2,3.4,0.0,0
+422,Other,X,RA,5.9,9.5,6.8,0.0,0.0,Other,0.1,1.6,0.0,0
+423,Mt Roberts Tram,X,SN,0.9,3.5,1.6,1.0,1.0,N,0.0,1.7,0.0,0
+424,Mt Roberts Tram,OVC,RA,0.6,3.3,2.5,0.0,0.0,NNW,0.2,1.7,0.0,0
+425,SS Creek DOT,OVC,RA,2.5,6.8,6.0,0.0,0.0,SE,3.3,6.9,0.0,0
+426,Snettisham Dorm,X,NO,0.7,4.0,3.3,0.0,0.0,ESE,0.9,3.1,0.0,0
+427,Other,X,RA,0.4,2.9,2.5,0.0,0.0,NNW,0.1,2.2,0.0,0
+428,Mt Roberts Tram,X,RS,0.5,1.7,1.7,5.0,5.0,NNW,0.0,1.1,0.0,0
+429,Speel Arm Balcony,X,RS,-0.1,1.5,1.5,5.0,5.0,Other,1.3,5.8,0.0,0
+430,SS Creek DOT,OVC,RA,0.0,5.4,4.5,0.0,0.0,ESE,1.1,8.3,0.0,0
+431,Snettisham Dorm,X,RA,0.7,4.2,1.2,0.0,0.0,ESE,1.1,2.6,0.0,0
+432,Mt Roberts Tram,OVC,NO,1.7,3.1,2.8,2.0,1.0,N,0.0,0.6,0.0,0
+433,Speel Arm Balcony,X,RA,1.3,2.9,2.2,2.0,1.0,Other,2.0,3.7,0.0,0
+434,SS Creek DOT,OVC,NO,4.5,6.6,6.0,0.0,0.0,Other,0.3,5.8,0.0,0
+435,Snettisham Dorm,OVC,NO,1.2,4.2,3.9,0.0,0.0,NNE,0.3,3.5,0.0,0
+436,Other,X,RA,0.2,3.6,2.8,0.0,0.0,N,0.1,1.1,0.0,0
+437,Mt Roberts Tram,OVC,RA,1.4,3.3,2.4,0.0,0.0,ESE,0.1,1.1,0.0,0
+438,SS Creek DOT,OVC,RA,4.7,6.9,4.9,0.0,0.0,ESE,0.6,8.1,0.0,0
+439,Snettisham Dorm,OVC,RA,2.8,6.6,2.8,0.0,0.0,N,2.5,3.9,0.0,0
+440,Other,X,RA,0.7,4.7,0.7,0.0,0.0,Other,0.2,1.5,0.0,0
+441,Mt Roberts Tram,OVC,NO,3.1,5.7,3.1,0.0,0.0,Other,0.0,0.5,0.0,0
+442,SS Creek DOT,OVC,NO,6.2,7.9,6.2,0.0,0.0,N,0.0,3.9,0.0,0
+443,Snettisham Dorm,OVC,NO,5.0,8.0,6.0,0.0,0.0,NNE,1.6,3.9,0.0,0
+444,Other,OVC,NO,4.1,6.5,4.1,0.0,0.0,N,0.0,1.8,0.0,0
+445,Mt Roberts Tram,OVC,RA,3.1,5.7,3.1,0.0,0.0,Other,0.0,0.5,0.0,0
+446,Speel Arm Balcony,OVC,RA,2.2,5.5,2.2,0.0,0.0,NNW,0.7,4.7,0.0,0
+447,SS Creek DOT,OVC,NO,6.2,7.9,6.2,0.0,0.0,N,0.0,3.9,0.0,0
+448,Snettisham Dorm,OVC,RA,5.0,8.0,6.0,0.0,0.0,NNE,1.6,3.9,0.0,0
+449,Other,OVC,RA,4.1,6.5,4.1,0.0,0.0,N,0.0,1.8,0.0,0
+450,Mt Roberts Tram,X,RA,2.9,4.6,3.8,0.0,0.0,N,0.0,0.5,0.0,0
+451,Speel Arm Balcony,X,RA,2.2,4.1,2.7,0.0,0.0,Other,0.1,2.6,0.0,0
+452,SS Creek DOT,OVC,RA,5.9,7.2,5.9,0.0,0.0,SE,0.3,2.5,0.0,0
+453,Snettisham Dorm,OVC,RA,5.7,7.3,5.7,0.0,0.0,ESE,0.7,4.2,0.0,0
+454,Other,X,RA,3.8,4.7,3.8,0.0,0.0,NNE,0.1,1.4,0.0,0
+455,Mt Roberts Tram,OVC,NO,1.2,4.1,1.2,0.0,0.0,NNW,0.6,2.6,0.0,0
+456,SS Creek DOT,OVC,NO,4.7,6.2,5.2,0.0,0.0,N,1.7,8.6,0.0,0
+457,Snettisham Dorm,OVC,RA,4.1,6.5,4.1,0.0,0.0,N,4.9,6.8,0.0,0
+458,Other,OVC,RA,2.4,4.8,2.7,0.0,0.0,NNE,2.1,5.1,0.0,0
+459,Mt Roberts Tram,OVC,NO,-0.7,1.7,-0.7,0.0,0.0,Other,0.0,3.4,0.0,0
+460,SS Creek DOT,OVC,NO,0.2,7.1,0.5,0.0,0.0,Other,0.3,12.5,0.0,0
+461,Snettisham Dorm,OVC,NO,0.7,5.8,1.6,0.0,0.0,NNE,3.1,8.9,0.0,0
+462,Other,OVC,NO,-0.4,4.3,-0.4,0.0,0.0,NNE,0.8,6.7,0.0,0
+463,Mt Roberts Tram,OVC,RA,0.6,5.8,5.1,0.0,0.0,N,0.1,1.9,0.0,0
+464,SS Creek DOT,OVC,RA,0.4,5.2,5.0,0.0,0.0,SE,2.5,4.2,0.0,0
+465,Snettisham Dorm,OVC,RA,1.3,2.9,2.8,0.0,0.0,ESE,1.2,5.5,0.0,0
+466,Other,X,RA,-0.4,2.7,2.7,0.0,0.0,N,0.3,2.6,0.0,0
+467,Mt Roberts Tram,BKN,NO,3.3,5.9,3.8,0.0,0.0,SE,0.0,1.1,0.0,0
+468,SS Creek DOT,X,NO,4.0,5.4,4.0,0.0,0.0,ESE,0.6,4.2,0.0,0
+469,Snettisham Dorm,X,NO,1.6,4.9,1.6,0.0,0.0,SE,0.5,5.1,0.0,0
+470,Other,X,NO,1.3,5.2,1.3,0.0,0.0,Other,0.4,2.2,0.0,0
+471,SS Creek DOT,SCT,NO,2.8,10.9,2.8,0.0,0.0,Other,3.1,19.2,0.0,0
+472,Snettisham Dorm,SCT,NO,1.4,9.4,1.7,0.0,0.0,Other,8.6,15.4,0.0,0
+473,Other,SCT,NO,-1.0,8.7,-1.0,0.0,0.0,NNE,5.3,10.6,0.0,0
+474,SS Creek DOT,OVC,NO,-1.6,2.8,-1.6,0.0,0.0,N,0.0,22.8,0.0,0
+475,Snettisham Dorm,OVC,NO,-2.8,1.8,-2.8,0.0,0.0,Other,7.9,17.4,0.0,0
+476,Other,OVC,NO,-5.4,-1.0,-5.4,0.0,0.0,Other,3.1,10.8,0.0,0
+477,Mt Roberts Tram,OVC,NO,-3.5,1.1,1.1,0.1,0.1,Other,0.2,1.3,0.0,0
+478,SS Creek DOT,OVC,NO,-1.8,0.4,-0.8,0.1,0.1,Other,0.3,2.5,0.0,0
+479,Mt Roberts Tram,OVC,RS,0.4,2.5,0.4,2.8,2.8,Other,0.2,2.6,0.0,0
+480,SS Creek DOT,OVC,RA,-0.9,2.5,2.4,0.0,0.0,NNE,0.6,4.4,0.0,0
+481,Snettisham Dorm,OVC,RA,-1.4,1.2,1.1,3.3,3.3,N,4.7,10.2,0.0,0
+482,Mt Roberts Tram,OVC,NO,0.2,4.4,4.1,0.0,0.0,N,0.1,1.5,0.0,0
+483,SS Creek DOT,OVC,NO,2.4,8.5,8.5,0.0,0.0,ESE,3.9,7.5,0.0,0
+484,Mt Roberts Tram,OVC,RA,4.1,5.8,5.8,0.0,0.0,Other,0.3,2.0,0.0,0
+485,Speel Arm Balcony,OVC,RA,3.5,5.7,4.3,0.0,0.0,Other,0.3,4.6,0.0,0
+486,SS Creek DOT,OVC,RA,6.8,9.5,7.7,0.0,0.0,Other,2.5,11.1,0.0,0
+487,Snettisham Dorm,OVC,RA,2.7,4.2,3.7,0.0,0.0,ESE,1.2,4.8,0.0,0
+488,Other,OVC,RA,2.9,5.5,4.4,0.0,0.0,NNW,0.3,2.4,0.0,0
+489,Mt Roberts Tram,OVC,RA,4.2,6.0,4.3,0.0,0.0,ESE,0.4,2.6,0.0,0
+490,Speel Arm Balcony,X,NO,3.3,6.1,3.6,0.0,0.0,Other,4.1,9.7,0.0,0
+491,SS Creek DOT,OVC,RA,7.2,9.8,8.2,0.0,0.0,SE,5.3,12.2,0.0,0
+492,Snettisham Dorm,OVC,RA,3.7,8.7,5.1,0.0,0.0,NNE,1.5,8.8,0.0,0
+493,Other,OVC,NO,3.6,7.4,3.7,0.0,0.0,Other,0.5,5.7,0.0,0
+494,Mt Roberts Tram,OVC,RA,4.0,5.2,4.4,0.0,0.0,NNE,0.2,2.6,0.0,0
+495,Speel Arm Balcony,X,RA,3.1,5.0,4.5,0.0,0.0,Other,2.1,7.7,0.0,0
+496,SS Creek DOT,OVC,RA,7.8,9.4,8.8,0.0,0.0,SE,3.3,12.2,0.0,0
+497,Snettisham Dorm,OVC,RA,5.1,6.8,6.5,0.0,0.0,ESE,1.3,7.6,0.0,0
+498,Other,OVC,RA,3.7,6.9,5.3,0.0,0.0,NNW,0.4,5.4,0.0,0
+499,Mt Roberts Tram,X,RA,4.1,6.5,6.4,0.0,0.0,ESE,0.1,1.8,0.0,0
+500,Speel Arm Balcony,OVC,RA,2.4,5.7,5.6,0.0,0.0,Other,2.1,7.2,0.0,0
+501,SS Creek DOT,OVC,RA,6.5,9.4,7.9,0.0,0.0,SE,5.0,10.8,0.0,0
+502,Snettisham Dorm,OVC,RA,5.0,6.5,5.7,0.0,0.0,Other,2.9,4.8,0.0,0
+503,Other,OVC,RA,3.3,7.5,7.5,0.0,0.0,Other,1.1,5.0,0.0,0
+504,Speel Arm Balcony,X,RA,1.7,5.6,2.1,0.0,0.0,NNW,1.5,10.1,0.0,0
+505,SS Creek DOT,OVC,NO,6.1,9.1,6.7,0.0,0.0,ESE,3.3,9.2,0.0,0
+506,Snettisham Dorm,OVC,RA,5.7,10.2,6.9,0.0,0.0,Other,2.5,15.1,0.0,0
+507,Other,X,RA,4.2,7.5,4.2,0.0,0.0,ESE,0.8,6.8,0.0,0
+508,SS Creek DOT,OVC,NO,4.0,6.8,4.6,0.0,0.0,SE,1.9,6.7,0.0,0
+509,Snettisham Dorm,OVC,NO,4.0,6.9,4.1,0.0,0.0,NNE,1.0,11.4,0.0,0
+510,Other,OVC,RA,3.1,4.5,3.1,0.0,0.0,Other,1.1,4.0,0.0,0
+511,Mt Roberts Tram,OVC,RA,0.5,3.9,3.9,0.0,1.0,N,0.4,2.1,0.0,0
+512,SS Creek DOT,OVC,RA,4.6,7.6,7.6,0.0,0.0,ESE,5.0,11.4,0.0,0
+513,Snettisham Dorm,OVC,RA,3.3,8.7,8.7,0.0,0.0,Other,3.8,10.8,0.0,0
+514,Other,OVC,RA,2.4,5.8,5.8,0.0,0.0,NNE,0.7,4.2,0.0,0
+515,Speel Arm Balcony,OVC,RA,2.4,4.9,2.4,0.0,0.0,Other,2.8,7.6,0.0,0
+516,SS Creek DOT,OVC,RA,6.6,9.1,6.7,0.0,0.0,SE,5.8,15.3,0.0,0
+517,Snettisham Dorm,OVC,RA,5.5,9.9,5.5,0.0,0.0,NNE,0.7,11.5,0.0,0
+518,Other,OVC,RA,4.4,7.2,4.4,0.0,0.0,Other,0.5,5.0,0.0,0
+519,Mt Roberts Tram,OVC,RA,2.0,2.8,2.0,0.0,0.0,NNW,0.5,2.9,0.0,0
+520,Speel Arm Balcony,OVC,RA,1.4,3.0,2.4,0.0,0.0,Other,2.0,8.0,0.0,0
+521,SS Creek DOT,OVC,RA,6.0,7.3,6.4,0.0,0.0,ESE,4.4,16.1,0.0,0
+522,Snettisham Dorm,OVC,RA,3.5,5.5,4.7,0.0,0.0,Other,1.1,5.9,0.0,0
+523,Other,OVC,RA,1.5,4.6,3.4,0.0,0.0,Other,0.4,4.4,0.0,0
+524,Mt Roberts Tram,OVC,NO,1.5,2.9,2.6,0.0,0.0,N,0.2,1.8,0.0,0
+525,SS Creek DOT,OVC,NO,5.3,7.0,6.5,0.0,0.0,SE,3.3,10.6,0.0,0
+526,Snettisham Dorm,OVC,RA,3.6,8.0,7.3,0.0,0.0,Other,4.9,14.9,0.0,0
+527,Other,OVC,RA,2.8,5.2,4.6,0.0,0.0,Other,0.9,8.1,0.0,0
+528,SS Creek DOT,BKN,NO,3.3,7.3,3.9,0.0,0.0,N,0.6,9.2,0.0,0
+529,Snettisham Dorm,BKN,NO,2.0,7.3,5.9,0.0,0.0,Other,5.9,12.2,0.0,0
+530,SS Creek DOT,BKN,RS,0.7,4.5,0.8,0.0,0.0,Other,0.3,7.8,0.0,0
+531,Snettisham Dorm,BKN,RS,1.1,5.9,1.1,0.0,0.0,Other,0.7,9.3,0.0,0
+532,Mt Roberts Tram,FEW,NO,-3.5,-1.4,-2.8,10.0,5.0,NNW,0.6,3.0,0.0,0
+533,SS Creek DOT,FEW,NO,-0.1,2.6,0.9,0.0,0.0,NNW,1.7,6.9,0.0,0
+534,Snettisham Dorm,FEW,NO,-0.7,2.3,-0.7,0.0,0.0,ESE,0.0,6.7,0.0,0
+535,Snettisham Dorm,FEW,NO,-3.7,1.4,-3.4,0.0,0.0,NNW,3.8,9.0,0.0,0
+536,Mt Roberts Tram,OVC,NO,-5.0,-3.5,-3.5,6.6,0.0,Other,0.0,0.9,0.0,0
+537,SS Creek DOT,OVC,NO,-3.6,-0.2,-1.2,0.0,0.0,SE,1.1,3.9,0.0,0
+538,Snettisham Dorm,OVC,NO,-5.1,-1.0,-3.2,0.0,0.0,ESE,1.7,5.9,0.0,0
+539,SS Creek DOT,BKN,NO,-1.1,0.3,-0.6,0.0,0.0,NNW,0.3,2.2,0.0,0
+540,Snettisham Dorm,BKN,NO,-3.3,-0.7,-1.3,0.0,0.0,Other,0.0,4.3,0.0,0
+541,Mt Roberts Tram,OVC,NO,-2.7,-1.4,-2.1,3.0,0.1,Other,0.0,0.3,0.0,0
+542,SS Creek DOT,OVC,NO,-0.6,1.1,0.9,0.0,0.1,SE,1.4,3.9,0.0,0
+543,Snettisham Dorm,OVC,NO,-1.5,1.5,0.7,0.0,0.0,NNE,0.7,3.5,0.0,0
+544,Snettisham Dorm,OVC,RS,0.5,1.4,0.6,3.8,6.0,ESE,0.0,5.0,0.0,0
+545,Mt Roberts Tram,OVC,RS,-0.3,0.5,0.5,32.0,15.0,N,0.0,1.9,0.0,0
+546,Snettisham Dorm,OVC,RA,0.5,3.9,3.9,15.5,15.5,Other,4.0,7.2,0.0,0
+547,Mt Roberts Tram,OVC,NO,-1.8,1.1,-1.8,39.0,7.0,N,0.0,1.3,0.0,0
+548,Speel Arm Balcony,OVC,SN,-2.0,1.5,-1.5,28.0,13.0,Other,2.6,9.8,0.0,0
+549,SS Creek DOT,OVC,NO,1.7,6.1,1.7,0.0,0.0,SE,4.2,12.5,0.0,0
+550,Mt Roberts Tram,BKN,SN,-2.0,-1.5,-1.9,45.0,6.0,N,0.0,0.0,0.0,0
+551,Speel Arm Balcony,X,SN,-2.5,-1.5,-2.5,50.0,22.0,N,0.0,6.0,0.0,0
+552,SS Creek DOT,BKN,RA,0.9,2.7,2.7,0.0,0.0,SE,5.8,8.1,0.0,0
+553,Snettisham Dorm,OVC,RS,0.7,1.2,0.7,8.7,7.0,Other,1.2,4.9,0.0,0
+554,Snettisham Dorm,OVC,RS,0.6,1.3,0.7,12.9,5.0,Other,0.7,5.4,1.0,0
+555,Mt Roberts Tram,OVC,NO,-1.4,-0.6,-1.3,59.7,14.0,N,0.0,0.0,0.0,0
+556,SS Creek DOT,OVC,NO,1.4,3.5,2.4,0.0,0.0,ESE,2.8,12.8,0.0,0
+557,Snettisham Dorm,OVC,RS,0.6,4.4,0.9,15.0,2.0,Other,0.9,13.1,1.0,0
+558,SS Creek DOT,BKN,NO,0.4,2.6,0.7,0.0,0.0,NNW,0.3,5.0,0.0,0
+559,Snettisham Dorm,BKN,NO,0.6,1.4,0.6,14.2,1.0,SE,0.4,3.2,1.0,0
+560,SS Creek DOT,OVC,RA,0.7,2.9,2.7,0.0,0.0,SE,2.5,4.4,0.0,0
+561,Snettisham Dorm,OVC,RS,0.4,1.1,0.8,18.2,4.0,Other,0.0,3.3,1.0,0
+562,Speel Arm Balcony,SCT,NO,0.4,3.1,1.5,68.0,0.0,Other,0.4,5.9,0.0,0
+563,SS Creek DOT,X,NO,2.2,3.8,2.2,0.0,0.0,N,0.0,5.5,0.0,0
+564,Snettisham Dorm,BKN,NO,0.6,1.2,0.9,16.1,0.0,NNW,2.5,4.2,1.0,0
+565,Speel Arm Balcony,OVC,NO,1.1,4.9,3.5,68.0,0.0,Other,1.7,6.3,0.0,0
+566,SS Creek DOT,OVC,NO,1.8,3.9,3.7,0.0,0.0,N,0.3,10.0,0.0,0
+567,Snettisham Dorm,OVC,NO,0.3,2.0,0.4,16.0,0.0,Other,0.7,5.4,1.0,0
+568,Speel Arm Balcony,OVC,NO,1.2,3.5,2.9,65.0,0.0,NNW,1.3,3.3,0.0,0
+569,Snettisham Dorm,OVC,NO,0.4,2.2,1.7,14.7,0.0,Other,1.0,4.7,0.0,0
+570,SS Creek DOT,OVC,NO,2.9,5.4,3.9,0.0,0.0,Other,0.8,8.1,0.0,0
+571,Snettisham Dorm,BKN,NO,1.4,3.2,1.6,12.3,0.0,NNE,4.6,8.8,0.0,0
+572,Speel Arm Balcony,BKN,RS,-1.9,1.6,-0.5,59.0,13.0,N,0.0,4.6,0.0,0
+573,SS Creek DOT,BKN,RA,3.1,5.3,3.4,0.0,0.0,SE,2.5,6.7,0.0,0
+574,Snettisham Dorm,BKN,SN,0.3,2.7,0.4,23.9,12.0,ESE,0.0,6.4,0.0,0
+575,Mt Roberts Tram,BKN,NO,-0.3,0.7,-0.3,43.0,2.0,N,0.0,0.9,0.0,0
+576,Speel Arm Balcony,BKN,NO,-0.9,-0.1,-0.5,77.0,18.0,N,0.0,3.5,0.0,0
+577,SS Creek DOT,BKN,NO,2.3,4.4,2.3,0.0,0.0,SE,1.9,7.5,0.0,0
+578,Snettisham Dorm,BKN,NO,0.3,0.8,0.4,33.5,14.0,ESE,0.0,0.0,1.0,0
+579,Mt Roberts Tram,FEW,NO,-3.7,0.0,-3.7,41.5,0.0,SE,0.1,0.5,0.0,0
+580,Snettisham Dorm,SCT,NO,-0.7,1.6,-0.7,30.5,0.0,ESE,2.7,5.9,1.0,0
+581,Mt Roberts Tram,X,SN,-3.7,0.4,-0.7,32.3,1.0,N,0.0,1.4,0.0,0
+582,Speel Arm Balcony,X,SN,-4.5,-1.7,-3.1,63.0,3.0,N,0.0,0.0,0.0,0
+583,SS Creek DOT,OVC,SN,-0.8,1.5,0.0,1.0,1.0,SE,2.2,3.6,0.0,0
+584,Snettisham Dorm,OVC,SN,-3.2,-0.7,-2.0,30.6,1.0,NNE,2.7,9.2,1.0,0
+585,Mt Roberts Tram,X,NO,-1.0,0.6,-0.6,46.0,7.0,N,0.0,0.3,0.0,0
+586,Speel Arm Balcony,X,NO,-3.3,0.5,0.5,77.0,9.0,N,0.0,0.0,0.0,0
+587,SS Creek DOT,X,NO,0.0,1.5,0.7,1.0,0.0,NNW,1.4,3.9,0.0,0
+588,Snettisham Dorm,X,NO,-2.0,-0.9,-1.5,41.2,11.0,N,0.6,5.9,1.0,0
+589,Mt Roberts Tram,OVC,RS,-2.0,1.6,1.2,49.0,5.0,N,0.0,0.0,0.0,0
+590,Speel Arm Balcony,X,RS,-2.5,0.6,0.6,85.0,9.0,Other,0.0,0.3,0.0,0
+591,SS Creek DOT,OVC,RA,0.2,3.1,3.1,1.0,0.0,ESE,1.1,6.4,0.0,0
+592,Snettisham Dorm,X,SN,-1.9,0.4,0.1,48.6,8.0,ESE,0.0,3.0,1.0,0
+593,SS Creek DOT,OVC,RA,2.8,3.8,3.2,0.0,0.0,Other,0.6,5.5,0.0,0
+594,Snettisham Dorm,OVC,RA,0.1,1.0,0.8,51.3,3.0,Other,0.2,3.6,2.0,0
+595,Mt Roberts Tram,OVC,SN,-0.1,1.5,-0.1,44.0,0.0,N,0.0,0.6,0.0,0
+596,Speel Arm Balcony,OVC,NO,-0.9,0.1,-0.6,89.0,5.0,N,0.0,0.4,0.0,0
+597,SS Creek DOT,OVC,NO,2.5,3.2,2.6,1.0,0.0,ESE,0.8,1.4,0.0,0
+598,Snettisham Dorm,OVC,NO,0.6,1.3,0.9,46.7,0.0,Other,0.5,5.0,1.0,0
+599,Mt Roberts Tram,OVC,NO,-2.2,0.3,-2.2,43.0,0.1,N,0.0,0.2,0.0,0
+600,Speel Arm Balcony,OVC,NO,-2.8,0.1,-2.8,105.0,16.0,Other,0.3,4.0,0.0,0
+601,SS Creek DOT,OVC,NO,0.9,2.6,1.1,1.0,0.0,ESE,1.1,3.3,0.0,0
+602,Snettisham Dorm,OVC,NO,0.1,1.6,0.1,49.3,5.0,Other,1.6,6.9,1.0,0
+603,Mt Roberts Tram,X,NO,-2.3,-0.4,-0.4,49.0,3.0,N,0.0,0.0,0.0,0
+604,Speel Arm Balcony,X,SN,-2.9,-0.2,-0.6,105.0,7.0,N,0.0,1.6,0.0,0
+605,SS Creek DOT,OVC,NO,0.1,1.3,0.9,2.0,1.0,ESE,1.7,4.2,0.0,0
+606,Snettisham Dorm,X,SN,-0.8,0.4,-0.6,51.2,4.0,ESE,0.0,5.0,1.0,0
+607,Mt Roberts Tram,X,SN,-2.2,-0.4,-1.0,67.0,19.8,N,0.0,0.0,0.0,0
+608,SS Creek DOT,X,RS,1.0,2.9,2.9,1.0,1.0,SE,11.7,15.5,0.0,0
+609,Snettisham Dorm,X,RS,-0.6,2.6,0.6,58.9,5.0,ESE,0.0,8.6,1.0,0
+610,Mt Roberts Tram,BKN,NO,-1.4,-0.5,-0.8,83.0,15.0,N,0.0,0.6,0.0,0
+611,SS Creek DOT,BKN,NO,2.5,3.6,3.3,1.0,1.0,SE,2.2,15.5,1.0,0
+612,Snettisham Dorm,BKN,NO,0.6,3.0,0.8,57.6,4.4,Other,1.5,9.3,1.0,0
+613,Mt Roberts Tram,X,NO,-1.1,-0.2,-1.1,78.2,4.0,N,0.0,0.0,1.0,0
+614,Snettisham Dorm,X,NO,0.6,1.6,0.7,55.9,1.0,Other,1.9,4.6,1.0,0
+615,Mt Roberts Tram,X,SN,-1.2,0.4,0.0,78.3,5.0,N,0.0,0.0,1.0,0
+616,SS Creek DOT,X,RA,3.6,5.3,4.2,1.0,0.0,SE,6.4,18.6,1.0,0
+617,Snettisham Dorm,X,RA,0.7,1.8,1.5,54.0,5.0,ESE,3.7,7.6,1.0,0
+618,Mt Roberts Tram,BKN,NO,-2.4,0.5,-2.1,76.0,3.0,N,0.0,1.1,1.0,0
+619,Speel Arm Balcony,X,NO,-2.9,0.3,-2.7,102.0,8.0,N,0.0,10.4,1.0,0
+620,SS Creek DOT,BKN,NO,1.5,3.9,2.6,1.0,0.0,ESE,1.4,6.1,1.0,0
+621,Snettisham Dorm,OVC,NO,1.3,5.3,2.8,48.7,0.0,Other,4.6,13.4,1.0,0
+622,Mt Roberts Tram,X,SN,-2.2,1.0,0.9,85.5,7.0,N,0.0,1.1,1.0,0
+623,Speel Arm Balcony,X,SN,-2.7,1.4,0.6,111.0,25.0,Other,3.9,11.9,1.0,0
+624,SS Creek DOT,X,RA,2.4,5.7,5.7,1.0,0.0,Other,5.3,9.2,1.0,0
+625,Snettisham Dorm,X,RA,0.6,3.1,1.4,54.0,11.0,Other,2.3,9.2,1.0,0
+626,Mt Roberts Tram,OVC,RS,0.1,1.0,0.6,83.8,6.0,N,0.0,0.0,1.0,0
+627,Speel Arm Balcony,BKN,NO,-0.7,1.1,0.9,108.0,2.0,Other,1.9,6.1,1.0,0
+628,SS Creek DOT,OVC,RA,4.3,5.5,5.1,0.0,0.0,SE,4.2,7.5,1.0,0
+629,Snettisham Dorm,BKN,NO,0.8,1.7,1.7,49.2,1.0,ESE,1.0,4.4,1.0,0
+630,Mt Roberts Tram,X,RS,0.4,1.6,1.0,80.3,1.0,Other,0.2,1.1,1.0,0
+631,Speel Arm Balcony,X,RS,-0.8,1.4,-0.6,101.0,5.0,Other,3.0,10.0,1.0,0
+632,SS Creek DOT,OVC,RA,3.9,5.9,5.8,0.0,0.0,SE,7.8,15.5,1.0,0
+633,Snettisham Dorm,OVC,RA,0.9,2.1,1.9,46.8,2.0,Other,0.0,8.4,1.0,0
+634,Mt Roberts Tram,OVC,RA,0.0,2.5,2.5,80.0,10.0,N,0.0,0.7,1.0,0
+635,Speel Arm Balcony,OVC,RA,-1.8,1.3,1.0,98.0,13.0,Other,3.5,6.8,1.0,0
+636,SS Creek DOT,OVC,RA,4.4,6.1,5.4,0.0,0.0,SE,2.5,9.7,1.0,0
+637,Snettisham Dorm,OVC,RA,0.6,2.1,0.9,50.0,5.0,ESE,1.4,4.0,1.0,0
+638,Mt Roberts Tram,X,RS,1.5,3.1,1.5,70.0,1.0,N,0.0,0.0,1.0,0
+639,Speel Arm Balcony,X,SN,-1.8,1.4,-1.8,95.0,4.0,Other,0.4,5.8,1.0,0
+640,SS Creek DOT,X,RA,4.4,6.0,4.9,0.0,0.0,SE,0.8,5.3,1.0,0
+641,Snettisham Dorm,X,RS,0.8,1.5,1.5,47.0,0.0,N,1.0,3.7,1.0,0
+642,Mt Roberts Tram,X,NO,-6.1,1.1,-5.6,80.0,6.0,N,0.0,0.4,1.0,0
+643,SS Creek DOT,OVC,NO,-1.0,5.3,-0.2,1.0,0.5,SE,5.0,6.9,1.0,0
+644,Snettisham Dorm,OVC,SN,-0.8,3.5,-0.1,47.2,3.0,Other,4.3,11.7,1.0,0
+645,Mt Roberts Tram,FEW,NO,-5.7,-4.0,-5.4,80.2,3.0,Other,1.1,1.1,1.0,0
+646,Speel Arm Balcony,FEW,NO,-7.7,-4.9,-6.9,84.0,3.0,N,0.0,0.0,1.0,0
+647,SS Creek DOT,FEW,NO,-2.0,0.6,-1.7,0.0,0.5,Other,2.5,12.5,1.0,0
+648,Snettisham Dorm,FEW,NO,-4.6,0.7,-4.4,49.7,3.0,NNE,5.9,9.6,1.0,0
+649,Mt Roberts Tram,X,SN,-7.7,-5.4,-6.4,76.7,1.0,N,0.0,1.6,1.0,0
+650,Speel Arm Balcony,X,NO,-8.0,-6.0,-7.5,85.0,0.0,Other,0.5,8.4,1.0,0
+651,SS Creek DOT,X,SN,-4.0,0.2,-1.7,2.0,1.0,SE,0.6,17.5,1.0,0
+652,Snettisham Dorm,X,NO,-6.3,-1.9,-5.4,49.4,0.0,NNE,0.4,10.1,1.0,0
+653,Mt Roberts Tram,FEW,NO,-7.6,-5.2,-7.1,71.2,3.0,ESE,0.0,0.0,1.0,0
+654,SS Creek DOT,FEW,NO,0.0,-0.7,0.0,2.0,2.0,N,0.0,3.3,1.0,0
+655,Snettisham Dorm,FEW,NO,-5.4,-3.5,-3.5,54.6,6.0,NNE,5.2,6.9,1.0,0
+656,Mt Roberts Tram,X,SN,-8.7,-5.2,-5.6,53.0,1.0,N,0.0,0.5,1.0,0
+657,Snettisham Dorm,X,SN,-8.3,-3.6,-6.5,56.4,5.0,ESE,2.1,7.2,1.0,0
+658,Speel Arm Balcony,X,SN,-7.5,-4.9,-5.3,107.0,8.0,N,0.1,5.3,1.0,0
+659,SS Creek DOT,X,SN,-2.6,-0.3,-1.0,19.0,18.0,Other,1.9,8.6,1.0,0
+660,Snettisham Dorm,X,SN,-6.6,-2.9,-2.9,69.6,15.0,Other,0.0,4.8,1.0,0
+661,Mt Roberts Tram,BKN,SN,-5.2,-2.3,-5.2,99.7,6.4,N,0.0,0.0,2.0,0
+662,SS Creek DOT,BKN,SN,-1.9,-0.7,-1.9,30.0,11.0,SE,2.2,5.8,2.0,0
+663,Snettisham Dorm,X,NO,-4.0,-0.9,-3.9,77.2,7.0,Other,0.6,4.5,2.0,0
+664,Mt Roberts Tram,FEW,NO,-11.3,-4.5,-11.3,103.4,2.3,SE,0.8,2.7,2.0,0
+665,Speel Arm Balcony,FEW,NO,-11.5,-5.2,-11.5,121.0,12.0,N,4.1,8.6,1.0,0
+666,Snettisham Dorm,FEW,NO,-7.2,-2.9,-7.2,76.1,1.0,Other,4.9,9.4,2.0,0
+667,Mt Roberts Tram,OVC,NO,-13.1,-11.2,-11.4,98.9,0.0,N,0.0,3.6,2.0,0
+668,Speel Arm Balcony,OVC,NO,-14.6,-11.1,-11.1,70.0,0.0,NNE,7.2,15.0,1.0,0
+669,SS Creek DOT,OVC,NO,-8.4,-5.4,-6.6,5.0,0.0,N,0.8,19.7,2.0,0
+670,Snettisham Dorm,OVC,NO,-10.6,-6.1,-6.1,71.8,0.0,ESE,13.1,15.9,1.0,0
+671,Mt Roberts Tram,FEW,NO,-15.6,-11.4,-15.3,94.0,0.0,Other,0.5,3.0,2.0,0
+672,Speel Arm Balcony,FEW,NO,-16.0,-11.1,-16.0,80.0,0.0,NNE,6.0,14.7,1.0,0
+673,SS Creek DOT,FEW,NO,-11.6,-6.2,-9.8,4.0,0.0,SE,1.4,23.0,2.0,0
+674,Snettisham Dorm,FEW,NO,-11.2,-6.0,-11.2,68.4,0.0,Other,4.1,17.7,1.0,0
+675,Other,FEW,NO,-12.8,-8.1,-12.8,89.0,0.0,NNE,3.9,12.2,1.0,0
+676,Mt Roberts Tram,CLR,NO,-15.4,-14.5,-14.8,89.6,0.0,N,0.0,3.2,2.0,0
+677,Speel Arm Balcony,CLR,NO,-16.0,-14.5,-14.5,82.0,0.0,N,5.9,12.2,1.0,0
+678,SS Creek DOT,CLR,NO,-10.8,-8.9,-10.1,4.0,0.0,N,0.8,15.3,2.0,0
+679,Snettisham Dorm,CLR,NO,-11.9,-8.7,-10.7,67.0,0.0,NNE,3.2,13.0,1.0,0
+680,Other,CLR,NO,-12.8,-11.5,-11.7,84.0,0.0,NNE,3.7,9.7,1.0,0
+681,Speel Arm Balcony,CLR,NO,-16.7,-13.9,-16.7,81.0,0.0,N,2.1,8.9,1.0,0
+682,SS Creek DOT,CLR,NO,-10.1,-7.0,-8.8,4.0,0.0,Other,3.1,15.5,1.0,0
+683,Snettisham Dorm,CLR,NO,-15.2,-9.2,-15.2,65.1,0.0,NNE,8.1,10.3,1.0,0
+684,Other,CLR,NO,-14.1,-11.1,-13.7,84.0,0.0,NNE,2.2,7.5,1.0,0
+685,Mt Roberts Tram,CLR,NO,-14.3,-12.4,-14.3,87.5,0.0,Other,0.8,3.1,1.0,1
+686,Mt Roberts Tram,CLR,NO,-14.3,-12.4,-14.3,87.5,0.0,Other,0.8,3.1,1.0,1
+687,Mt Roberts Tram,CLR,NO,-14.3,-12.4,-14.3,87.5,0.0,Other,0.8,3.1,1.0,1
+688,Speel Arm Balcony,CLR,NO,-16.7,-13.0,-14.7,74.0,0.0,N,4.3,9.2,1.0,1
+689,Speel Arm Balcony,CLR,NO,-16.7,-13.0,-14.7,74.0,0.0,N,4.3,9.2,1.0,1
+690,Speel Arm Balcony,CLR,NO,-16.7,-13.0,-14.7,74.0,0.0,N,4.3,9.2,1.0,1
+691,SS Creek DOT,CLR,NO,-11.0,-7.1,-8.6,0.0,0.0,SE,3.9,16.1,1.0,1
+692,SS Creek DOT,CLR,NO,-11.0,-7.1,-8.6,0.0,0.0,SE,3.9,16.1,1.0,1
+693,SS Creek DOT,CLR,NO,-11.0,-7.1,-8.6,0.0,0.0,SE,3.9,16.1,1.0,1
+694,Snettisham Dorm,CLR,NO,-15.3,-11.1,-13.9,63.5,0.0,N,5.4,10.2,1.0,1
+695,Snettisham Dorm,CLR,NO,-15.3,-11.1,-13.9,63.5,0.0,N,5.4,10.2,1.0,1
+696,Snettisham Dorm,CLR,NO,-15.3,-11.1,-13.9,63.5,0.0,N,5.4,10.2,1.0,1
+697,Other,CLR,NO,-13.9,-11.0,-13.9,84.0,0.0,NNE,1.8,6.8,1.0,1
+698,Other,CLR,NO,-13.9,-11.0,-13.9,84.0,0.0,NNE,1.8,6.8,1.0,1
+699,Other,CLR,NO,-13.9,-11.0,-13.9,84.0,0.0,NNE,1.8,6.8,1.0,1
+700,Mt Roberts Tram,CLR,NO,-16.7,-14.2,-16.2,86.1,0.0,NNW,0.8,3.4,1.0,1
+701,Speel Arm Balcony,CLR,NO,-17.1,-14.3,-16.5,82.0,0.0,N,7.2,12.1,1.0,1
+702,SS Creek DOT,CLR,NO,-11.1,-8.0,-10.7,2.0,0.0,Other,3.1,21.1,1.0,1
+703,Snettisham Dorm,CLR,NO,-14.4,-11.6,-12.2,63.2,0.0,Other,9.5,11.3,1.0,1
+704,Other,CLR,NO,-14.1,-11.8,-13.6,82.0,0.0,NNE,4.6,9.0,1.0,1
+705,Mt Roberts Tram,SCT,NO,-16.2,-13.8,-14.4,85.1,0.0,Other,1.0,3.0,1.0,0
+706,Speel Arm Balcony,SCT,NO,-16.6,-14.0,-15.4,88.0,0.0,NNE,6.6,15.5,1.0,0
+707,SS Creek DOT,SCT,NO,-10.7,-8.3,-8.9,2.0,0.0,Other,1.7,18.0,1.0,0
+708,Snettisham Dorm,SCT,NO,-12.9,-8.1,-9.2,61.5,0.0,ESE,11.5,20.0,1.0,0
+709,Other,SCT,NO,-13.6,-10.7,-11.9,75.0,0.0,NNE,5.0,12.4,1.0,0
+710,Mt Roberts Tram,FEW,NO,-16.1,-13.9,-16.1,68.4,0.0,NNW,2.3,5.1,2.0,1
+711,Speel Arm Balcony,FEW,NO,-16.3,-14.3,-16.3,85.0,0.0,N,5.8,14.7,1.0,1
+712,SS Creek DOT,FEW,NO,-11.1,-8.3,-10.6,2.0,0.0,ESE,6.7,16.9,1.0,1
+713,Snettisham Dorm,FEW,NO,-11.1,-8.0,-11.1,59.3,0.0,Other,4.5,21.1,1.0,1
+714,Other,FEW,NO,-13.2,-11.0,-13.2,75.0,0.0,NNE,3.7,12.1,1.0,1
+715,Mt Roberts Tram,SCT,NO,-16.3,-12.7,-12.7,68.4,0.0,NNW,3.3,3.7,1.0,0
+716,Speel Arm Balcony,SCT,NO,-16.4,-12.6,-12.6,81.0,0.0,N,7.3,12.9,1.0,0
+717,SS Creek DOT,SCT,NO,-11.0,-7.3,-7.3,2.0,0.0,NNE,5.3,17.8,1.0,0
+718,Snettisham Dorm,SCT,NO,-12.2,-8.8,-8.8,59.3,0.0,ESE,11.3,14.3,1.0,0
+719,Other,SCT,NO,-13.6,-10.0,-10.0,75.0,0.0,NNE,4.6,9.7,1.0,0
+720,Mt Roberts Tram,X,SN,-12.6,-6.3,-6.8,68.3,3.0,Other,0.1,3.5,1.0,0
+721,Speel Arm Balcony,X,SN,-12.6,-7.5,-9.1,77.0,7.0,NNW,1.1,12.8,1.0,0
+722,SS Creek DOT,X,SN,-7.6,-3.1,-3.9,5.0,3.0,NNE,0.3,17.8,1.0,0
+723,Snettisham Dorm,X,SN,-8.8,-4.9,-6.0,64.5,6.0,N,6.0,15.3,1.0,0
+724,Other,X,SN,-10.0,-6.6,-6.6,78.0,4.0,NNE,1.2,10.8,1.0,0
+725,Mt Roberts Tram,OVC,SN,-6.6,0.2,-1.3,73.8,4.0,Other,0.1,1.1,2.0,0
+726,Speel Arm Balcony,X,NO,-9.4,-1.2,-2.1,90.0,12.0,NNW,1.9,5.1,1.0,0
+727,SS Creek DOT,OVC,SN,-4.1,0.1,-1.0,8.0,4.0,Other,0.8,3.3,1.0,0
+728,Snettisham Dorm,X,NO,-6.4,-3.9,-4.0,74.4,11.0,Other,4.4,8.9,2.0,0
+729,Other,X,NO,-7.3,-5.1,-5.3,88.0,10.0,Other,0.4,4.2,1.0,0
+730,Mt Roberts Tram,X,NO,-2.7,1.2,1.2,71.8,5.0,Other,0.2,1.1,2.0,0
+731,Speel Arm Balcony,BKN,NO,-4.0,0.3,-1.5,110.0,20.0,N,2.2,5.2,1.0,0
+732,SS Creek DOT,X,NO,-1.3,1.5,0.2,11.0,5.0,Other,1.7,6.7,1.0,0
+733,Snettisham Dorm,OVC,NO,-4.0,-1.9,-2.3,81.8,10.0,Other,1.3,6.3,2.0,0
+734,Other,BKN,NO,-5.3,-2.8,-2.9,96.0,10.0,N,0.0,2.1,1.0,0
+735,Mt Roberts Tram,X,SN,-1.9,1.2,-0.4,83.1,10.6,N,0.0,0.5,2.0,0
+736,Speel Arm Balcony,X,SN,-3.1,0.3,-0.5,109.0,16.0,ESE,0.0,5.7,1.0,0
+737,SS Creek DOT,X,SN,0.0,0.6,0.0,14.0,4.0,N,0.0,3.9,1.0,0
+738,Snettisham Dorm,X,SN,-2.0,-0.4,-0.9,94.4,15.0,Other,0.0,8.3,2.0,0
+739,Other,X,SN,-3.0,-1.2,-2.1,108.0,13.0,N,0.0,0.0,1.0,0
+740,Mt Roberts Tram,X,SN,-0.4,1.6,0.1,83.1,6.0,N,0.0,1.0,2.0,0
+741,Speel Arm Balcony,X,SN,-0.5,2.8,-0.1,113.0,17.0,N,1.4,5.0,1.0,0
+742,SS Creek DOT,X,SN,0.2,1.1,0.8,10.0,1.0,N,0.0,2.5,2.0,0
+743,Snettisham Dorm,X,RS,-0.9,1.5,1.2,89.8,3.0,NNE,2.9,4.4,2.0,0
+744,Other,X,SN,-2.1,1.0,0.0,103.0,3.0,N,0.2,3.1,1.0,0
+745,Mt Roberts Tram,X,SN,-0.1,1.2,-0.1,85.0,5.0,N,0.0,0.8,2.0,0
+746,Speel Arm Balcony,X,SN,-0.5,0.9,-0.3,120.0,8.0,N,0.0,9.3,1.0,0
+747,SS Creek DOT,X,SN,1.7,2.4,1.7,2.0,2.0,N,0.0,0.8,2.0,0
+748,Snettisham Dorm,X,SN,0.6,1.9,0.7,79.6,3.0,Other,0.0,4.9,1.0,0
+749,Other,X,SN,-0.6,2.9,-0.2,94.0,3.0,N,0.0,7.4,1.0,0
+750,Mt Roberts Tram,OVC,SN,-3.9,-0.1,-2.7,102.8,21.0,N,0.0,0.0,2.0,1
+751,SS Creek DOT,OVC,SN,0.1,1.7,1.6,4.0,2.0,ESE,4.4,10.0,2.0,1
+752,Snettisham Dorm,X,SN,-0.5,2.0,-0.3,83.5,10.0,Other,0.8,8.3,2.0,1
+753,Other,X,SN,-2.3,0.0,-2.1,107.0,17.0,N,0.0,0.0,2.0,1
+754,Mt Roberts Tram,X,RS,-3.3,0.9,0.3,109.7,14.0,N,0.0,0.3,2.0,0
+755,Snettisham Dorm,X,RS,-0.4,5.3,0.7,93.3,19.0,Other,0.8,16.0,2.0,0
+756,Mt Roberts Tram,X,SN,-1.0,1.1,-1.0,107.0,1.0,N,0.0,0.3,1.0,0
+757,Speel Arm Balcony,X,SN,-2.3,1.6,-2.3,121.0,1.0,Other,2.0,8.2,2.0,0
+758,SS Creek DOT,X,RS,2.0,5.8,2.0,2.0,0.0,Other,0.6,8.3,2.0,0
+759,Snettisham Dorm,X,RA,0.7,3.6,2.9,87.7,0.0,Other,4.5,12.0,2.0,0
+760,Other,X,SN,-0.4,1.7,-0.4,107.0,1.0,SE,1.2,6.1,2.0,0
+761,Mt Roberts Tram,X,NO,-1.8,-0.9,-1.0,115.8,4.0,N,0.0,0.8,2.0,0
+762,Speel Arm Balcony,X,NO,-2.6,-1.3,-1.7,130.0,5.0,Other,2.9,8.6,2.0,0
+763,Snettisham Dorm,OVC,NO,0.6,3.3,1.5,85.7,5.0,ESE,0.5,11.8,2.0,0
+764,Other,X,NO,-0.4,1.2,0.9,117.0,12.0,Other,0.5,6.1,2.0,0
+765,Mt Roberts Tram,X,SN,-1.1,0.3,0.3,124.0,16.0,N,0.0,0.2,2.0,0
+766,Speel Arm Balcony,X,SN,-1.9,0.8,0.4,164.0,34.0,Other,6.3,10.9,2.0,0
+767,SS Creek DOT,OVC,RA,2.7,5.1,5.1,1.0,0.0,N,0.0,16.1,2.0,0
+768,Snettisham Dorm,X,RS,0.6,2.9,1.0,92.4,10.0,Other,0.0,7.9,2.0,0
+769,Other,CLR,RS,-1.0,1.5,1.2,135.0,23.0,Other,0.6,5.2,2.0,0
+770,Mt Roberts Tram,X,SN,-2.7,0.7,-2.5,111.0,3.0,Other,1.0,1.1,2.0,0
+771,Speel Arm Balcony,X,SN,-3.2,0.6,-3.2,154.0,20.0,N,3.1,12.8,2.0,0
+772,SS Creek DOT,X,SN,0.7,6.2,0.7,1.0,2.0,N,0.3,17.5,2.0,0
+773,Snettisham Dorm,X,SN,0.9,5.9,0.9,85.6,5.0,Other,1.8,21.1,2.0,0
+774,Other,X,SN,-1.0,3.0,-1.0,125.0,11.0,NNE,2.5,9.2,2.0,0
+775,Mt Roberts Tram,CLR,NO,-5.2,-1.8,-4.5,163.2,45.0,N,0.0,3.0,4.0,1
+776,Mt Roberts Tram,CLR,NO,-5.2,-1.8,-4.5,163.2,45.0,N,0.0,3.0,4.0,1
+777,Speel Arm Balcony,BKN,SN,-4.1,-2.0,-4.1,39.0,27.0,N,0.0,9.5,4.0,1
+778,Speel Arm Balcony,BKN,SN,-4.1,-2.0,-4.1,39.0,27.0,N,0.0,9.5,4.0,1
+779,SS Creek DOT,CLR,NO,-1.1,2.1,0.1,11.0,14.0,ESE,3.3,10.0,4.0,1
+780,SS Creek DOT,CLR,NO,-1.1,2.1,0.1,11.0,14.0,ESE,3.3,10.0,4.0,1
+781,Snettisham Dorm,CLR,SN,0.6,3.1,0.7,95.8,16.0,Other,4.2,15.0,4.0,1
+782,Snettisham Dorm,CLR,SN,0.6,3.1,0.7,95.8,16.0,Other,4.2,15.0,4.0,1
+783,Other,CLR,SN,-1.7,-0.3,-1.7,152.0,34.0,ESE,0.5,7.1,4.0,1
+784,Other,CLR,SN,-1.7,-0.3,-1.7,152.0,34.0,ESE,0.5,7.1,4.0,1
+785,Mt Roberts Tram,OVC,SN,-5.7,-3.1,-5.5,160.5,5.0,N,0.0,0.0,2.0,0
+786,SS Creek DOT,OVC,SN,0.0,0.2,-1.7,11.0,4.0,Other,1.4,6.9,2.0,0
+787,Snettisham Dorm,X,SN,-4.1,1.1,-3.4,103.9,9.0,NNE,2.6,10.3,2.0,0
+788,Other,X,SN,-5.2,-1.2,-4.9,159.0,12.0,N,0.0,4.1,2.0,0
+789,Mt Roberts Tram,X,SN,-6.8,-4.8,-6.4,158.1,12.0,N,0.0,0.0,2.0,1
+790,Mt Roberts Tram,X,SN,-6.8,-4.8,-6.4,158.1,12.0,N,0.0,0.0,2.0,1
+791,Mt Roberts Tram,X,SN,-6.8,-4.8,-6.4,158.1,12.0,N,0.0,0.0,2.0,1
+792,Mt Roberts Tram,X,SN,-6.8,-4.8,-6.4,158.1,12.0,N,0.0,0.0,2.0,1
+793,Mt Roberts Tram,X,SN,-6.8,-4.8,-6.4,158.1,12.0,N,0.0,0.0,2.0,1
+794,SS Creek DOT,X,SN,0.0,-0.6,0.0,17.0,2.0,N,0.0,6.1,2.0,1
+795,SS Creek DOT,X,SN,0.0,-0.6,0.0,17.0,2.0,N,0.0,6.1,2.0,1
+796,SS Creek DOT,X,SN,0.0,-0.6,0.0,17.0,2.0,N,0.0,6.1,2.0,1
+797,SS Creek DOT,X,SN,0.0,-0.6,0.0,17.0,2.0,N,0.0,6.1,2.0,1
+798,SS Creek DOT,X,SN,0.0,-0.6,0.0,17.0,2.0,N,0.0,6.1,2.0,1
+799,Snettisham Dorm,OVC,SN,-3.6,-1.0,-3.6,128.4,26.0,N,2.7,4.8,2.0,1
+800,Snettisham Dorm,OVC,SN,-3.6,-1.0,-3.6,128.4,26.0,N,2.7,4.8,2.0,1
+801,Snettisham Dorm,OVC,SN,-3.6,-1.0,-3.6,128.4,26.0,N,2.7,4.8,2.0,1
+802,Snettisham Dorm,OVC,SN,-3.6,-1.0,-3.6,128.4,26.0,N,2.7,4.8,2.0,1
+803,Snettisham Dorm,OVC,SN,-3.6,-1.0,-3.6,128.4,26.0,N,2.7,4.8,2.0,1
+804,Other,X,SN,-5.0,-3.2,-4.7,180.0,21.0,N,0.0,0.0,2.0,1
+805,Other,X,SN,-5.0,-3.2,-4.7,180.0,21.0,N,0.0,0.0,2.0,1
+806,Other,X,SN,-5.0,-3.2,-4.7,180.0,21.0,N,0.0,0.0,2.0,1
+807,Other,X,SN,-5.0,-3.2,-4.7,180.0,21.0,N,0.0,0.0,2.0,1
+808,Other,X,SN,-5.0,-3.2,-4.7,180.0,21.0,N,0.0,0.0,2.0,1
+809,Mt Roberts Tram,OVC,SN,-11.2,-5.7,-5.7,152.6,3.0,N,0.0,0.0,2.0,0
+810,Speel Arm Balcony,OVC,SN,-10.1,-6.4,-6.4,188.0,4.0,Other,2.8,4.8,2.0,0
+811,SS Creek DOT,OVC,SN,-7.5,-3.0,-3.0,19.0,3.0,SE,3.6,5.3,2.0,0
+812,Snettisham Dorm,OVC,SN,-7.0,-2.0,-6.9,126.5,3.0,Other,0.3,6.8,2.0,0
+813,Other,OVC,SN,-8.5,-4.7,-8.2,173.0,3.0,Other,0.2,3.6,2.0,0
+814,Mt Roberts Tram,OVC,SN,-5.9,-1.1,-1.1,169.8,16.0,N,0.0,0.7,2.0,0
+815,Snettisham Dorm,X,SN,-1.4,0.7,0.6,169.7,14.0,Other,0.0,4.2,2.0,1
+816,Speel Arm Balcony,OVC,SN,-6.7,-2.8,-3.3,205.0,21.0,N,0.0,5.9,2.0,0
+817,SS Creek DOT,OVC,RS,-3.1,0.2,0.1,35.0,16.0,SE,2.5,5.3,2.0,0
+818,Snettisham Dorm,OVC,SN,-6.9,-3.0,-3.0,144.4,18.0,NNE,1.5,4.3,4.0,0
+819,Other,OVC,SN,-8.4,-4.2,-4.3,185.0,12.0,N,0.0,1.9,2.0,0
+820,Mt Roberts Tram,OVC,RS,-1.2,0.2,0.1,169.1,0.0,N,0.0,0.0,2.0,0
+821,Speel Arm Balcony,OVC,RS,-3.3,1.2,-0.1,182.0,0.0,Other,4.0,8.4,2.0,0
+822,SS Creek DOT,OVC,RA,0.0,3.9,3.9,22.0,0.0,ESE,2.5,9.4,2.0,0
+823,Snettisham Dorm,OVC,RA,-3.0,1.2,0.9,140.1,0.0,Other,0.0,2.6,4.0,0
+824,Other,OVC,RA,-4.3,1.1,1.1,185.0,0.0,Other,1.3,3.4,2.0,0
+825,Mt Roberts Tram,OVC,NO,-0.7,0.4,-0.7,158.5,0.0,N,0.0,0.1,2.0,1
+826,Mt Roberts Tram,OVC,NO,-0.7,0.4,-0.7,158.5,0.0,N,0.0,0.1,2.0,1
+827,Speel Arm Balcony,OVC,SN,-0.9,0.4,-0.9,175.0,0.0,N,0.0,8.4,2.0,1
+828,Speel Arm Balcony,OVC,SN,-0.9,0.4,-0.9,175.0,0.0,N,0.0,8.4,2.0,1
+829,SS Creek DOT,OVC,NO,3.1,4.7,3.7,11.0,0.0,N,0.0,6.7,2.0,1
+830,SS Creek DOT,OVC,NO,3.1,4.7,3.7,11.0,0.0,N,0.0,6.7,2.0,1
+831,Snettisham Dorm,OVC,RA,0.9,4.7,1.0,127.9,0.0,ESE,3.4,11.8,4.0,1
+832,Snettisham Dorm,OVC,RA,0.9,4.7,1.0,127.9,0.0,ESE,3.4,11.8,4.0,1
+833,Other,OVC,RA,1.1,2.0,1.3,180.0,0.0,Other,0.9,5.1,2.0,1
+834,Other,OVC,RA,1.1,2.0,1.3,180.0,0.0,Other,0.9,5.1,2.0,1
+835,Mt Roberts Tram,BKN,NO,-1.2,0.0,-1.2,158.5,3.0,N,0.0,0.0,2.0,0
+836,SS Creek DOT,SCT,NO,1.3,4.1,1.3,8.0,0.0,N,0.0,6.1,2.0,0
+837,Snettisham Dorm,X,NO,0.7,2.7,0.9,119.5,1.0,Other,0.7,4.9,4.0,0
+838,Other,FEW,NO,-0.5,1.7,-0.5,173.0,0.0,N,0.2,5.0,2.0,0
+839,Mt Roberts Tram,OVC,RA,-2.5,-1.1,-2.1,156.1,0.5,N,0.0,0.2,1.0,0
+840,SS Creek DOT,OVC,RS,0.1,3.7,1.1,8.0,0.0,Other,0.8,3.6,1.0,0
+841,Snettisham Dorm,OVC,SN,-2.6,3.6,-1.3,117.7,0.5,ESE,0.0,4.2,2.0,0
+842,Other,OVC,SN,-3.4,-0.5,-2.9,168.0,0.5,Other,0.2,1.8,1.0,0
+843,Mt Roberts Tram,X,NO,-2.1,-0.3,-0.3,167.7,14.0,N,0.0,0.0,1.0,1
+844,Mt Roberts Tram,X,NO,-2.1,-0.3,-0.3,167.7,14.0,N,0.0,0.0,1.0,1
+845,SS Creek DOT,OVC,NO,1.1,4.5,4.0,7.0,3.0,ESE,2.2,11.1,1.0,1
+846,SS Creek DOT,OVC,NO,1.1,4.5,4.0,7.0,3.0,ESE,2.2,11.1,1.0,1
+847,Snettisham Dorm,BKN,NO,-1.3,4.2,1.6,118.0,6.0,Other,0.1,13.9,2.0,1
+848,Snettisham Dorm,BKN,NO,-1.3,4.2,1.6,118.0,6.0,Other,0.1,13.9,2.0,1
+849,Other,BKN,NO,-2.9,1.8,1.8,183.0,20.0,Other,1.5,4.8,1.0,1
+850,Other,BKN,NO,-2.9,1.8,1.8,183.0,20.0,Other,1.5,4.8,1.0,1
+851,Mt Roberts Tram,OVC,RS,-1.7,0.8,0.1,175.3,11.0,N,0.0,0.3,1.0,0
+852,SS Creek DOT,OVC,RA,1.3,4.5,4.1,2.0,0.0,SE,5.0,10.0,1.0,0
+853,Snettisham Dorm,OVC,RS,0.6,5.3,0.9,116.4,2.0,Other,1.6,12.1,2.0,0
+854,Other,OVC,RA,0.0,2.7,1.7,176.0,2.0,Other,0.8,4.2,1.0,0
+855,Mt Roberts Tram,BKN,NO,-2.6,0.4,-2.6,193.3,20.0,N,0.0,0.2,2.0,1
+856,Mt Roberts Tram,BKN,NO,-2.6,0.4,-2.6,193.3,20.0,N,0.0,0.2,2.0,1
+857,Mt Roberts Tram,BKN,NO,-2.6,0.4,-2.6,193.3,20.0,N,0.0,0.2,2.0,1
+858,Speel Arm Balcony,BKN,NO,-1.7,-0.1,-1.7,170.0,7.0,N,0.0,11.3,2.0,1
+859,Speel Arm Balcony,BKN,NO,-1.7,-0.1,-1.7,170.0,7.0,N,0.0,11.3,2.0,1
+860,Speel Arm Balcony,BKN,NO,-1.7,-0.1,-1.7,170.0,7.0,N,0.0,11.3,2.0,1
+861,Snettisham Dorm,BKN,NO,0.7,5.4,0.8,112.9,4.0,NNW,0.4,15.7,4.0,1
+862,Snettisham Dorm,BKN,NO,0.7,5.4,0.8,112.9,4.0,NNW,0.4,15.7,4.0,1
+863,Snettisham Dorm,BKN,NO,0.7,5.4,0.8,112.9,4.0,NNW,0.4,15.7,4.0,1
+864,Other,BKN,NO,-0.3,3.1,0.7,175.0,6.0,Other,0.3,9.5,2.0,1
+865,Other,BKN,NO,-0.3,3.1,0.7,175.0,6.0,Other,0.3,9.5,2.0,1
+866,Other,BKN,NO,-0.3,3.1,0.7,175.0,6.0,Other,0.3,9.5,2.0,1
+867,Mt Roberts Tram,X,SN,-3.1,-0.4,-1.7,192.0,7.0,ESE,0.6,0.6,1.0,1
+868,SS Creek DOT,X,RS,0.1,2.3,2.0,1.0,1.0,SE,9.4,15.0,1.0,1
+869,Snettisham Dorm,CLR,RS,0.2,4.2,0.6,113.8,4.0,Other,0.0,4.8,2.0,1
+870,Other,X,SN,-0.5,1.9,0.0,176.0,8.0,Other,0.7,4.1,1.0,1
+871,Mt Roberts Tram,BKN,NO,-1.9,-0.5,-1.7,208.0,19.0,N,0.0,0.7,2.0,0
+872,SS Creek DOT,X,NO,0.0,2.7,1.2,1.0,0.0,N,0.0,15.3,2.0,0
+873,Snettisham Dorm,BKN,NO,0.6,2.0,0.6,120.4,10.0,ESE,1.7,8.1,2.0,0
+874,Mt Roberts Tram,X,SN,-3.1,0.4,-3.1,204.2,3.0,N,0.0,0.0,2.0,0
+875,Snettisham Dorm,CLR,SN,0.6,2.4,0.7,122.1,5.0,Other,0.0,4.5,2.0,0
+876,SS Creek DOT,OVC,SN,0.0,1.0,-0.8,2.0,1.0,SE,2.5,5.8,1.0,0
+877,Snettisham Dorm,OVC,SN,-1.6,0.8,-1.5,132.5,9.0,N,1.8,6.6,2.0,0
+878,SS Creek DOT,OVC,SN,-1.0,1.8,-1.0,10.0,8.0,NNW,0.8,6.4,1.0,0
+879,Snettisham Dorm,OVC,RA,-1.6,3.0,2.2,145.1,17.0,Other,2.8,9.0,1.0,0
+880,SS Creek DOT,OVC,SN,0.0,-1.2,-2.5,14.0,7.0,ESE,0.6,4.4,2.0,0
+881,Snettisham Dorm,OVC,SN,-3.8,2.9,-3.8,142.0,5.0,NNE,3.0,7.8,2.0,0
+882,Mt Roberts Tram,X,SN,-4.3,0.0,-0.5,213.5,5.0,N,0.0,0.0,2.0,0
+883,SS Creek DOT,X,RS,0.0,2.0,1.3,10.0,1.0,SE,1.7,6.4,2.0,0
+884,Snettisham Dorm,X,SN,-3.7,-0.3,-0.3,143.5,9.0,ESE,0.0,3.5,2.0,0
+885,Speel Arm Balcony,X,SN,-0.9,0.6,-0.7,186.0,1.0,Other,3.7,7.8,2.0,0
+886,SS Creek DOT,OVC,RA,0.0,5.4,3.7,1.0,0.0,SE,6.9,12.5,2.0,0
+887,Snettisham Dorm,OVC,RS,-0.4,2.4,0.8,144.4,0.0,Other,0.0,3.6,2.0,0
+888,Mt Roberts Tram,X,SN,-1.2,0.1,-1.0,213.2,9.0,Other,0.1,0.6,2.0,0
+889,SS Creek DOT,X,RS,2.7,3.7,3.4,1.0,0.0,ESE,5.5,12.5,2.0,0
+890,Snettisham Dorm,X,RA,0.8,4.2,4.2,137.3,2.0,Other,4.6,12.7,2.0,0
+891,Other,X,RS,-0.1,1.2,1.1,184.0,5.0,Other,1.2,6.1,2.0,0
+892,Mt Roberts Tram,X,SN,-1.5,-0.3,-0.4,239.1,27.0,N,0.0,0.9,4.0,0
+893,Speel Arm Balcony,X,SN,-2.0,-0.7,-0.9,240.0,50.0,Other,2.4,15.0,4.0,0
+894,SS Creek DOT,X,RA,2.0,3.8,3.5,1.0,1.0,SE,6.4,16.6,4.0,0
+895,Snettisham Dorm,X,RA,1.3,4.2,3.6,130.6,0.0,Other,5.1,16.7,2.0,0
+896,Other,X,RS,-0.2,1.4,1.4,225.0,8.0,SE,1.3,7.1,4.0,0
+897,Mt Roberts Tram,OVC,NO,-3.8,0.4,-3.1,246.6,8.0,N,0.0,0.0,4.0,0
+898,SS Creek DOT,OVC,NO,0.2,3.4,1.0,2.0,1.0,SE,2.8,11.1,4.0,0
+899,Snettisham Dorm,OVC,RS,0.7,4.0,0.8,132.3,2.0,Other,3.2,13.0,2.0,0
+900,Mt Roberts Tram,X,SN,-3.3,0.5,-2.0,244.9,3.0,N,0.0,1.1,2.0,0
+901,SS Creek DOT,OVC,SN,0.0,2.2,0.0,2.0,4.3,N,0.0,9.2,2.0,0
+902,Snettisham Dorm,OVC,SN,-0.1,2.7,-0.1,132.9,4.0,Other,2.3,9.0,2.0,0
+903,Mt Roberts Tram,OVC,SN,-5.6,-1.7,-4.7,241.4,13.0,N,0.0,0.0,2.0,1
+904,Mt Roberts Tram,OVC,SN,-5.6,-1.7,-4.7,241.4,13.0,N,0.0,0.0,2.0,1
+905,SS Creek DOT,OVC,SN,-1.6,1.6,0.1,4.0,2.0,ESE,1.7,5.5,2.0,1
+906,SS Creek DOT,OVC,SN,-1.6,1.6,0.1,4.0,2.0,ESE,1.7,5.5,2.0,1
+907,Snettisham Dorm,OVC,SN,-1.4,1.1,-1.2,143.1,10.0,NNW,0.5,4.2,2.0,1
+908,Snettisham Dorm,OVC,SN,-1.4,1.1,-1.2,143.1,10.0,NNW,0.5,4.2,2.0,1
+909,Mt Roberts Tram,BKN,SN,-5.2,-2.0,-4.6,248.6,10.0,Other,1.8,3.5,2.0,0
+910,SS Creek DOT,OVC,SN,-1.7,1.3,-0.7,10.0,6.0,NNW,0.3,9.4,2.0,0
+911,Snettisham Dorm,X,SN,-1.5,1.2,-1.3,158.5,18.0,NNE,2.3,6.8,1.0,0
+912,Mt Roberts Tram,X,SN,-4.6,0.4,0.0,254.5,11.0,N,0.0,1.8,2.0,1
+913,SS Creek DOT,OVC,RA,-0.7,3.8,3.8,7.0,1.0,SE,5.3,9.4,2.0,1
+914,Snettisham Dorm,OVC,RS,0.6,5.5,1.8,159.5,2.0,SE,0.7,11.6,2.0,1
+915,Mt Roberts Tram,X,SN,-0.3,0.5,-0.3,257.2,16.6,N,0.0,0.3,2.0,0
+916,SS Creek DOT,OVC,RA,3.1,4.8,3.2,1.0,0.0,ESE,2.2,12.5,2.0,0
+917,Snettisham Dorm,OVC,RA,1.1,4.7,3.3,151.5,0.0,Other,4.7,12.1,2.0,0
+918,Other,X,RS,0.0,2.4,0.9,184.0,4.0,ESE,0.6,6.9,2.0,0
+919,Mt Roberts Tram,OVC,NO,-2.3,0.6,-2.2,256.0,11.0,N,0.0,0.0,2.0,1
+920,Mt Roberts Tram,OVC,NO,-2.3,0.6,-2.2,256.0,11.0,N,0.0,0.0,2.0,1
+921,Mt Roberts Tram,OVC,NO,-2.3,0.6,-2.2,256.0,11.0,N,0.0,0.0,2.0,1
+922,Mt Roberts Tram,OVC,NO,-2.3,0.6,-2.2,256.0,11.0,N,0.0,0.0,2.0,1
+923,SS Creek DOT,OVC,NO,0.4,3.6,0.4,0.0,0.0,Other,3.1,8.1,2.0,1
+924,SS Creek DOT,OVC,NO,0.4,3.6,0.4,0.0,0.0,Other,3.1,8.1,2.0,1
+925,SS Creek DOT,OVC,NO,0.4,3.6,0.4,0.0,0.0,Other,3.1,8.1,2.0,1
+926,SS Creek DOT,OVC,NO,0.4,3.6,0.4,0.0,0.0,Other,3.1,8.1,2.0,1
+927,Snettisham Dorm,OVC,NO,0.8,3.4,0.9,143.9,2.0,NNE,0.7,8.0,2.0,1
+928,Snettisham Dorm,OVC,NO,0.8,3.4,0.9,143.9,2.0,NNE,0.7,8.0,2.0,1
+929,Snettisham Dorm,OVC,NO,0.8,3.4,0.9,143.9,2.0,NNE,0.7,8.0,2.0,1
+930,Snettisham Dorm,OVC,NO,0.8,3.4,0.9,143.9,2.0,NNE,0.7,8.0,2.0,1
+931,SS Creek DOT,OVC,RS,-0.1,2.7,1.5,1.0,1.0,SE,8.6,15.0,2.0,0
+932,Snettisham Dorm,OVC,RA,0.9,3.6,2.6,139.3,0.0,Other,3.5,13.2,2.0,0
+933,Other,OVC,SN,-0.8,1.0,-0.4,185.0,5.0,Other,0.9,5.7,2.0,0
+934,SS Creek DOT,OVC,RA,0.9,3.9,2.1,1.0,1.0,ESE,3.3,17.2,4.0,0
+935,Snettisham Dorm,OVC,RA,2.1,4.2,3.1,135.4,0.0,Other,8.7,13.9,2.0,0
+936,Other,OVC,RA,-0.5,1.4,0.9,185.0,0.0,ESE,1.4,6.8,4.0,0
+937,SS Creek DOT,OVC,RS,1.4,3.5,2.3,1.0,1.0,SE,5.0,9.7,4.0,0
+938,Snettisham Dorm,OVC,RS,1.8,3.8,2.4,138.5,3.0,Other,4.0,13.9,1.0,0
+939,SS Creek DOT,OVC,NO,-0.6,2.7,0.4,1.0,1.0,ESE,1.7,9.7,2.0,0
+940,Snettisham Dorm,X,RS,0.5,3.1,1.3,135.9,2.0,Other,3.3,13.1,1.0,0
+941,Mt Roberts Tram,OVC,NO,-4.4,-2.4,-3.1,300.2,3.0,NNW,3.0,3.2,2.0,0
+942,Snettisham Dorm,OVC,NO,-0.1,2.2,1.4,144.7,5.0,Other,4.3,12.6,1.0,0
+943,Mt Roberts Tram,OVC,SN,-9.6,-3.1,-9.4,314.5,1.0,Other,0.1,4.1,4.0,0
+944,Speel Arm Balcony,X,SN,-9.5,-1.5,-9.5,188.0,3.0,N,4.5,10.3,4.0,0
+945,SS Creek DOT,OVC,SN,-5.0,3.2,-4.9,1.0,1.0,SE,0.3,13.6,4.0,0
+946,Mt Roberts Tram,FEW,NO,-9.4,-6.1,-8.2,305.6,0.5,N,0.0,0.1,2.0,1
+947,Speel Arm Balcony,FEW,NO,-10.1,-7.5,-7.5,189.0,2.0,Other,0.9,8.1,2.0,1
+948,SS Creek DOT,FEW,NO,-6.4,-1.4,-6.4,1.0,0.5,N,0.6,3.1,2.0,1
+949,Snettisham Dorm,FEW,NO,-9.7,-2.7,-9.7,144.0,1.0,NNE,4.9,9.1,1.0,1
+950,Mt Roberts Tram,OVC,SN,-8.5,-2.8,-3.8,297.4,2.0,N,0.0,0.5,2.0,0
+951,Speel Arm Balcony,X,SN,-8.1,-3.6,-4.1,196.0,8.0,Other,1.9,4.0,2.0,0
+952,SS Creek DOT,OVC,SN,-6.6,0.5,0.1,2.0,1.0,SE,3.1,5.8,2.0,0
+953,Snettisham Dorm,OVC,SN,-9.9,-0.7,-3.4,143.9,3.0,N,0.7,6.7,1.0,0
+954,Mt Roberts Tram,X,SN,-3.8,-1.7,-1.7,324.4,27.0,N,0.0,0.2,2.0,0
+955,Speel Arm Balcony,X,SN,-4.9,-1.9,-1.9,184.0,8.0,Other,4.7,11.1,1.0,0
+956,SS Creek DOT,X,SN,0.1,2.0,1.7,4.0,6.0,SE,6.1,15.5,2.0,0
+957,Snettisham Dorm,X,SN,-3.4,2.5,2.1,160.0,20.0,Other,5.1,12.5,1.0,0
+958,Other,X,SN,-4.5,-0.3,-0.3,64.0,33.0,SE,0.5,5.8,1.0,0
+959,Mt Roberts Tram,X,SN,-1.7,-0.3,-1.5,351.8,38.0,N,0.0,0.0,4.0,0
+960,Speel Arm Balcony,X,SN,-1.9,-1.1,-1.7,191.0,27.0,Other,4.1,10.7,1.0,0
+961,SS Creek DOT,X,SN,0.2,3.2,1.7,2.0,1.0,ESE,1.9,12.5,4.0,0
+962,Snettisham Dorm,X,SN,0.6,3.5,0.7,0.0,16.0,Other,0.0,9.1,2.0,0
+963,Other,X,SN,-0.5,1.1,0.0,87.0,23.0,Other,0.6,4.8,2.0,0
+964,Mt Roberts Tram,X,SN,-4.8,0.7,-3.5,347.0,6.0,N,0.0,0.0,4.0,0
+965,SS Creek DOT,X,SN,-0.6,3.0,0.2,1.0,7.0,ESE,0.3,6.9,4.0,0
+966,Snettisham Dorm,X,SN,0.0,4.0,0.0,160.1,15.0,Other,0.0,11.4,2.0,0
+967,Other,X,SN,-1.9,1.4,-1.9,80.0,9.0,ESE,0.1,6.5,2.0,0
+968,Mt Roberts Tram,FEW,NO,-10.9,-3.5,-10.9,345.2,2.0,N,0.0,0.0,2.0,0
+969,SS Creek DOT,FEW,NO,0.0,0.2,0.0,2.0,1.0,N,0.0,10.6,2.0,0
+970,Snettisham Dorm,FEW,NO,-6.2,5.9,-6.2,163.1,7.0,NNE,5.0,9.6,1.0,0
+971,Other,FEW,NO,-7.7,0.1,-7.7,81.0,8.0,NNE,1.8,5.6,2.0,0
+972,Mt Roberts Tram,CLR,NO,-12.1,-10.8,-11.0,352.1,0.0,Other,1.4,2.1,4.0,0
+973,Speel Arm Balcony,CLR,NO,-11.3,-10.1,-10.8,188.0,0.0,NNE,4.9,10.6,2.0,0
+974,SS Creek DOT,CLR,NO,-6.8,-4.1,-5.4,2.0,0.0,Other,1.9,19.2,4.0,0
+975,Snettisham Dorm,CLR,NO,-8.1,-2.6,-7.8,157.5,0.0,NNE,3.5,14.8,1.0,0
+976,Other,CLR,NO,-8.1,-7.2,-7.8,73.0,0.0,NNE,3.1,9.0,2.0,0
+977,Speel Arm Balcony,CLR,NO,-11.1,-4.1,-4.7,188.0,0.0,N,2.5,9.6,2.0,0
+978,SS Creek DOT,CLR,NO,-5.7,1.2,-4.3,2.0,0.0,Other,0.8,13.0,4.0,0
+979,Snettisham Dorm,CLR,NO,-8.3,0.3,-8.3,159.6,0.0,NNE,3.5,9.7,1.0,0
+980,Other,CLR,NO,-8.1,-2.9,-6.5,71.0,0.0,NNW,0.6,7.7,2.0,0
+981,Mt Roberts Tram,CLR,NO,-5.3,2.1,-0.2,331.9,0.0,ESE,0.2,0.9,2.0,0
+982,Speel Arm Balcony,CLR,NO,-4.7,1.3,-1.0,188.0,0.0,NNE,2.8,7.3,1.0,0
+983,SS Creek DOT,CLR,NO,-4.4,6.9,-2.5,1.0,0.0,NNW,0.3,4.4,2.0,0
+984,Snettisham Dorm,CLR,NO,-8.5,4.9,-5.4,154.7,0.0,NNE,2.1,10.7,1.0,0
+985,Other,CLR,NO,-6.5,3.0,-3.7,68.0,0.0,N,0.8,4.6,1.0,0
+986,Mt Roberts Tram,FEW,NO,-2.9,4.3,-2.9,326.5,0.0,N,0.0,0.6,2.0,0
+987,Speel Arm Balcony,CLR,NO,-1.5,3.7,-0.9,187.0,0.0,Other,2.8,6.7,1.0,0
+988,SS Creek DOT,FEW,NO,-2.7,7.6,-1.4,1.0,0.0,Other,0.6,5.0,1.0,0
+989,Snettisham Dorm,CLR,NO,-6.2,7.5,-5.2,156.7,0.0,NNE,2.3,10.1,2.0,0
+990,Other,CLR,NO,-4.1,5.1,-2.7,68.0,0.0,Other,0.1,3.5,1.0,0
+991,Mt Roberts Tram,CLR,NO,-3.2,-0.7,-3.0,321.7,0.0,ESE,0.4,0.6,1.0,0
+992,Speel Arm Balcony,CLR,NO,-2.8,0.5,-0.4,187.0,0.0,NNW,1.6,4.0,1.0,0
+993,SS Creek DOT,CLR,NO,-2.0,3.6,-1.1,1.0,0.0,NNW,1.4,5.0,1.0,0
+994,Snettisham Dorm,CLR,NO,-6.3,5.4,-3.7,156.7,0.0,NNE,1.2,6.1,2.0,0
+995,Other,CLR,NO,-4.1,3.0,-4.1,66.0,0.0,NNW,0.3,2.5,1.0,0
+996,Mt Roberts Tram,OVC,NO,-3.0,3.1,-2.1,316.9,0.0,N,0.0,0.9,2.0,0
+997,Speel Arm Balcony,OVC,NO,-1.7,2.5,-1.6,186.0,0.0,Other,0.4,3.8,1.0,0
+998,SS Creek DOT,OVC,NO,-1.8,5.9,-1.2,1.0,0.0,Other,0.3,5.8,2.0,0
+999,Snettisham Dorm,OVC,NO,-5.0,7.5,-4.4,155.8,0.0,Other,3.9,7.3,2.0,0
+1000,Other,OVC,NO,-4.3,3.5,-2.2,66.0,0.0,Other,0.3,2.2,1.0,0
+1001,Mt Roberts Tram,FEW,NO,-2.1,2.5,1.8,314.9,2.0,Other,0.7,1.7,1.0,0
+1002,SS Creek DOT,FEW,NO,-1.2,7.2,6.3,1.0,0.0,NNW,0.8,9.4,1.0,0
+1003,Snettisham Dorm,CLR,NO,-4.8,4.0,2.1,155.3,1.0,NNE,6.3,10.8,2.0,0
+1004,Other,CLR,NO,-2.5,4.8,4.7,64.0,2.0,NNE,3.4,8.2,1.0,0
+1005,Mt Roberts Tram,SCT,NO,-0.4,3.2,0.1,311.5,0.0,ESE,0.1,1.9,2.0,0
+1006,Speel Arm Balcony,SCT,NO,0.9,3.6,1.0,185.0,0.0,Other,2.1,9.2,2.0,0
+1007,SS Creek DOT,SCT,NO,-0.4,9.4,1.0,1.0,0.0,ESE,1.4,10.3,2.0,0
+1008,Snettisham Dorm,SCT,NO,-2.6,10.1,-2.6,151.3,0.0,N,1.2,9.3,2.0,0
+1009,Other,SCT,NO,-1.2,6.1,-1.2,64.0,0.0,Other,0.1,7.4,2.0,0
+1010,Mt Roberts Tram,OVC,NO,-0.9,2.8,-0.9,307.7,1.0,N,0.0,0.5,2.0,0
+1011,Speel Arm Balcony,OVC,NO,-0.3,2.6,-0.3,184.0,0.0,Other,0.7,4.8,2.0,0
+1012,SS Creek DOT,OVC,NO,-0.2,6.0,0.4,1.0,0.0,ESE,0.8,5.3,2.0,0
+1013,Snettisham Dorm,OVC,NO,-3.4,8.1,-0.9,150.8,0.0,NNE,0.0,3.9,2.0,0
+1014,Other,OVC,NO,-2.0,5.6,-0.3,61.0,0.0,Other,0.1,3.2,2.0,0
+1015,Mt Roberts Tram,OVC,NO,-1.4,0.7,-1.2,316.9,14.0,N,0.0,0.4,1.0,0
+1016,Speel Arm Balcony,OVC,NO,-1.7,0.1,-1.5,190.0,8.0,NNW,2.0,7.6,1.0,0
+1017,SS Creek DOT,OVC,NO,0.1,4.5,0.9,1.0,0.0,N,0.6,11.4,1.0,0
+1018,Snettisham Dorm,OVC,NO,-1.5,5.5,0.6,153.2,5.0,ESE,0.0,7.4,1.0,0
+1019,Other,OVC,NO,-1.0,3.1,-0.8,69.0,10.0,N,0.0,3.2,1.0,0
+1020,Mt Roberts Tram,FEW,NO,-3.6,1.9,-3.6,315.2,0.0,N,0.8,1.7,2.0,0
+1021,Speel Arm Balcony,FEW,NO,-2.4,2.1,-2.4,184.0,0.0,NNE,6.1,11.4,2.0,0
+1022,SS Creek DOT,FEW,NO,0.9,8.7,2.1,2.0,0.0,NNW,3.3,6.9,2.0,0
+1023,Snettisham Dorm,FEW,NO,0.6,9.5,3.3,149.0,0.0,ESE,6.9,14.7,2.0,0
+1024,Other,FEW,NO,-0.8,4.5,0.4,65.0,0.0,NNE,3.2,8.7,2.0,0
+1025,Mt Roberts Tram,CLR,NO,-4.4,-2.4,-4.1,311.1,0.0,N,0.0,1.6,1.0,0
+1026,Speel Arm Balcony,CLR,NO,-4.2,-2.4,-3.6,182.0,0.0,Other,1.2,12.2,1.0,0
+1027,SS Creek DOT,CLR,NO,-2.9,4.1,-2.9,2.0,0.0,N,0.3,11.1,1.0,0
+1028,Snettisham Dorm,CLR,NO,-5.3,4.5,-5.3,147.3,0.0,Other,0.9,14.6,2.0,0
+1029,Other,CLR,NO,-5.4,0.6,-5.4,63.0,0.0,Other,0.3,9.2,1.0,0
+1030,Mt Roberts Tram,SCT,NO,-4.9,2.8,-2.8,308.0,0.0,N,0.0,0.5,1.0,0
+1031,Speel Arm Balcony,SCT,NO,-4.7,1.6,-1.9,182.0,0.0,Other,0.6,2.9,1.0,0
+1032,SS Creek DOT,SCT,NO,-3.1,6.1,-1.9,1.0,0.0,Other,0.3,4.2,1.0,0
+1033,Snettisham Dorm,SCT,NO,-5.7,7.2,-4.4,146.7,0.0,NNE,2.5,7.4,2.0,0
+1034,Other,SCT,NO,-5.4,2.5,-2.9,61.0,0.0,Other,0.2,1.9,1.0,0
+1035,Mt Roberts Tram,X,SN,-3.0,-0.3,-1.5,402.3,6.0,N,0.0,0.4,1.0,0
+1036,Speel Arm Balcony,X,SN,-2.0,0.2,-1.5,357.0,5.0,NNW,0.4,6.2,1.0,0
+1037,SS Creek DOT,OVC,RA,-2.0,4.1,1.2,1.0,0.0,N,0.0,7.8,1.0,0
+1038,Snettisham Dorm,OVC,SN,-5.1,5.2,0.7,149.5,4.0,NNE,0.0,8.4,1.0,0
+1039,Other,X,SN,-4.2,3.3,-0.1,68.0,9.0,N,0.0,3.3,1.0,0
+1040,Mt Roberts Tram,X,SN,-2.3,1.7,-0.1,305.0,1.0,N,0.0,0.1,1.0,0
+1041,Speel Arm Balcony,X,SN,-1.6,1.5,-0.4,190.0,1.0,Other,0.2,4.1,1.0,0
+1042,SS Creek DOT,X,RS,1.1,5.4,2.4,1.0,0.0,N,0.0,6.1,1.0,0
+1043,Snettisham Dorm,X,RS,0.6,8.1,1.2,147.8,0.0,NNW,0.0,4.6,1.0,0
+1044,Other,X,RS,-0.5,4.0,1.2,62.0,1.0,Other,0.5,2.2,1.0,0
+1045,Mt Roberts Tram,X,NO,-7.9,-0.1,-7.9,316.2,6.0,NNW,1.9,3.1,1.0,0
+1046,Speel Arm Balcony,X,SN,-8.0,-0.2,-8.0,191.0,2.0,N,5.3,9.3,1.0,0
+1047,SS Creek DOT,OVC,NO,-3.0,2.4,-2.7,1.0,1.0,Other,5.5,12.8,1.0,0
+1048,Snettisham Dorm,OVC,SN,-2.9,1.7,-2.8,151.0,6.0,Other,5.4,13.3,1.0,0
+1049,Other,X,SN,-5.0,1.2,-4.9,61.0,2.0,NNE,3.1,7.3,1.0,0
+1050,Mt Roberts Tram,SCT,NO,-11.7,-10.3,-11.7,304.2,0.0,NNW,0.5,3.4,1.0,0
+1051,Speel Arm Balcony,BKN,NO,-11.1,-9.7,-11.1,187.0,0.0,N,10.6,14.8,1.0,0
+1052,SS Creek DOT,SCT,NO,-6.5,-4.6,-6.3,2.0,0.0,Other,2.5,23.0,1.0,0
+1053,Snettisham Dorm,BKN,NO,-5.3,-3.4,-5.3,148.6,0.0,Other,6.5,16.1,1.0,0
+1054,Other,BKN,NO,-8.2,-6.8,-8.2,59.0,0.0,NNE,5.9,13.4,1.0,0
+1055,Mt Roberts Tram,CLR,NO,-11.7,-9.1,-10.8,296.0,0.0,Other,3.3,3.9,1.0,0
+1056,Speel Arm Balcony,CLR,NO,-11.4,-8.2,-11.0,186.0,0.0,N,6.3,15.3,1.0,0
+1057,SS Creek DOT,CLR,NO,-6.4,-3.4,-5.4,2.0,0.0,Other,7.8,21.9,1.0,0
+1058,Snettisham Dorm,CLR,NO,-5.7,-1.1,-5.6,147.1,0.0,N,2.8,19.1,1.0,0
+1059,Other,CLR,NO,-8.4,-5.4,-8.1,58.0,0.0,NNE,3.5,11.6,1.0,0
+1060,Mt Roberts Tram,CLR,NO,-10.8,-6.0,-6.6,294.7,0.0,Other,1.8,3.3,1.0,0
+1061,Speel Arm Balcony,CLR,NO,-11.2,-6.2,-7.6,185.0,0.0,N,3.4,9.6,1.0,0
+1062,SS Creek DOT,CLR,NO,-5.8,-0.8,-2.7,2.0,0.0,Other,0.3,16.6,1.0,0
+1063,Snettisham Dorm,CLR,NO,-7.8,0.2,-7.8,146.5,0.0,N,5.0,12.1,1.0,0
+1064,Other,CLR,NO,-8.2,-4.0,-5.1,58.0,0.0,NNE,1.9,7.9,1.0,0
+1065,Mt Roberts Tram,OVC,NO,-10.8,-7.7,-10.8,311.8,0.0,Other,2.3,3.1,1.0,0
+1066,Speel Arm Balcony,OVC,NO,-10.7,-8.0,-10.7,189.0,0.0,N,7.1,10.5,1.0,0
+1067,SS Creek DOT,OVC,NO,-5.7,-2.5,-5.7,2.0,0.0,SE,4.4,14.2,1.0,0
+1068,Snettisham Dorm,OVC,NO,-4.3,-1.1,-4.3,149.3,0.0,Other,6.0,13.4,1.0,0
+1069,Other,OVC,NO,-7.6,-4.3,-7.6,71.0,0.0,NNE,3.4,7.4,1.0,0
+1070,Mt Roberts Tram,CLR,NO,-6.9,-2.9,-3.3,292.7,0.0,NNW,1.2,1.9,1.0,0
+1071,Speel Arm Balcony,CLR,NO,-8.3,-3.5,-4.1,184.0,0.0,NNW,4.6,7.6,1.0,0
+1072,SS Creek DOT,CLR,NO,-4.5,3.4,-3.2,2.0,0.0,ESE,0.8,10.8,1.0,0
+1073,Snettisham Dorm,CLR,NO,-8.7,2.9,-6.2,146.0,0.0,Other,1.6,9.1,1.0,0
+1074,Other,CLR,NO,-5.5,-1.4,-5.1,58.0,0.0,NNW,0.5,5.6,1.0,0
+1075,Mt Roberts Tram,CLR,NO,-7.0,-3.8,-5.4,290.3,2.0,N,0.0,0.9,1.0,0
+1076,Speel Arm Balcony,CLR,NO,-7.4,-3.8,-3.8,185.0,4.0,NNW,2.0,4.8,1.0,0
+1077,SS Creek DOT,CLR,NO,-4.6,0.2,-4.6,2.0,1.0,N,0.0,8.1,1.0,0
+1078,Snettisham Dorm,CLR,NO,-7.9,1.0,-6.5,143.3,1.0,Other,1.3,5.7,2.0,0
+1079,Other,CLR,NO,-6.9,-1.8,-6.9,56.0,2.0,Other,0.3,2.0,1.0,0
+1080,Mt Roberts Tram,CLR,NO,-5.4,1.0,-3.8,289.2,0.0,N,0.0,0.6,1.0,0
+1081,Speel Arm Balcony,FEW,NO,-5.3,0.5,-3.9,185.0,0.0,Other,0.6,4.0,1.0,0
+1082,SS Creek DOT,CLR,NO,-4.8,6.2,-2.5,0.0,0.0,N,0.3,3.9,1.0,0
+1083,Snettisham Dorm,FEW,NO,-7.4,5.7,-5.1,145.9,0.0,NNE,3.2,5.9,2.0,0
+1084,Other,FEW,NO,-6.9,2.9,-5.3,57.0,0.0,N,0.2,1.9,1.0,0
+1085,Mt Roberts Tram,OVC,SN,-4.1,1.4,-1.4,288.3,1.3,N,0.0,0.8,1.0,0
+1086,Speel Arm Balcony,X,SN,-3.9,0.9,-1.4,184.0,1.0,Other,3.1,9.8,1.0,0
+1087,SS Creek DOT,OVC,RS,-2.7,4.6,2.8,2.0,0.5,NNW,1.9,9.2,1.0,0
+1088,Snettisham Dorm,OVC,RS,-6.0,6.7,3.3,145.1,1.0,Other,7.2,12.2,1.0,0
+1089,Other,OVC,SN,-5.4,3.5,1.1,58.0,2.0,Other,1.1,4.4,1.0,0
+1090,Mt Roberts Tram,OVC,NO,-4.0,1.2,-4.0,285.2,2.0,N,0.0,1.2,1.0,0
+1091,Speel Arm Balcony,OVC,NO,-4.7,0.5,-4.1,183.0,2.0,Other,2.7,8.8,1.0,0
+1092,SS Creek DOT,OVC,NO,0.0,6.7,0.0,1.0,1.0,N,0.0,10.3,1.0,0
+1093,Snettisham Dorm,OVC,NO,-0.2,5.5,1.1,145.5,2.0,Other,2.0,16.1,1.0,0
+1094,Other,OVC,NO,-2.0,3.9,-1.2,59.0,3.0,Other,0.9,5.5,1.0,0
+1095,Mt Roberts Tram,X,SN,-4.0,0.6,-2.3,294.7,11.0,Other,0.2,0.7,2.0,0
+1096,Speel Arm Balcony,X,SN,-4.1,-1.8,-2.4,184.0,4.0,Other,4.7,7.9,1.0,0
+1097,SS Creek DOT,X,SN,0.6,3.7,1.5,2.0,2.0,SE,9.7,15.3,2.0,0
+1098,Snettisham Dorm,X,SN,-0.1,4.1,0.4,152.7,10.0,ESE,0.0,9.2,1.0,0
+1099,Other,X,SN,-1.3,1.8,-0.3,69.0,13.0,Other,1.4,3.9,1.0,0
+1100,Mt Roberts Tram,OVC,SN,-2.3,0.2,-1.8,312.5,15.0,ESE,0.1,0.5,2.0,0
+1101,Speel Arm Balcony,X,SN,-2.4,-0.5,-1.9,183.0,4.0,Other,4.1,17.3,2.0,0
+1102,SS Creek DOT,OVC,RA,1.2,4.1,2.4,1.0,2.0,ESE,1.7,18.0,2.0,0
+1103,Snettisham Dorm,X,RA,0.3,4.6,3.5,154.5,21.0,Other,4.0,17.8,2.0,0
+1104,Other,X,RS,-1.5,1.9,0.7,75.0,20.0,Other,1.2,6.3,2.0,0
+1105,Mt Roberts Tram,CLR,NO,-3.4,0.9,-3.0,307.7,4.0,N,0.0,0.2,2.0,0
+1106,Speel Arm Balcony,FEW,NO,-2.7,-0.3,-2.6,187.0,7.0,N,3.2,6.5,2.0,0
+1107,SS Creek DOT,CLR,NO,-0.6,5.0,-0.2,2.0,0.0,N,1.7,6.1,2.0,0
+1108,Snettisham Dorm,FEW,NO,-0.4,6.2,-0.2,147.6,0.0,N,1.7,8.4,2.0,0
+1109,Other,FEW,NO,-1.5,3.0,-0.7,71.0,2.0,N,0.0,4.4,2.0,0
+1110,Mt Roberts Tram,CLR,NO,-3.1,0.1,-3.1,311.4,0.0,N,0.0,1.8,2.0,1
+1111,Speel Arm Balcony,CLR,NO,-2.6,0.2,-1.2,183.0,0.0,N,1.8,7.5,2.0,1
+1112,SS Creek DOT,CLR,NO,-2.6,6.9,-2.6,1.0,0.0,N,0.0,10.6,2.0,1
+1113,Other,CLR,NO,-3.2,3.2,-3.1,69.0,0.0,Other,0.3,5.7,2.0,1
+1114,Mt Roberts Tram,OVC,NO,1.1,6.6,1.9,301.6,0.0,N,0.0,0.4,2.0,0
+1115,Speel Arm Balcony,OVC,RA,0.9,6.9,3.5,179.0,0.0,Other,2.9,6.5,2.0,0
+1116,SS Creek DOT,OVC,RA,-1.0,9.6,5.9,1.0,0.0,SE,1.4,6.4,2.0,0
+1117,Other,OVC,RA,-1.1,8.2,3.5,67.0,0.0,Other,0.3,2.0,2.0,0
+1118,Mt Roberts Tram,X,RA,0.9,2.9,2.8,293.1,0.0,N,0.0,0.4,2.0,0
+1119,Speel Arm Balcony,X,RA,0.8,3.8,2.8,173.0,0.0,Other,0.4,6.3,2.0,0
+1120,SS Creek DOT,X,RA,4.1,6.5,4.1,1.0,0.0,Other,0.8,7.8,2.0,0
+1121,Other,X,RA,1.9,3.7,1.9,63.0,0.0,Other,0.1,1.9,2.0,0
+1122,Mt Roberts Tram,OVC,RA,2.8,6.8,3.3,286.6,0.0,N,0.0,0.1,2.0,0
+1123,Speel Arm Balcony,OVC,NO,2.3,7.0,4.0,168.0,0.0,Other,0.1,2.7,2.0,0
+1124,SS Creek DOT,OVC,RA,2.4,10.9,3.5,1.0,0.0,N,0.0,5.0,2.0,0
+1125,Other,OVC,NO,1.9,8.6,2.5,61.0,0.0,Other,0.0,1.5,2.0,0
+1126,Mt Roberts Tram,X,RA,2.9,4.9,2.9,279.1,0.0,N,0.0,0.2,2.0,0
+1127,Speel Arm Balcony,X,RA,3.5,5.1,4.5,163.0,0.0,Other,2.1,3.0,2.0,0
+1128,SS Creek DOT,X,RA,3.5,7.3,4.6,1.0,0.0,N,0.0,3.9,2.0,0
+1129,Other,X,RA,2.5,6.1,2.6,58.0,0.0,Other,0.0,1.4,2.0,0
+1130,Mt Roberts Tram,X,NO,2.4,3.8,2.4,275.7,0.0,N,0.0,0.6,2.0,1
+1131,Speel Arm Balcony,CLR,NO,3.0,5.0,4.2,158.0,0.0,NNW,2.0,3.7,2.0,1
+1132,SS Creek DOT,X,NO,0.0,6.5,4.8,0.0,0.0,Other,1.4,4.2,2.0,1
+1133,Other,X,NO,1.9,4.8,1.9,54.0,0.0,Other,0.1,1.8,2.0,1
+1134,Mt Roberts Tram,CLR,NO,2.4,9.7,4.6,271.9,0.0,N,0.0,0.5,2.0,0
+1135,Speel Arm Balcony,CLR,NO,4.2,8.9,5.5,151.0,0.0,Other,0.4,4.0,2.0,0
+1136,SS Creek DOT,CLR,NO,1.3,14.1,1.4,1.0,0.0,N,0.6,5.5,2.0,0
+1137,Other,CLR,NO,1.9,10.4,3.3,50.0,0.0,Other,0.3,2.5,2.0,0
+1138,Mt Roberts Tram,OVC,NO,3.3,9.3,3.3,263.4,0.0,N,0.0,0.5,2.0,0
+1139,Speel Arm Balcony,OVC,NO,3.0,10.2,3.0,136.0,0.0,Other,3.4,6.4,2.0,0
+1140,SS Creek DOT,OVC,NO,1.8,13.0,7.8,1.0,0.0,SE,5.0,8.6,2.0,0
+1141,Other,OVC,NO,2.8,10.3,4.5,40.0,0.0,Other,1.2,3.3,2.0,0
+1142,Mt Roberts Tram,X,RA,1.4,3.4,1.4,257.9,0.0,SE,0.2,0.5,1.0,0
+1143,Speel Arm Balcony,X,RA,1.3,3.4,1.3,126.0,0.0,Other,2.2,6.9,1.0,0
+1144,SS Creek DOT,OVC,RA,5.9,8.5,5.9,0.0,0.0,ESE,3.1,8.9,1.0,0
+1145,Other,X,RA,3.0,4.6,3.1,33.0,0.0,Other,0.2,3.3,1.0,0
+1146,Mt Roberts Tram,X,RA,1.2,3.0,2.6,252.1,0.0,N,0.0,0.5,1.0,0
+1147,Speel Arm Balcony,X,RA,0.9,3.3,2.0,117.0,0.0,Other,2.7,7.1,1.0,0
+1148,SS Creek DOT,X,RA,5.5,7.2,7.0,1.0,0.0,SE,3.9,7.5,1.0,0
+1149,Other,X,RA,1.6,3.5,3.5,29.0,0.0,N,0.2,2.9,1.0,0
+1150,Mt Roberts Tram,X,RA,1.7,2.6,2.0,248.3,0.0,N,0.0,0.5,2.0,0
+1151,Speel Arm Balcony,X,RA,0.8,2.0,1.4,112.0,0.0,Other,3.4,8.9,2.0,0
+1152,SS Creek DOT,X,RA,5.8,7.0,6.0,1.0,0.0,ESE,1.9,12.5,2.0,0
+1153,Other,X,RA,2.0,3.8,3.2,21.0,0.0,Other,1.3,5.7,2.0,0
+1154,Mt Roberts Tram,OVC,RA,1.2,3.8,1.2,244.6,0.0,N,0.0,0.2,1.0,0
+1155,Speel Arm Balcony,X,RS,-0.2,2.4,-0.2,105.0,2.0,Other,2.7,5.7,2.0,0
+1156,SS Creek DOT,OVC,RA,5.5,7.9,5.7,1.0,0.0,SE,3.6,7.5,1.0,0
+1157,Other,X,RA,2.7,5.4,2.7,13.0,0.0,Other,0.4,4.1,2.0,0
+1158,Mt Roberts Tram,BKN,NO,1.2,3.9,3.9,241.2,0.0,NNW,0.6,0.6,1.0,0
+1159,Speel Arm Balcony,BKN,NO,-0.4,3.6,2.9,104.0,2.0,NNW,1.7,6.7,2.0,0
+1160,SS Creek DOT,BKN,NO,3.9,6.8,3.9,1.0,0.0,Other,1.7,7.5,1.0,0
+1161,Other,BKN,NO,1.0,4.2,1.2,12.0,0.0,NNW,0.4,4.1,2.0,0
+1162,Mt Roberts Tram,OVC,NO,1.1,4.5,1.7,233.7,0.0,Other,0.0,1.8,1.0,0
+1163,Speel Arm Balcony,OVC,NO,1.0,5.0,2.4,96.0,0.0,Other,2.1,6.8,2.0,0
+1164,SS Creek DOT,OVC,NO,4.5,10.8,5.1,1.0,0.0,SE,0.3,7.8,1.0,0
+1165,Other,OVC,NO,1.9,6.0,2.9,3.0,0.0,Other,0.4,3.9,2.0,0
+1166,Mt Roberts Tram,OVC,RA,1.3,3.2,1.5,230.9,0.0,N,0.0,1.1,1.0,0
+1167,Speel Arm Balcony,OVC,RA,1.1,2.9,1.5,91.0,0.0,Other,3.8,9.2,2.0,0
+1168,SS Creek DOT,OVC,RA,5.1,7.8,6.3,1.0,0.0,ESE,3.3,13.9,1.0,0
+1169,Mt Roberts Tram,X,RA,1.4,4.2,2.2,226.8,0.0,NNW,0.5,0.9,1.0,0
+1170,Speel Arm Balcony,X,RA,1.5,3.1,2.7,89.0,0.0,Other,3.9,7.1,2.0,0
+1171,SS Creek DOT,X,RA,5.1,9.0,7.3,1.0,0.0,SE,7.5,13.0,1.0,0
+1172,Other,X,RA,2.2,4.1,2.8,-5.0,0.0,Other,0.2,3.6,2.0,0
+1173,Mt Roberts Tram,X,NO,1.4,2.2,1.4,224.4,0.0,Other,0.1,1.5,1.0,0
+1174,Speel Arm Balcony,X,NO,0.4,2.7,1.7,84.0,0.0,Other,1.8,7.3,2.0,0
+1175,SS Creek DOT,OVC,NO,5.1,7.4,6.0,0.0,0.0,SE,2.8,14.7,1.0,0
+1176,Other,X,NO,1.3,4.7,1.3,-12.0,0.0,NNW,0.0,4.2,2.0,0
+1177,Mt Roberts Tram,BKN,NO,1.1,2.1,1.4,222.4,0.0,N,0.0,0.3,1.0,1
+1178,Mt Roberts Tram,BKN,NO,1.1,2.1,1.4,222.4,0.0,N,0.0,0.3,1.0,1
+1179,Speel Arm Balcony,SCT,NO,0.6,2.0,1.7,82.0,0.0,Other,1.0,5.6,2.0,1
+1180,Speel Arm Balcony,SCT,NO,0.6,2.0,1.7,82.0,0.0,Other,1.0,5.6,2.0,1
+1181,SS Creek DOT,X,NO,2.7,7.1,2.8,1.0,0.0,NNW,0.3,8.1,1.0,1
+1182,SS Creek DOT,X,NO,2.7,7.1,2.8,1.0,0.0,NNW,0.3,8.1,1.0,1
+1183,Other,BKN,NO,1.3,4.4,1.9,-13.0,0.0,N,0.3,3.4,2.0,1
+1184,Other,BKN,NO,1.3,4.4,1.9,-13.0,0.0,N,0.3,3.4,2.0,1
+1185,Mt Roberts Tram,CLR,NO,1.4,6.5,6.3,219.0,0.0,SE,0.0,1.2,1.0,0
+1186,Speel Arm Balcony,CLR,NO,1.7,7.2,6.6,77.0,0.0,Other,1.8,4.1,2.0,0
+1187,SS Creek DOT,CLR,NO,2.9,13.2,5.4,1.0,0.0,Other,0.6,5.3,1.0,0
+1188,Other,CLR,NO,1.9,9.0,3.3,-17.0,0.0,NNW,0.4,4.0,2.0,0
+1189,Mt Roberts Tram,BKN,NO,2.0,6.6,2.5,210.5,0.0,N,0.0,0.4,1.0,0
+1190,Speel Arm Balcony,X,NO,2.1,5.4,3.0,63.0,0.0,Other,0.9,6.6,2.0,0
+1191,SS Creek DOT,BKN,NO,6.0,11.1,6.0,1.0,0.0,N,0.0,11.7,1.0,0
+1192,Other,X,NO,3.3,6.9,3.8,-28.0,0.0,NNW,0.3,3.1,2.0,0
+1193,Mt Roberts Tram,OVC,NO,2.3,8.2,6.9,206.4,0.0,N,0.0,1.1,1.0,0
+1194,Speel Arm Balcony,OVC,NO,3.0,7.3,5.0,60.0,0.0,NNW,1.4,4.2,2.0,0
+1195,SS Creek DOT,OVC,NO,3.3,13.4,3.6,1.0,0.0,Other,0.3,5.3,1.0,0
+1196,Other,OVC,NO,1.5,11.4,2.6,-29.0,0.0,NNW,0.2,2.7,2.0,0
+1197,Mt Roberts Tram,SCT,NO,4.6,7.4,6.6,204.7,0.0,Other,0.3,0.9,1.0,0
+1198,Speel Arm Balcony,BKN,NO,3.4,6.0,5.9,55.0,0.0,NNW,1.6,5.4,2.0,0
+1199,SS Creek DOT,SCT,NO,2.9,10.5,3.1,1.0,0.0,ESE,1.1,7.8,1.0,0
+1200,Other,BKN,NO,2.3,9.0,2.6,-33.0,0.0,N,0.4,3.5,2.0,0
+1201,Mt Roberts Tram,FEW,NO,4.0,10.1,9.1,197.2,0.0,Other,0.5,0.7,1.0,0
+1202,Speel Arm Balcony,CLR,NO,3.8,8.5,7.4,44.0,0.0,Other,0.9,3.1,2.0,0
+1203,SS Creek DOT,FEW,NO,4.6,14.5,4.7,1.0,0.0,SE,0.6,5.8,1.0,0
+1204,Other,CLR,NO,2.7,11.6,3.7,-40.0,0.0,NNE,0.2,1.6,2.0,0
+1205,Mt Roberts Tram,CLR,NO,9.1,14.1,13.3,190.4,0.0,NNE,0.4,0.9,1.0,0
+1206,Speel Arm Balcony,CLR,NO,7.4,12.7,12.7,36.0,0.0,Other,2.6,4.7,2.0,0
+1207,SS Creek DOT,CLR,NO,0.0,18.9,6.0,1.0,0.0,N,0.8,4.4,1.0,0
+1208,Other,CLR,NO,3.7,15.2,7.3,-43.0,0.0,N,0.5,2.9,2.0,0
+1209,Mt Roberts Tram,CLR,NO,11.3,16.4,11.3,170.9,0.0,Other,0.5,2.6,1.0,0
+1210,Speel Arm Balcony,CLR,NO,10.0,14.7,10.0,10.0,0.0,Other,2.1,7.6,1.0,0
+1211,SS Creek DOT,CLR,NO,0.0,22.4,6.4,0.0,0.0,Other,0.8,13.0,1.0,0
+1212,Other,CLR,NO,6.1,17.9,8.9,-63.0,0.0,N,0.6,5.7,1.0,0
+1213,Mt Roberts Tram,CLR,NO,8.8,13.9,8.8,166.5,0.0,N,0.0,2.0,0.0,0
+1214,Speel Arm Balcony,CLR,NO,8.8,12.4,9.9,9.0,0.0,Other,0.8,5.2,1.0,0
+1215,SS Creek DOT,CLR,NO,4.5,19.7,4.5,1.0,0.0,NNW,0.3,10.8,0.0,0
+1216,Other,CLR,NO,5.7,16.3,5.9,-72.0,0.0,Other,0.3,3.5,1.0,0
+1217,Mt Roberts Tram,CLR,NO,8.8,15.9,10.6,161.7,0.0,SE,0.0,0.8,0.0,0
+1218,Speel Arm Balcony,CLR,NO,9.2,13.3,10.1,9.0,0.0,Other,0.5,2.9,1.0,0
+1219,SS Creek DOT,CLR,NO,0.0,18.3,6.1,1.0,0.0,Other,0.3,5.5,0.0,0
+1220,Other,CLR,NO,5.2,15.9,6.8,-80.0,0.0,Other,0.3,1.9,1.0,0
+1221,Mt Roberts Tram,X,NO,4.3,6.7,4.3,0.0,0.0,N,0.0,0.0,0.0,0
+1222,Speel Arm Balcony,BKN,NO,4.0,5.0,4.2,0.0,0.0,Other,0.1,4.9,0.0,0
+1223,SS Creek DOT,X,NO,7.0,10.1,7.0,0.0,0.0,N,0.0,5.8,0.0,0
+1224,Mt Roberts Tram,SCT,NO,8.5,15.7,8.5,0.0,0.0,N,0.0,0.0,0.0,0
+1225,Speel Arm Balcony,SCT,NO,8.8,13.6,8.9,0.0,0.0,Other,1.9,7.6,0.0,0
+1226,SS Creek DOT,SCT,NO,6.8,11.6,10.0,0.0,0.0,SE,0.3,5.3,0.0,0
+1227,Snettisham Dorm,SCT,NO,7.1,13.3,10.4,0.0,0.0,Other,0.7,10.5,0.0,0
+1228,Other,SCT,NO,9.5,12.6,10.9,0.0,0.0,Other,1.0,4.6,0.0,0
+1229,Mt Roberts Tram,X,RA,8.4,12.9,9.5,0.0,0.0,N,0.0,0.0,0.0,0
+1230,Speel Arm Balcony,X,RA,8.2,12.3,9.4,0.0,0.0,Other,0.7,3.6,0.0,0
+1231,Snettisham Dorm,OVC,RA,7.9,14.1,8.5,0.0,0.0,NNW,1.4,5.0,0.0,0
+1232,Other,X,RA,7.9,12.1,8.8,0.0,0.0,Other,0.3,2.2,0.0,0
+1233,Mt Roberts Tram,X,NO,7.9,12.4,8.1,0.0,0.0,N,0.0,0.0,0.0,0
+1234,Speel Arm Balcony,X,NO,7.5,12.7,8.8,0.0,0.0,Other,2.0,7.8,0.0,0
+1235,SS Creek DOT,OVC,NO,0.0,12.6,10.0,0.0,0.0,SE,1.1,7.5,0.0,0
+1236,Snettisham Dorm,OVC,NO,8.4,12.0,10.7,0.0,0.0,Other,1.1,5.9,0.0,0
+1237,Other,X,NO,7.4,12.3,10.3,0.0,0.0,Other,1.0,4.1,0.0,0
+1238,Mt Roberts Tram,X,RA,6.9,9.0,6.9,0.0,0.0,N,0.0,0.0,0.0,0
+1239,Speel Arm Balcony,X,RA,5.9,8.8,5.9,0.0,0.0,Other,2.2,6.6,0.0,0
+1240,SS Creek DOT,CLR,RA,9.4,12.3,10.1,0.0,0.0,SE,3.9,6.4,0.0,0
+1241,Snettisham Dorm,X,RA,9.5,13.6,9.5,0.0,0.0,Other,1.0,7.1,0.0,0
+1242,Other,X,RA,8.2,11.5,8.3,0.0,0.0,Other,1.7,4.5,0.0,0
+1243,Mt Roberts Tram,X,RA,6.0,8.2,7.2,0.0,0.0,N,0.0,0.0,0.0,0
+1244,Speel Arm Balcony,X,RA,5.5,8.4,7.6,0.0,0.0,N,1.7,9.3,0.0,0
+1245,SS Creek DOT,OVC,RA,9.1,11.9,11.2,0.0,0.0,SE,0.3,15.3,0.0,0
+1246,Snettisham Dorm,OVC,RA,8.4,12.9,12.8,0.0,0.0,Other,3.4,15.0,0.0,0
+1247,Other,X,RA,7.3,10.5,9.7,0.0,0.0,Other,0.7,6.6,0.0,0
+1248,Mt Roberts Tram,X,RA,4.7,7.4,4.8,0.0,0.0,N,0.0,0.0,0.0,0
+1249,Speel Arm Balcony,X,RA,4.3,7.6,4.5,0.0,0.0,Other,1.6,7.9,0.0,0
+1250,SS Creek DOT,OVC,RA,7.9,11.5,8.5,0.0,0.0,ESE,1.7,10.3,0.0,0
+1251,Snettisham Dorm,OVC,RA,8.0,12.8,8.4,0.0,0.0,Other,1.7,13.8,0.0,0
+1252,Other,X,RA,6.9,9.7,6.9,0.0,0.0,Other,0.9,5.6,0.0,0
+1253,Speel Arm Balcony,BKN,NO,3.6,7.0,3.6,0.0,0.0,Other,0.9,3.3,0.0,0
+1254,SS Creek DOT,OVC,NO,5.0,11.2,6.3,0.0,0.0,SE,1.7,5.0,0.0,0
+1255,Snettisham Dorm,X,NO,5.0,9.7,6.0,0.0,0.0,Other,0.0,3.8,0.0,0
+1256,Other,X,NO,4.5,7.6,4.5,0.0,0.0,NNE,0.1,2.8,0.0,0
+1257,Speel Arm Balcony,X,RA,2.3,4.5,3.4,0.0,0.0,Other,0.5,3.1,0.0,0
+1258,SS Creek DOT,OVC,NO,5.4,8.5,5.4,0.0,0.0,N,0.0,6.4,0.0,0
+1259,Snettisham Dorm,OVC,RA,5.7,8.2,5.0,0.0,0.0,N,0.0,2.5,0.0,0
+1260,Other,OVC,RA,3.8,7.0,3.9,0.0,0.0,Other,0.3,1.5,0.0,0
+1261,Mt Roberts Tram,BKN,NO,2.1,4.6,2.5,0.0,0.0,N,0.0,0.0,0.0,0
+1262,Speel Arm Balcony,BKN,NO,1.8,5.8,1.9,0.0,0.0,Other,1.7,3.6,0.0,0
+1263,SS Creek DOT,BKN,NO,4.0,9.2,4.3,0.0,0.0,N,0.0,5.6,0.0,0
+1264,Snettisham Dorm,BKN,NO,3.4,8.0,4.8,0.0,0.0,Other,1.9,2.9,0.0,0
+1265,Other,BKN,NO,2.8,5.6,4.4,0.0,0.0,Other,0.9,2.4,0.0,0
+1266,Mt Roberts Tram,OVC,RA,3.1,7.1,3.7,0.0,0.0,N,0.0,0.0,0.0,0
+1267,Speel Arm Balcony,OVC,RA,2.4,7.2,2.6,0.0,0.0,NNW,0.8,4.6,0.0,0
+1268,SS Creek DOT,OVC,RA,5.4,10.6,6.2,0.0,0.0,N,0.3,5.8,0.0,0
+1269,Snettisham Dorm,OVC,RA,4.8,9.4,5.9,0.0,0.0,N,0.7,6.3,0.0,0
+1270,Other,OVC,RA,3.9,7.3,4.2,0.0,0.0,NNE,0.5,3.0,0.0,0
+1271,Mt Roberts Tram,OVC,NO,3.5,4.6,3.7,0.0,0.0,N,0.0,0.0,0.0,0
+1272,Speel Arm Balcony,OVC,NO,2.2,4.3,3.1,0.0,0.0,Other,1.9,5.0,0.0,0
+1273,SS Creek DOT,OVC,NO,6.2,9.0,8.3,0.0,0.0,SE,3.3,8.6,0.0,0
+1274,Snettisham Dorm,OVC,NO,5.8,7.4,6.5,0.0,0.0,Other,0.0,3.6,0.0,0
+1275,Other,CLR,NO,4.1,6.0,5.8,0.0,0.0,Other,0.9,3.9,0.0,0
+1276,Mt Roberts Tram,OVC,NO,2.7,4.9,3.4,0.0,0.0,N,0.0,0.0,0.0,0
+1277,Speel Arm Balcony,X,RA,2.8,4.0,2.9,0.0,0.0,Other,2.3,4.7,0.0,0
+1278,SS Creek DOT,OVC,NO,6.2,8.8,6.2,0.0,0.0,SE,1.1,8.3,0.0,0
+1279,Snettisham Dorm,OVC,RA,6.0,8.9,6.0,0.0,0.0,ESE,3.1,5.5,0.0,0
+1280,Other,OVC,RA,5.2,6.5,5.2,0.0,0.0,Other,1.1,3.9,0.0,0
+1281,Mt Roberts Tram,X,NO,2.7,4.8,2.7,0.0,0.0,N,0.0,0.0,0.0,0
+1282,Speel Arm Balcony,X,NO,1.9,3.6,2.3,0.0,0.0,Other,0.7,5.8,0.0,0
+1283,SS Creek DOT,BKN,NO,5.7,8.6,5.7,0.0,0.0,N,0.0,8.6,0.0,0
+1284,Snettisham Dorm,BKN,NO,4.4,7.9,4.4,0.0,0.0,NNE,1.3,6.0,0.0,0
+1285,Other,BKN,NO,3.3,5.9,3.3,0.0,0.0,Other,0.2,3.6,0.0,0
+1286,Mt Roberts Tram,FEW,NO,0.8,4.1,0.8,0.0,0.0,N,0.0,0.0,0.0,0
+1287,Speel Arm Balcony,FEW,NO,1.3,3.7,2.3,0.0,0.0,Other,0.7,3.9,0.0,0
+1288,SS Creek DOT,FEW,NO,3.5,7.8,3.5,0.0,0.0,N,0.3,6.1,0.0,0
+1289,Snettisham Dorm,FEW,NO,1.1,5.9,1.1,0.0,0.0,Other,0.9,4.7,0.0,0
+1290,Other,FEW,NO,1.3,4.6,1.7,0.0,0.0,Other,0.3,2.2,0.0,0
+1291,Mt Roberts Tram,X,NO,2.2,4.4,3.0,0.0,0.0,N,0.0,0.0,0.0,0
+1292,Speel Arm Balcony,X,NO,1.8,3.1,1.8,0.0,0.0,Other,0.3,3.8,0.0,0
+1293,SS Creek DOT,OVC,NO,4.4,8.0,6.8,0.0,0.0,SE,2.5,6.7,0.0,0
+1294,Snettisham Dorm,OVC,NO,4.6,7.9,5.3,0.0,0.0,NNE,1.7,3.2,0.0,0
+1295,Other,OVC,NO,3.7,6.2,3.7,0.0,0.0,N,0.1,2.5,0.0,0
+1296,Mt Roberts Tram,OVC,NO,-5.1,-0.7,-0.7,0.0,0.0,N,0.0,0.0,0.0,0
+1297,Speel Arm Balcony,OVC,NO,-4.7,-1.2,-2.0,0.0,0.0,N,1.5,8.8,0.0,0
+1298,SS Creek DOT,OVC,NO,-0.6,4.2,1.2,0.0,0.0,Other,1.1,11.9,0.0,0
+1299,Snettisham Dorm,OVC,NO,-0.6,4.9,0.1,0.0,0.0,NNE,3.3,12.3,0.0,0
+1300,Other,OVC,NO,-1.7,1.6,0.2,0.0,0.0,NNE,1.0,7.4,0.0,0
+1301,Speel Arm Balcony,CLR,NO,-4.7,2.9,-4.7,0.0,0.0,N,4.7,9.5,0.0,0
+1302,SS Creek DOT,CLR,NO,-0.2,8.4,-0.2,0.0,0.0,SE,2.2,16.1,0.0,0
+1303,Snettisham Dorm,CLR,NO,-0.4,6.8,-0.4,0.0,0.0,Other,3.3,12.1,0.0,0
+1304,Other,CLR,NO,-1.8,4.6,-1.7,0.0,0.0,NNE,3.6,7.6,0.0,0
+1305,Mt Roberts Tram,X,SN,-2.1,0.2,-2.1,2.0,2.0,N,0.0,0.0,0.0,0
+1306,SS Creek DOT,X,SN,0.5,4.6,0.5,1.0,1.0,N,0.0,1.9,0.0,0
+1307,Snettisham Dorm,X,SN,0.0,3.9,0.1,1.4,2.0,Other,0.0,5.9,0.0,0
+1308,Snettisham Dorm,X,SN,0.0,3.5,0.3,1.2,5.0,Other,0.0,7.1,0.0,0
+1309,SS Creek DOT,CLR,NO,-0.4,5.0,-0.1,0.0,0.0,NNW,1.9,13.0,0.0,0
+1310,Snettisham Dorm,CLR,NO,-0.5,3.8,0.3,0.0,0.0,ESE,3.6,13.6,0.0,0
+1311,SS Creek DOT,CLR,NO,-0.5,2.9,0.3,0.0,0.0,ESE,4.7,13.3,0.0,0
+1312,Snettisham Dorm,CLR,NO,-1.8,3.0,-1.7,0.0,0.0,Other,4.1,12.6,0.0,0
+1313,SS Creek DOT,CLR,NO,0.0,2.5,-0.3,0.0,0.0,N,1.9,13.0,0.0,0
+1314,Snettisham Dorm,CLR,NO,-2.4,1.9,-0.7,0.0,0.0,Other,5.0,11.9,0.0,0
+1315,Mt Roberts Tram,CLR,NO,-5.4,-1.6,-2.6,8.7,0.0,N,0.0,0.0,0.0,0
+1316,SS Creek DOT,CLR,NO,-1.2,4.2,-1.0,1.0,0.0,Other,0.3,13.9,0.0,0
+1317,Snettisham Dorm,CLR,NO,-3.4,3.9,-3.2,0.0,0.0,N,4.4,16.0,0.0,0
+1318,SS Creek DOT,OVC,NO,-1.2,4.1,2.5,0.0,0.0,ESE,1.7,3.9,0.0,0
+1319,Snettisham Dorm,OVC,NO,-3.6,2.8,-1.4,0.0,0.0,ESE,1.7,6.6,0.0,0
+1320,Snettisham Dorm,X,RA,-1.4,1.1,0.3,5.2,11.0,ESE,0.0,5.1,0.0,0
+1321,SS Creek DOT,OVC,RA,5.4,7.8,5.4,0.0,0.0,SE,0.8,7.2,0.0,0
+1322,Snettisham Dorm,X,RA,3.8,6.1,3.8,1.0,0.0,ESE,1.1,5.0,0.0,0
+1323,Mt Roberts Tram,X,RS,0.8,2.0,0.8,5.8,0.0,N,0.0,0.0,0.0,0
+1324,SS Creek DOT,OVC,RA,4.1,6.0,5.1,0.0,0.0,ESE,1.9,6.7,0.0,0
+1325,Snettisham Dorm,OVC,RA,1.3,3.9,1.6,0.0,0.0,ESE,0.8,3.9,0.0,0
+1326,Snettisham Dorm,OVC,SN,-0.9,5.8,-0.6,2.0,0.5,SE,0.5,3.7,0.0,0
+1327,Mt Roberts Tram,X,RA,-0.5,1.8,1.8,10.9,6.0,N,0.0,0.0,0.0,0
+1328,SS Creek DOT,X,RA,2.1,5.9,5.9,0.0,0.0,SE,8.1,14.2,0.0,0
+1329,Snettisham Dorm,X,RA,-0.6,5.3,4.9,0.0,5.0,Other,6.9,11.4,0.0,0
+1330,SS Creek DOT,X,RA,0.0,9.1,6.0,0.0,0.0,N,0.0,15.3,0.0,0
+1331,Snettisham Dorm,CLR,NO,0.7,4.6,1.2,0.0,0.0,ESE,0.6,8.8,0.0,0
+1332,Mt Roberts Tram Combo Obs,X,SN,-3.7,-0.1,-0.2,40.0,20.0,SE,5.6,21.6,0.0,0
+1333,Thane Road Combo Obs,X,RA,-1.1,3.8,3.0,5.0,2.0,ESE,3.3,15.3,0.0,0
+1334,Snettisham Combo Obs,X,SN,-3.9,0.2,0.1,29.1,25.0,ESE,0.0,5.0,0.0,0
+1335,Mt Roberts Tram Combo Obs,OVC,NO,-6.1,-2.1,-3.7,21.4,0.0,ESE,5.6,7.7,0.0,0
+1336,Thane Road Combo Obs,OVC,NO,-5.9,-0.7,-1.0,6.0,0.0,ESE,2.2,5.6,0.0,0
+1337,Snettisham Combo Obs,OVC,NO,-6.3,-1.6,-3.8,4.9,0.0,Other,0.9,5.2,0.0,0
+1338,Mt Roberts Tram Combo Obs,CLR,NO,-3.9,0.1,-3.9,42.9,3.0,Other,0.6,9.8,0.0,1
+1339,Thane Road Combo Obs,CLR,NO,-1.3,3.5,-1.1,4.0,0.0,Other,1.4,6.4,0.0,1
+1340,Snettisham Combo Obs,CLR,NO,-1.2,2.1,-1.1,24.8,1.0,Other,0.0,4.3,0.0,1
+1341,Mt Roberts Tram Combo Obs,OVC,NO,-4.0,-2.4,-3.5,41.2,0.0,ESE,7.1,9.8,0.0,0
+1342,Thane Road Combo Obs,OVC,NO,-2.3,1.5,1.1,4.0,0.0,SE,4.4,7.2,0.0,0
+1343,Snettisham Combo Obs,OVC,NO,-5.7,-0.3,-4.8,24.2,0.0,Other,1.1,5.8,0.0,0
+1344,Mt Roberts Tram Combo Obs,X,SN,-3.5,0.0,-0.3,53.2,13.0,ESE,4.4,18.0,0.0,0
+1345,Thane Road Combo Obs,X,RA,0.6,3.5,0.7,4.0,0.0,ESE,1.9,12.2,0.0,0
+1346,Snettisham Combo Obs,X,SN,-4.9,-1.0,-1.0,44.0,22.0,Other,0.0,4.7,0.0,0
+1347,Mt Roberts Tram Combo Obs,X,SN,-0.4,0.2,-0.4,72.3,14.0,SE,3.5,13.9,0.0,1
+1348,Thane Road Combo Obs,X,RA,0.7,3.4,1.7,2.0,0.0,SE,0.3,7.2,0.0,1
+1349,Snettisham Combo Obs,X,SN,-1.0,0.9,0.2,56.5,13.0,Other,0.0,1.6,1.0,1
+1350,Mt Roberts Tram Combo Obs,X,SN,-1.3,0.6,-1.3,61.7,2.0,ESE,1.6,7.7,0.0,0
+1351,Thane Road Combo Obs,OVC,RS,1.0,2.7,1.0,1.0,0.0,N,0.3,5.8,0.0,0
+1352,Snettisham Combo Obs,X,SN,-0.7,2.0,-0.5,48.9,1.0,NNE,0.0,4.1,1.0,0
+1353,Mt Roberts Tram Combo Obs,FEW,NO,-3.7,-1.7,-3.6,67.8,0.0,NNE,7.8,13.9,0.0,0
+1354,Thane Road Combo Obs,FEW,NO,-2.2,3.3,-0.8,2.0,0.0,N,0.0,9.2,0.0,0
+1355,Snettisham Combo Obs,FEW,NO,-6.9,-2.6,-6.9,55.8,0.0,N,3.1,7.6,1.0,0
+1356,Mt Roberts Tram Combo Obs,CLR,NO,-2.9,-0.5,-2.5,71.6,10.0,ESE,6.1,11.3,0.0,0
+1357,Thane Road Combo Obs,CLR,NO,-1.1,2.8,-0.7,2.0,0.0,Other,1.9,5.8,0.0,0
+1358,Snettisham Combo Obs,CLR,NO,-3.4,0.1,-3.2,59.4,17.0,NNE,4.1,8.7,1.0,0
+1359,Mt Roberts Tram Combo Obs,CLR,NO,-6.5,-3.6,-6.1,66.4,0.0,NNE,9.7,22.6,0.0,0
+1360,Thane Road Combo Obs,CLR,NO,-1.3,2.4,-0.8,2.0,0.0,Other,3.1,17.5,0.0,0
+1361,Snettisham Combo Obs,CLR,NO,-7.2,-2.6,-2.9,52.0,0.0,Other,6.6,13.7,1.0,0
+1362,Thane Road Combo Obs,OVC,NO,-2.9,0.2,-2.9,2.0,0.0,NNE,5.3,17.8,0.0,0
+1363,Snettisham Combo Obs,OVC,NO,-2.9,-1.1,-2.7,50.2,0.0,ESE,3.7,19.0,1.0,0
+1364,Mt Roberts Tram Combo Obs,OVC,NO,-8.2,-6.0,-6.1,59.2,0.0,Other,9.6,23.7,0.0,0
+1365,Thane Road Combo Obs,OVC,NO,-2.8,-0.7,-0.8,2.0,0.0,SE,2.2,15.3,0.0,0
+1366,Snettisham Combo Obs,OVC,NO,-3.9,-1.6,-3.8,48.4,0.0,Other,1.6,10.9,1.0,0
+1367,Mt Roberts Tram Combo Obs,OVC,SN,-6.7,-4.4,-4.6,55.2,1.0,N,1.6,15.9,0.0,0
+1368,Thane Road Combo Obs,OVC,SN,-2.3,-0.5,-2.1,2.0,1.0,Other,0.6,6.9,0.0,0
+1369,Snettisham Combo Obs,OVC,SN,-4.9,-2.9,-4.5,51.7,5.0,N,1.3,8.3,1.0,0
+1370,Mt Roberts Tram Combo Obs,X,SN,-1.4,0.4,-0.8,64.5,2.1,ESE,3.8,13.9,0.0,0
+1371,Thane Road Combo Obs,OVC,RS,0.8,3.0,2.1,4.0,0.0,ESE,1.7,5.8,0.0,0
+1372,Other,X,SN,-2.2,-0.4,-1.4,69.0,3.0,Other,0.4,5.5,0.0,0
+1373,Snettisham Combo Obs,X,SN,-2.9,-0.5,-1.2,62.9,5.0,NNE,1.2,6.6,1.0,0
+1374,Mt Roberts Tram Combo Obs,OVC,SN,-2.6,-0.4,-0.9,59.7,4.5,ESE,6.6,15.4,0.0,0
+1375,Thane Road Combo Obs,OVC,RA,-0.6,2.3,1.3,5.0,2.0,SE,3.6,6.7,0.0,0
+1376,Other,X,SN,-3.9,-0.9,-1.4,75.0,10.0,Other,1.0,5.4,0.0,0
+1377,Snettisham Combo Obs,OVC,SN,-5.0,-2.6,-2.7,60.8,8.0,Other,1.2,8.9,1.0,0
+1378,Mt Roberts Tram Combo Obs,X,SN,-4.6,-1.4,-1.4,52.0,4.5,ESE,3.0,7.7,0.0,0
+1379,Thane Road Combo Obs,X,SN,-2.1,-0.3,-0.3,4.0,2.0,SE,1.7,4.4,0.0,0
+1380,Other,X,SN,-5.4,-2.4,-2.5,65.0,5.0,NNW,1.1,3.8,0.0,0
+1381,Snettisham Combo Obs,X,SN,-7.0,-2.9,-5.0,52.6,2.3,ESE,0.9,5.3,1.0,0
+1382,Thane Road Combo Obs,OVC,RA,1.1,4.6,2.4,1.0,0.0,N,0.0,15.0,0.0,0
+1383,Mt Roberts Tram Combo Obs,X,NO,-2.5,0.8,-2.0,67.9,1.0,ESE,5.9,7.7,0.0,0
+1384,Thane Road Combo Obs,X,NO,0.6,3.6,1.2,1.0,0.0,SE,1.7,3.1,0.0,0
+1385,Other,X,NO,-2.2,0.7,-1.7,84.0,3.0,Other,1.4,4.1,0.0,0
+1386,Snettisham Combo Obs,X,NO,-3.1,2.2,-2.0,71.5,0.0,N,1.0,3.2,1.0,0
+1387,Mt Roberts Tram Combo Obs,X,SN,-2.0,0.6,0.0,71.7,5.0,SE,7.8,27.8,0.0,0
+1388,Thane Road Combo Obs,OVC,RA,1.2,5.1,4.3,1.0,0.0,ESE,3.1,16.7,0.0,0
+1389,Other,X,SN,-1.9,0.8,-0.2,90.0,8.0,Other,3.1,14.6,0.0,0
+1390,Snettisham Combo Obs,X,RS,-2.0,4.5,1.5,64.3,1.0,Other,0.9,17.7,1.0,0
+1391,Mt Roberts Tram Combo Obs,X,SN,-1.8,0.1,0.0,99.3,28.0,ESE,8.7,39.1,1.0,0
+1392,Thane Road Combo Obs,OVC,RA,2.4,4.7,4.3,0.0,0.0,ESE,4.2,20.3,1.0,0
+1393,Other,X,SN,-2.4,0.1,-0.2,87.0,8.0,Other,3.0,15.4,1.0,0
+1394,Snettisham Combo Obs,OVC,RS,-1.9,5.2,1.2,48.2,14.0,ESE,1.9,18.4,1.0,0
+1395,Mt Roberts Tram Combo Obs,X,SN,-2.1,0.2,-2.1,103.7,10.0,ESE,0.0,13.9,1.0,0
+1396,Thane Road Combo Obs,X,RS,1.0,4.7,1.1,0.0,0.0,N,0.3,8.6,1.0,0
+1397,Other,X,SN,-1.8,-0.2,-1.8,105.0,22.0,N,0.0,6.6,1.0,0
+1398,Snettisham Combo Obs,X,RS,0.2,1.3,0.8,46.3,2.0,Other,0.6,6.6,1.0,0
+1399,Mt Roberts Tram Combo Obs,X,SN,-2.1,0.0,-0.1,140.0,40.0,SE,23.7,32.4,2.0,0
+1400,Thane Road Combo Obs,X,RA,1.1,4.4,3.0,1.0,0.0,SE,10.3,21.4,2.0,0
+1401,Snettisham Combo Obs,X,RA,0.1,5.0,5.0,42.6,5.0,Other,10.8,16.4,2.0,0
+1402,Mt Roberts Tram Combo Obs,X,RA,-0.1,4.6,3.9,104.9,8.0,ESE,19.0,35.0,4.0,0
+1403,Thane Road Combo Obs,OVC,RA,3.3,9.6,9.4,0.0,0.0,SE,8.9,20.3,4.0,0
+1404,Other,X,RA,0.0,5.5,5.5,64.0,0.0,Other,3.7,18.0,4.0,0
+1405,Snettisham Combo Obs,OVC,RA,3.1,11.0,8.0,12.6,0.0,Other,7.6,19.4,2.0,0
+1406,Mt Roberts Tram Combo Obs,OVC,RA,1.0,6.4,2.5,92.9,0.0,ESE,10.9,29.3,2.0,0
+1407,Thane Road Combo Obs,OVC,RA,5.4,12.2,7.4,0.0,0.0,ESE,3.6,21.4,2.0,0
+1408,Other,OVC,RA,1.4,8.1,2.4,49.0,0.0,Other,1.6,10.7,2.0,0
+1409,Snettisham Combo Obs,OVC,RA,2.6,8.7,2.8,3.8,0.0,Other,0.0,13.6,1.0,0
+1410,Mt Roberts Tram Combo Obs,OVC,RA,1.4,3.1,3.1,86.4,0.0,ESE,12.9,15.4,1.0,0
+1411,Thane Road Combo Obs,OVC,RA,4.4,7.3,5.7,0.0,0.0,SE,5.0,8.6,1.0,0
+1412,Other,OVC,RA,1.0,3.7,3.2,46.0,0.0,Other,0.9,6.0,1.0,0
+1413,Snettisham Combo Obs,OVC,RA,1.7,3.1,2.1,0.2,0.0,Other,1.0,4.8,1.0,0
+1414,Mt Roberts Tram Combo Obs,OVC,RA,2.9,4.3,4.3,77.9,0.0,ESE,1.5,26.8,1.0,0
+1415,Thane Road Combo Obs,OVC,RA,5.3,9.2,5.3,0.0,0.0,N,0.0,14.7,1.0,0
+1416,Other,OVC,RA,3.2,5.1,4.4,35.0,0.0,Other,0.9,12.0,1.0,0
+1417,Snettisham Combo Obs,OVC,RA,2.0,8.7,3.5,0.0,0.0,Other,0.0,12.7,0.0,0
+1418,Mt Roberts Tram Combo Obs,OVC,RA,3.1,4.8,4.2,71.8,0.0,ESE,10.3,26.2,1.0,0
+1419,Thane Road Combo Obs,OVC,RA,5.0,9.9,9.5,0.0,0.0,SE,6.7,13.9,1.0,0
+1420,Other,OVC,NO,2.1,5.5,5.5,22.0,0.0,Other,1.2,9.2,2.0,0
+1421,Snettisham Combo Obs,OVC,NO,2.6,4.2,3.6,0.0,0.0,Other,1.6,7.6,0.0,0
+1422,Mt Roberts Tram Combo Obs,OVC,RA,1.9,4.3,2.0,66.9,0.0,ESE,12.9,28.3,1.0,0
+1423,Thane Road Combo Obs,OVC,RA,6.1,9.6,6.3,0.0,0.0,SE,4.2,17.5,1.0,0
+1424,Other,OVC,RA,0.9,5.1,0.9,24.0,0.0,Other,2.8,9.9,1.0,0
+1425,Snettisham Combo Obs,OVC,RA,2.5,8.5,2.5,0.0,0.0,NNE,5.0,15.3,0.0,0
+1426,Mt Roberts Tram Combo Obs,X,NO,1.1,2.0,1.3,65.5,0.0,ESE,10.0,20.6,1.0,0
+1427,Thane Road Combo Obs,OVC,NO,5.1,6.3,5.5,0.0,0.0,Other,2.5,15.0,1.0,0
+1428,Other,X,NO,0.3,1.6,1.2,18.0,8.0,Other,2.4,9.6,1.0,0
+1429,Snettisham Combo Obs,OVC,NO,2.2,5.4,3.2,0.0,0.0,ESE,4.6,12.0,0.0,0
+1430,Mt Roberts Tram Combo Obs,BKN,NO,-0.9,1.3,-0.9,62.8,1.0,SE,1.0,13.4,1.0,0
+1431,Thane Road Combo Obs,BKN,NO,1.9,5.4,1.9,0.0,0.0,Other,0.3,7.5,1.0,0
+1432,Other,FEW,NO,-1.1,1.2,-0.9,33.0,15.0,N,0.0,7.7,1.0,0
+1433,Snettisham Combo Obs,BKN,NO,0.4,3.9,1.1,0.0,1.0,N,0.4,11.1,0.0,0
+1434,Mt Roberts Tram Combo Obs,BKN,NO,-1.6,-0.2,-0.7,67.5,1.0,Other,6.5,13.9,1.0,0
+1435,Thane Road Combo Obs,BKN,NO,1.2,4.7,2.5,0.0,0.0,Other,0.6,7.5,1.0,0
+1436,Other,SCT,NO,-2.2,-0.5,-2.2,33.0,3.0,N,0.0,0.0,1.0,0
+1437,Snettisham Combo Obs,SCT,NO,0.2,1.1,0.4,0.0,1.5,NNE,5.1,6.9,0.0,0
+1438,Mt Roberts Tram Combo Obs,X,SN,-2.1,-0.3,-1.2,66.2,0.5,ESE,4.4,15.4,1.0,0
+1439,Thane Road Combo Obs,X,SN,-0.9,5.1,0.8,0.0,0.0,ESE,1.1,12.5,1.0,0
+1440,Other,X,SN,-3.2,0.6,-0.1,31.0,1.0,Other,1.1,3.1,1.0,0
+1441,Snettisham Combo Obs,X,SN,-1.7,1.1,-1.1,0.0,1.0,ESE,1.5,6.7,0.0,0
+1442,Mt Roberts Tram Combo Obs,BKN,NO,-1.6,-0.7,-0.9,72.3,10.0,Other,1.5,8.2,1.0,0
+1443,Thane Road Combo Obs,BKN,NO,0.1,0.7,0.3,1.0,1.0,N,0.0,3.1,1.0,0
+1444,Other,BKN,NO,-2.0,0.2,-2.0,38.0,10.0,N,0.0,3.8,1.0,0
+1445,Snettisham Combo Obs,BKN,NO,-1.1,0.2,-0.1,6.0,8.0,N,0.0,2.3,0.0,0
+1446,Mt Roberts Tram Combo Obs,FEW,NO,-3.5,-0.9,-3.5,70.5,0.0,ESE,2.8,17.5,1.0,0
+1447,Thane Road Combo Obs,FEW,NO,-2.7,0.5,-2.7,2.0,0.0,N,0.0,1.7,1.0,0
+1448,Other,FEW,NO,-7.0,-2.0,-7.0,40.0,0.0,N,2.5,8.4,1.0,0
+1449,Snettisham Combo Obs,FEW,NO,-3.8,-0.1,-3.8,4.4,0.0,NNE,2.6,7.8,1.0,0
+1450,Mt Roberts Tram Combo Obs,X,SN,-4.3,-2.1,-2.6,70.0,2.4,ESE,1.0,15.4,1.0,0
+1451,Thane Road Combo Obs,X,SN,-2.7,0.5,-0.9,4.0,3.0,NNW,0.6,3.3,1.0,0
+1452,Other,X,SN,-8.0,-5.9,-6.3,39.0,10.0,N,0.6,8.6,1.0,0
+1453,Snettisham Combo Obs,X,SN,-4.6,-2.8,-4.6,4.4,4.0,Other,1.4,8.6,1.0,0
+1454,Mt Roberts Tram Combo Obs,BKN,NO,-2.6,0.6,0.2,79.5,9.3,Other,7.4,12.9,1.0,0
+1455,Thane Road Combo Obs,X,NO,-0.9,1.5,-0.4,5.0,2.0,Other,0.6,5.0,1.0,0
+1456,Other,BKN,NO,-6.9,0.5,0.2,57.0,19.0,NNW,2.6,6.5,1.0,0
+1457,Snettisham Combo Obs,X,NO,-4.6,-3.1,-3.1,21.3,14.0,NNE,7.4,9.3,1.0,0
+1458,Mt Roberts Tram Combo Obs,X,SN,-3.9,0.2,-3.9,77.0,0.0,SE,0.9,15.4,1.0,0
+1459,Thane Road Combo Obs,X,SN,-1.1,1.4,-0.1,4.0,0.0,SE,0.6,2.8,1.0,0
+1460,Other,X,SN,-6.4,0.2,-5.7,51.0,0.0,Other,1.0,7.2,1.0,0
+1461,Snettisham Combo Obs,X,SN,-3.5,-1.8,-3.5,17.9,0.0,Other,4.8,10.3,1.0,0
+1462,Mt Roberts Tram Combo Obs,X,SN,-4.2,-1.7,-1.7,84.9,8.0,SE,3.8,4.6,1.0,0
+1463,Thane Road Combo Obs,X,SN,-1.3,0.2,0.2,12.0,8.0,SE,2.5,5.3,1.0,0
+1464,Other,X,SN,-5.9,-1.7,-1.9,76.0,31.0,Other,2.3,4.8,1.0,0
+1465,Snettisham Combo Obs,X,SN,-4.4,-2.6,-2.6,41.6,24.0,Other,1.4,8.3,1.0,0
+1466,Mt Roberts Tram Combo Obs,OVC,RS,-1.9,1.1,1.1,94.5,10.0,ESE,10.5,15.9,2.0,0
+1467,Thane Road Combo Obs,OVC,RA,0.1,3.2,2.8,6.0,0.0,ESE,2.8,8.3,2.0,0
+1468,Other,OVC,RS,-2.2,0.9,0.9,92.0,17.0,Other,3.3,6.3,2.0,0
+1469,Snettisham Combo Obs,OVC,ZR,-3.0,-1.4,-1.8,62.4,21.0,ESE,0.0,5.5,2.0,0
+1470,Mt Roberts Tram Combo Obs,OVC,RS,-0.3,1.5,-0.1,84.3,1.0,ESE,12.7,19.0,2.0,0
+1471,Thane Road Combo Obs,OVC,RA,2.2,5.1,3.9,1.0,0.0,SE,5.6,11.1,2.0,0
+1472,Snettisham Combo Obs,OVC,NO,-1.8,4.6,1.7,46.4,0.0,ESE,2.1,12.0,2.0,0
+1473,Mt Roberts Tram Combo Obs,BKN,NO,-1.6,1.0,-1.6,91.1,8.0,Other,4.2,23.7,2.0,0
+1474,Thane Road Combo Obs,BKN,NO,1.5,5.2,1.5,0.0,0.0,N,0.0,15.8,2.0,0
+1475,Other,BKN,NO,-1.6,0.3,-1.2,84.0,11.0,Other,1.3,9.3,2.0,0
+1476,Snettisham Combo Obs,BKN,NO,0.2,5.2,3.8,31.8,1.0,Other,5.7,17.2,2.0,0
+1477,Mt Roberts Tram Combo Obs,BKN,NO,-1.6,1.0,-1.6,91.1,8.0,Other,4.2,23.7,2.0,0
+1478,Thane Road Combo Obs,BKN,NO,1.5,5.2,1.5,0.0,0.0,N,0.0,15.8,2.0,0
+1479,Other,BKN,NO,-1.6,0.3,-1.2,84.0,11.0,Other,1.3,9.3,2.0,0
+1480,Snettisham Combo Obs,BKN,NO,0.2,5.2,3.8,31.8,0.0,Other,5.7,17.2,2.0,0
+1481,Mt Roberts Tram Combo Obs,X,SN,-1.9,-0.8,-1.9,101.0,10.0,ESE,6.1,16.5,2.0,0
+1482,Thane Road Combo Obs,X,RS,1.4,4.0,1.5,0.0,0.5,SE,1.7,9.7,2.0,0
+1483,Other,X,SN,-2.1,-1.1,-2.1,79.0,9.0,Other,2.6,9.2,2.0,0
+1484,Snettisham Combo Obs,X,SN,0.2,4.0,0.3,30.8,1.0,Other,0.6,10.4,2.0,0
+1485,Snettisham Combo Obs,X,SN,0.1,1.9,0.2,29.7,4.0,Other,0.0,7.3,1.0,0
+1486,Mt Roberts Tram Combo Obs,X,SN,-2.0,-0.4,-0.4,108.0,6.0,ESE,14.3,28.3,1.0,0
+1487,Thane Road Combo Obs,X,RS,1.9,5.5,3.3,0.0,0.0,SE,9.2,21.4,1.0,0
+1488,Other,X,SN,-2.9,-0.9,-0.9,81.0,15.0,Other,2.8,8.6,1.0,0
+1489,Snettisham Combo Obs,X,SN,-0.1,0.7,0.1,38.2,10.0,Other,0.0,8.3,1.0,0
+1490,Mt Roberts Tram Combo Obs,X,NO,-0.4,0.2,0.0,116.7,12.0,SE,3.8,24.2,2.0,0
+1491,Thane Road Combo Obs,X,NO,1.7,4.7,1.7,0.0,0.0,Other,0.3,15.3,2.0,0
+1492,Other,X,NO,-0.9,0.6,-0.6,85.0,8.0,Other,3.2,8.7,2.0,0
+1493,Snettisham Combo Obs,X,NO,0.2,1.0,0.5,35.9,0.0,Other,0.9,5.4,2.0,0
+1494,Mt Roberts Tram Combo Obs,BKN,NO,-2.2,0.3,0.2,115.7,0.0,NNE,11.4,23.2,2.0,1
+1495,Thane Road Combo Obs,BKN,NO,-0.2,6.5,5.4,0.0,0.0,Other,0.8,18.9,2.0,1
+1496,Other,BKN,NO,-2.2,1.9,1.9,82.0,0.0,N,5.6,10.8,1.0,1
+1497,Snettisham Combo Obs,BKN,NO,-0.8,1.5,0.3,34.6,0.0,Other,5.2,11.3,1.0,1
+1498,Mt Roberts Tram Combo Obs,BKN,NO,-1.3,0.5,-0.9,113.0,2.4,NNW,0.9,25.7,2.0,0
+1499,Thane Road Combo Obs,BKN,NO,1.2,6.0,1.2,0.0,0.0,N,0.0,16.4,2.0,0
+1500,Other,X,SN,-2.4,1.9,-1.7,80.0,7.0,NNW,0.3,10.6,1.0,0
+1501,Snettisham Combo Obs,X,SN,0.0,4.5,0.0,38.3,4.0,NNE,2.4,9.2,1.0,0
+1502,Mt Roberts Tram Combo Obs,X,NO,-3.1,-0.4,-2.3,111.8,0.0,Other,0.3,3.6,1.0,1
+1503,Thane Road Combo Obs,X,NO,-0.6,1.9,-0.6,0.0,0.0,N,0.0,2.8,1.0,1
+1504,Other,FEW,NO,-2.8,-0.6,-2.1,82.0,0.0,Other,0.8,3.6,1.0,1
+1505,Snettisham Combo Obs,FEW,NO,-5.4,0.3,-5.3,36.5,0.0,NNE,2.8,6.5,1.0,1
+1506,Mt Roberts Tram Combo Obs,X,SN,-3.3,-1.4,-1.4,115.7,3.0,ESE,6.4,10.8,1.0,0
+1507,Thane Road Combo Obs,X,RS,-1.0,2.4,1.9,0.0,1.0,SE,1.9,7.5,1.0,0
+1508,Other,X,SN,-3.4,-1.6,-1.6,83.0,10.0,Other,1.7,4.5,1.0,0
+1509,Snettisham Combo Obs,X,SN,-6.1,-1.9,-1.9,38.0,3.0,NNE,0.7,3.7,1.0,0
+1510,Mt Roberts Tram Combo Obs,X,SN,-1.4,0.2,-0.7,114.7,1.7,ESE,3.3,11.3,1.0,0
+1511,Thane Road Combo Obs,X,RA,1.6,3.3,2.2,0.0,0.0,ESE,0.3,5.3,1.0,0
+1512,Other,X,NO,-1.6,-0.1,-0.5,85.0,0.0,Other,0.8,4.0,1.0,0
+1513,Snettisham Combo Obs,X,NO,-2.0,-0.2,-0.4,36.9,0.0,Other,0.9,5.9,1.0,0
+1514,Mt Roberts Tram Combo Obs,BKN,NO,-0.7,0.6,0.5,122.5,9.0,ESE,1.6,11.3,1.0,0
+1515,Thane Road Combo Obs,X,NO,1.9,3.1,2.7,0.0,0.0,N,0.0,4.2,1.0,0
+1516,Other,OVC,SN,-1.8,0.0,0.0,95.0,17.0,N,0.0,3.3,1.0,0
+1517,Snettisham Combo Obs,X,RS,-0.5,0.3,0.2,43.5,9.0,Other,0.0,5.5,1.0,0
+1518,Mt Roberts Tram Combo Obs,X,SN,-2.6,0.5,-2.3,118.0,0.5,Other,0.2,5.7,1.0,0
+1519,Thane Road Combo Obs,X,SN,0.4,2.7,0.5,0.0,0.1,SE,2.5,5.3,1.0,0
+1520,Other,X,SN,-3.6,0.6,-2.9,92.0,0.0,Other,1.8,3.9,1.0,0
+1521,Snettisham Combo Obs,X,SN,-3.9,1.0,-3.6,42.6,0.0,ESE,0.0,5.6,1.0,0
+1522,Mt Roberts Tram Combo Obs,SCT,SN,-4.1,-1.7,-3.7,119.7,1.0,NNE,13.8,25.2,2.0,0
+1523,Thane Road Combo Obs,SCT,SN,-0.7,3.7,1.0,1.0,1.0,Other,3.1,16.7,2.0,0
+1524,Other,BKN,SN,-4.4,-2.0,-2.8,92.0,1.0,N,5.1,9.9,1.0,0
+1525,Snettisham Combo Obs,BKN,SN,-4.0,-0.9,-0.9,42.2,0.7,NNE,3.6,8.1,1.0,0
+1526,Mt Roberts Tram Combo Obs,OVC,NO,-4.2,-2.3,-4.2,118.0,0.1,Other,11.8,20.6,2.0,0
+1527,Thane Road Combo Obs,OVC,NO,0.6,3.0,0.9,0.0,0.1,Other,3.3,13.9,2.0,0
+1528,Other,OVC,NO,-4.8,-2.6,-4.8,91.0,4.0,N,3.6,9.0,1.0,0
+1529,Snettisham Combo Obs,OVC,NO,-2.2,0.2,-2.1,42.8,1.0,NNE,2.6,7.6,1.0,0
+1530,Mt Roberts Tram Combo Obs,X,SN,-4.3,-2.8,-3.2,117.7,2.1,SE,5.6,17.5,1.0,1
+1531,Thane Road Combo Obs,X,SN,-1.2,1.5,-0.3,2.0,2.0,Other,1.1,9.4,1.0,1
+1532,Other,X,SN,-5.6,-4.0,-4.2,99.0,9.0,Other,0.3,7.9,1.0,1
+1533,Snettisham Combo Obs,X,SN,-2.6,-1.2,-2.5,49.8,9.3,NNE,2.1,8.0,1.0,1
+1534,Mt Roberts Tram Combo Obs,X,SN,-3.2,0.4,0.2,130.7,12.0,NNE,6.9,15.9,2.0,0
+1535,Thane Road Combo Obs,X,RS,-0.4,4.2,1.2,9.0,10.0,Other,1.9,10.0,2.0,0
+1536,Other,X,NO,-4.2,0.9,0.9,110.0,18.0,N,0.0,5.5,1.0,0
+1537,Snettisham Combo Obs,X,NO,-3.3,-0.4,-0.7,59.2,12.0,NNE,0.0,5.7,2.0,0
+1538,Mt Roberts Tram Combo Obs,X,SN,-2.3,1.5,-0.2,140.0,9.0,ESE,6.0,23.7,2.0,0
+1539,Thane Road Combo Obs,X,RS,0.9,6.9,2.3,1.0,0.0,SE,1.9,15.0,2.0,0
+1540,Other,X,SN,-1.3,2.0,-1.3,105.0,12.0,NNW,0.5,10.8,1.0,0
+1541,Snettisham Combo Obs,X,SN,-1.3,2.7,0.3,63.3,8.5,NNW,0.0,11.4,2.0,0
+1542,Mt Roberts Tram Combo Obs,OVC,RS,-0.9,1.6,-0.2,139.9,7.0,ESE,10.5,24.7,2.0,0
+1543,Thane Road Combo Obs,OVC,RA,2.2,6.8,3.4,0.0,0.0,ESE,2.2,15.5,2.0,0
+1544,Other,X,RS,-1.3,0.9,-0.7,116.0,6.0,Other,2.5,8.1,1.0,0
+1545,Snettisham Combo Obs,CLR,RS,0.3,1.1,0.4,60.0,1.0,NNW,1.3,6.1,2.0,0
+1546,Mt Roberts Tram Combo Obs,OVC,RA,-0.4,0.4,0.4,149.8,11.0,ESE,5.2,19.0,2.0,0
+1547,Thane Road Combo Obs,OVC,RA,2.6,5.3,2.9,0.0,0.0,N,0.0,13.6,2.0,0
+1548,Other,OVC,NO,-1.7,-0.4,-0.5,112.0,7.0,Other,0.4,8.9,1.0,0
+1549,Snettisham Combo Obs,OVC,NO,0.1,3.2,0.5,58.2,0.0,Other,1.1,10.3,2.0,0
+1550,Mt Roberts Tram Combo Obs,OVC,NO,-0.1,3.4,3.0,148.5,4.0,Other,8.5,17.5,2.0,1
+1551,Thane Road Combo Obs,OVC,NO,2.8,7.1,3.6,0.0,0.0,ESE,1.1,10.5,2.0,1
+1552,Other,OVC,NO,-1.0,3.5,3.5,111.0,2.0,NNW,2.5,7.5,1.0,1
+1553,Snettisham Combo Obs,OVC,NO,0.6,1.8,1.1,56.4,0.0,Other,5.8,7.4,2.0,1
+1554,Mt Roberts Tram Combo Obs,SCT,NO,-0.1,3.9,0.3,147.8,5.0,ESE,3.4,14.4,2.0,1
+1555,Thane Road Combo Obs,SCT,NO,2.4,6.9,2.6,0.0,0.0,NNE,0.3,7.8,2.0,1
+1556,Other,SCT,NO,-1.3,4.1,-0.9,114.0,6.0,N,0.0,8.2,1.0,1
+1557,Snettisham Combo Obs,SCT,NO,0.0,3.6,0.5,54.8,2.0,Other,0.0,9.7,2.0,1
+1558,Mt Roberts Tram Combo Obs,OVC,RA,-1.1,1.1,1.1,154.3,9.0,SE,9.9,14.9,2.0,1
+1559,Thane Road Combo Obs,OVC,RA,2.0,7.0,5.4,0.0,0.0,SE,5.3,9.4,2.0,1
+1560,Other,OVC,RA,-0.9,1.1,0.9,122.0,12.0,Other,1.3,6.6,1.0,1
+1561,Snettisham Combo Obs,OVC,RA,0.1,1.4,0.3,53.6,0.0,Other,0.0,6.5,2.0,1
+1562,Mt Roberts Tram Combo Obs,X,SN,0.5,2.0,0.5,143.7,3.0,ESE,7.6,23.7,2.0,0
+1563,Thane Road Combo Obs,OVC,RA,4.0,6.7,4.3,0.0,0.0,SE,3.3,14.2,2.0,0
+1564,Other,X,SN,-1.0,1.9,-1.0,119.0,7.0,Other,1.6,8.7,2.0,0
+1565,Snettisham Combo Obs,OVC,RS,0.2,1.4,0.4,53.4,3.0,Other,0.7,4.4,2.0,0
+1566,Mt Roberts Tram Combo Obs,OVC,NO,-0.8,0.6,0.0,150.5,12.0,NNE,11.3,18.5,2.0,0
+1567,Thane Road Combo Obs,OVC,NO,2.5,6.0,4.7,0.0,0.0,Other,1.4,12.5,2.0,0
+1568,Other,OVC,NO,-1.0,1.6,1.6,123.0,21.0,N,3.9,8.8,2.0,0
+1569,Snettisham Combo Obs,OVC,NO,0.1,2.5,1.6,52.9,3.0,NNE,5.4,9.4,2.0,0
+1570,Mt Roberts Tram Combo Obs,BKN,SN,-1.6,0.4,-1.4,408.3,13.0,SE,7.2,36.5,2.0,0
+1571,Thane Road Combo Obs,BKN,RA,2.5,6.5,2.9,0.0,0.0,SE,2.2,23.0,2.0,0
+1572,Snettisham Combo Obs,BKN,RA,0.2,4.3,0.6,51.8,2.0,Other,2.1,19.2,2.0,0
+1573,Thane Road Combo Obs,OVC,NO,2.4,4.6,3.6,0.0,0.0,N,0.8,8.1,2.0,0
+1574,Snettisham Combo Obs,OVC,NO,0.3,3.1,0.9,50.9,2.0,NNE,4.1,9.2,1.0,0
+1575,Mt Roberts Tram Combo Obs,X,SN,-2.0,0.8,0.8,182.8,13.0,ESE,15.2,23.2,2.0,0
+1576,Thane Road Combo Obs,OVC,RA,1.9,6.3,5.5,0.0,0.0,SE,7.8,16.1,2.0,0
+1577,Snettisham Combo Obs,X,RS,0.3,1.7,0.7,53.5,5.0,ESE,4.3,9.0,1.0,0
+1578,Mt Roberts Tram Combo Obs,X,SN,0.5,1.5,0.5,174.9,1.0,SE,11.3,25.2,4.0,0
+1579,Thane Road Combo Obs,OVC,RA,4.3,5.9,4.3,0.0,0.0,ESE,1.1,15.5,4.0,0
+1580,Other,X,SN,0.0,1.2,0.0,116.0,1.0,Other,0.7,11.6,4.0,0
+1581,Snettisham Combo Obs,OVC,RA,0.9,5.7,1.5,40.8,0.0,Other,0.5,15.3,1.0,0
+1582,Mt Roberts Tram Combo Obs,X,RA,0.5,2.1,2.0,169.1,0.0,ESE,12.9,17.5,2.0,0
+1583,Thane Road Combo Obs,OVC,RA,3.5,6.5,6.3,0.0,8.0,ESE,4.2,9.4,2.0,0
+1584,Other,X,RA,-0.2,1.9,1.5,115.0,6.0,Other,4.4,8.3,2.0,0
+1585,Snettisham Combo Obs,X,RA,0.3,2.1,1.0,42.4,8.0,Other,1.9,5.3,1.0,0
+1586,Mt Roberts Tram Combo Obs,X,RS,0.7,2.1,1.0,159.9,2.0,ESE,3.2,18.5,2.0,0
+1587,Thane Road Combo Obs,OVC,RA,4.0,6.5,4.3,0.0,0.0,Other,0.6,10.5,2.0,0
+1588,Other,X,RS,0.6,2.0,1.2,114.0,5.0,Other,1.1,9.1,2.0,0
+1589,Snettisham Combo Obs,OVC,NO,1.0,5.4,1.3,37.4,1.0,NNE,0.7,13.3,1.0,0
+1590,Mt Roberts Tram Combo Obs,X,SN,-0.6,1.7,-0.6,173.9,25.0,SE,7.4,30.4,2.0,1
+1591,Thane Road Combo Obs,OVC,RS,2.7,6.5,3.1,0.0,0.0,Other,1.7,17.8,2.0,1
+1592,Snettisham Combo Obs,OVC,RA,0.2,5.1,3.2,30.2,4.0,Other,5.5,14.1,1.0,1
+1593,Mt Roberts Tram Combo Obs,BKN,SN,-2.0,-0.3,-2.0,170.4,2.0,SE,5.0,14.9,2.0,0
+1594,Thane Road Combo Obs,BKN,RA,1.4,4.3,1.6,0.0,0.0,ESE,0.3,5.8,2.0,0
+1595,Snettisham Combo Obs,BKN,NO,0.9,3.9,0.9,29.4,0.0,SE,1.7,12.3,1.0,0
+1596,Mt Roberts Tram Combo Obs,OVC,NO,-2.6,0.2,-2.6,171.5,3.0,ESE,0.0,6.2,1.0,1
+1597,Mt Roberts Tram Combo Obs,OVC,NO,-2.6,0.2,-2.6,171.5,3.0,ESE,0.0,6.2,1.0,1
+1598,Thane Road Combo Obs,OVC,NO,0.3,3.1,0.6,0.0,0.0,N,0.6,3.3,1.0,1
+1599,Thane Road Combo Obs,OVC,NO,0.3,3.1,0.6,0.0,0.0,N,0.6,3.3,1.0,1
+1600,Snettisham Combo Obs,OVC,NO,-0.5,1.1,-0.3,30.3,2.0,NNE,0.0,2.3,1.0,1
+1601,Snettisham Combo Obs,OVC,NO,-0.5,1.1,-0.3,30.3,2.0,NNE,0.0,2.3,1.0,1
+1602,Mt Roberts Tram Combo Obs,CLR,NO,-4.5,-2.0,-4.0,167.7,0.0,Other,1.2,6.2,2.0,0
+1603,Thane Road Combo Obs,CLR,NO,-2.4,2.6,-2.0,0.0,0.0,N,0.0,3.6,2.0,0
+1604,Other,CLR,NO,-5.8,-3.2,-5.5,124.0,0.0,Other,0.2,3.5,2.0,0
+1605,Snettisham Combo Obs,CLR,NO,-5.8,1.0,-5.8,31.2,0.0,N,1.4,5.3,1.0,0
+1606,Mt Roberts Tram Combo Obs,X,NO,-4.1,-1.6,-1.6,168.0,1.0,ESE,1.1,3.1,1.0,0
+1607,Thane Road Combo Obs,OVC,NO,-2.1,-0.3,-0.9,0.0,1.0,SE,2.8,4.2,1.0,0
+1608,Other,OVC,NO,-5.7,-2.2,-2.2,126.0,3.0,NNW,0.2,1.7,1.0,0
+1609,Snettisham Combo Obs,OVC,NO,-5.9,-2.5,-2.8,31.6,1.0,ESE,0.0,4.3,1.0,0
+1610,Mt Roberts Tram Combo Obs,X,SN,-2.6,-1.4,-2.0,177.9,15.0,ESE,5.1,8.2,2.0,0
+1611,Thane Road Combo Obs,OVC,SN,-1.1,0.2,0.0,13.0,13.0,SE,2.5,6.4,2.0,0
+1612,Other,X,SN,-2.9,-1.1,-2.4,137.0,14.0,Other,2.4,3.8,1.0,0
+1613,Snettisham Combo Obs,OVC,SN,-2.8,-0.2,-1.1,40.8,11.0,N,0.0,3.4,2.0,0
+1614,Mt Roberts Tram Combo Obs,CLR,NO,-6.0,-4.1,-5.6,176.5,0.0,NNE,6.6,12.3,2.0,1
+1615,Mt Roberts Tram Combo Obs,CLR,NO,-6.0,-4.1,-5.6,176.5,0.0,NNE,6.6,12.3,2.0,1
+1616,Thane Road Combo Obs,CLR,NO,-3.1,0.7,0.2,10.0,0.0,SE,3.1,9.4,2.0,1
+1617,Thane Road Combo Obs,CLR,NO,-3.1,0.7,0.2,10.0,0.0,SE,3.1,9.4,2.0,1
+1618,Snettisham Combo Obs,CLR,NO,-6.1,-3.1,-4.4,39.1,0.0,NNE,5.2,8.6,1.0,1
+1619,Snettisham Combo Obs,CLR,NO,-6.1,-3.1,-4.4,39.1,0.0,NNE,5.2,8.6,1.0,1
+1620,Mt Roberts Tram Combo Obs,CLR,NO,-11.4,-5.6,-11.4,175.4,0.0,N,8.8,24.2,4.0,1
+1621,Thane Road Combo Obs,CLR,NO,-6.1,0.6,-6.1,9.0,0.0,N,3.3,21.7,4.0,1
+1622,Other,CLR,NO,-10.8,-4.5,-10.8,113.0,0.0,NNE,8.3,13.4,2.0,1
+1623,Snettisham Combo Obs,CLR,NO,-6.1,-2.1,-5.9,39.4,0.0,ESE,8.1,14.8,1.0,1
+1624,Mt Roberts Tram Combo Obs,CLR,NO,-13.1,-10.6,-12.5,173.7,0.0,Other,0.3,24.7,4.0,0
+1625,Thane Road Combo Obs,CLR,NO,-9.6,-4.7,-9.2,9.0,0.0,N,0.6,20.3,4.0,0
+1626,Other,CLR,NO,-14.4,-10.8,-14.4,114.0,0.0,N,1.0,14.8,2.0,0
+1627,Snettisham Combo Obs,CLR,NO,-14.4,-5.1,-14.4,39.1,0.0,NNE,4.0,14.5,1.0,0
+1628,Mt Roberts Tram Combo Obs,OVC,NO,-12.5,-5.4,-5.6,171.8,0.0,ESE,3.4,6.7,1.0,0
+1629,Thane Road Combo Obs,OVC,NO,-9.8,-3.6,-3.6,8.0,0.0,Other,0.8,6.1,1.0,0
+1630,Other,BKN,NO,-15.7,-5.9,-5.9,114.0,0.0,NNW,1.1,2.7,1.0,0
+1631,Snettisham Combo Obs,BKN,NO,-14.5,-9.8,-10.0,38.3,0.0,NNE,3.5,6.3,1.0,0
+1632,Mt Roberts Tram Combo Obs,OVC,NO,-5.7,-2.8,-4.3,169.4,0.1,Other,3.7,12.9,1.0,1
+1633,Thane Road Combo Obs,OVC,NO,-3.8,-0.1,-0.1,8.0,0.1,Other,1.4,3.9,1.0,1
+1634,Other,OVC,NO,-6.8,-3.1,-5.3,112.0,0.1,NNE,1.2,5.7,1.0,1
+1635,Snettisham Combo Obs,OVC,NO,-10.0,-3.8,-3.8,37.1,0.1,N,5.1,11.0,1.0,1
+1636,Mt Roberts Tram Combo Obs,OVC,NO,-8.1,-3.3,-7.6,168.3,0.0,N,0.3,13.4,1.0,0
+1637,Thane Road Combo Obs,OVC,NO,-6.5,0.5,-5.8,8.0,0.0,Other,0.3,3.6,1.0,0
+1638,Other,OVC,NO,-7.7,-5.5,-7.7,114.0,0.0,Other,0.3,6.7,1.0,0
+1639,Snettisham Combo Obs,OVC,NO,-9.9,-3.1,-6.3,40.3,0.0,NNE,4.6,9.4,1.0,0
+1640,Mt Roberts Tram Combo Obs,SCT,NO,-8.8,-7.6,-8.8,169.3,14.0,NNE,10.2,19.5,2.0,1
+1641,Thane Road Combo Obs,SCT,NO,-5.8,-2.7,-3.6,9.0,15.0,SE,4.4,17.2,2.0,1
+1642,Other,SCT,NO,-9.2,-7.2,-8.5,113.0,5.0,N,6.6,11.0,1.0,1
+1643,Snettisham Combo Obs,SCT,NO,-7.3,-5.4,-5.8,55.6,18.0,NNE,3.2,12.1,2.0,1
+1644,Mt Roberts Tram Combo Obs,X,SN,-11.6,-8.4,-8.4,163.8,2.0,ESE,3.2,18.5,2.0,0
+1645,Thane Road Combo Obs,OVC,SN,-8.3,-3.6,-6.9,9.0,1.0,Other,0.0,15.8,2.0,0
+1646,Other,OVC,SN,-12.8,-8.5,-11.4,108.0,2.0,NNW,0.6,11.2,1.0,0
+1647,Snettisham Combo Obs,OVC,SN,-11.6,-4.3,-9.8,55.3,3.0,N,2.0,12.7,2.0,0
+1648,Mt Roberts Tram Combo Obs,X,ZR,-8.6,-3.5,-4.3,181.0,18.0,ESE,0.4,8.2,2.0,0
+1649,Thane Road Combo Obs,OVC,ZR,-6.8,-2.5,-2.6,20.0,15.0,N,0.0,3.9,2.0,0
+1650,Other,OVC,NO,-11.4,-0.8,-2.3,134.0,29.0,N,0.0,4.9,2.0,0
+1651,Snettisham Combo Obs,OVC,NO,-9.9,-5.1,-5.1,69.8,19.0,ESE,1.4,4.9,2.0,0
+1652,Mt Roberts Tram Combo Obs,FEW,NO,-6.7,-2.4,-5.8,179.2,0.0,Other,3.1,6.7,2.0,0
+1653,Thane Road Combo Obs,FEW,NO,-5.0,-0.2,-5.0,18.0,0.0,N,0.6,5.6,2.0,0
+1654,Other,BKN,NO,-7.0,-0.8,-7.0,130.0,0.0,N,0.0,0.0,2.0,0
+1655,Snettisham Combo Obs,BKN,NO,-5.8,-1.2,-5.8,63.7,0.0,NNE,4.1,7.5,2.0,0
+1656,Mt Roberts Tram Combo Obs,BKN,NO,-8.7,-5.6,-8.7,177.2,1.0,NNE,5.0,11.8,2.0,0
+1657,Thane Road Combo Obs,BKN,NO,-5.6,-2.6,-4.4,18.0,1.0,N,1.1,4.4,2.0,0
+1658,Other,BKN,NO,-10.2,-5.7,-10.2,131.0,3.0,N,0.0,0.0,2.0,0
+1659,Snettisham Combo Obs,BKN,NO,-7.2,-5.7,-6.9,61.3,1.0,NNE,5.3,7.7,2.0,0
+1660,Mt Roberts Tram Combo Obs,CLR,NO,-11.2,-7.7,-7.7,177.1,0.0,Other,2.1,18.5,1.0,0
+1661,Thane Road Combo Obs,CLR,NO,-8.6,-2.9,-7.8,17.0,0.0,Other,0.8,13.3,1.0,0
+1662,Other,CLR,NO,-12.2,-8.1,-8.1,131.0,0.0,N,0.0,0.0,1.0,0
+1663,Snettisham Combo Obs,CLR,NO,-14.2,-4.0,-13.0,61.3,0.0,ESE,1.5,16.5,1.0,0
+1664,Mt Roberts Tram Combo Obs,OVC,NO,-13.2,-7.7,-13.2,174.7,0.0,NNE,12.9,19.0,1.0,0
+1665,Thane Road Combo Obs,OVC,NO,-8.4,-2.7,-8.0,16.0,0.0,NNW,3.1,15.0,1.0,0
+1666,Other,OVC,NO,-13.0,-8.0,-13.0,129.0,0.0,NNE,5.1,8.2,1.0,0
+1667,Snettisham Combo Obs,OVC,NO,-14.3,-7.5,-8.5,59.6,0.0,NNE,3.3,9.6,1.0,0
+1668,Mt Roberts Tram Combo Obs,CLR,NO,-21.8,-13.2,-21.8,173.5,0.0,N,12.6,23.2,1.0,1
+1669,Thane Road Combo Obs,CLR,NO,-16.8,-8.1,-16.8,16.0,0.0,SE,3.1,19.7,1.0,1
+1670,Other,CLR,NO,-22.6,-13.0,-22.6,129.0,0.0,N,6.7,11.4,1.0,1
+1671,Snettisham Combo Obs,CLR,NO,-17.4,-8.4,-17.4,56.4,0.0,ESE,5.1,14.1,1.0,1
+1672,Mt Roberts Tram Combo Obs,CLR,NO,-22.1,-17.0,-17.0,172.9,0.0,NNE,13.4,27.3,2.0,0
+1673,Thane Road Combo Obs,CLR,NO,-16.9,-11.9,-11.9,16.0,0.0,Other,5.6,21.4,2.0,0
+1674,Other,CLR,NO,-22.7,-18.4,-18.4,128.0,0.0,N,5.8,12.3,1.0,0
+1675,Snettisham Combo Obs,CLR,NO,-18.0,-14.5,-16.3,56.5,0.0,Other,5.7,14.7,1.0,0
+1676,Mt Roberts Tram Combo Obs,CLR,NO,-17.0,-10.2,-11.2,171.7,0.0,NNE,10.6,25.7,2.0,0
+1677,Thane Road Combo Obs,CLR,NO,-12.9,-4.7,-7.2,14.0,0.0,Other,0.3,20.3,2.0,0
+1678,Other,CLR,NO,-18.4,-9.9,-11.3,127.0,0.0,N,6.2,11.2,1.0,0
+1679,Snettisham Combo Obs,CLR,NO,-16.3,-8.6,-8.8,55.4,0.0,Other,4.1,14.2,1.0,0
+1680,Mt Roberts Tram Combo Obs,CLR,NO,-11.8,-6.9,-6.9,170.4,0.0,NNE,15.2,29.3,2.0,0
+1681,Thane Road Combo Obs,CLR,NO,-7.2,-1.6,-1.9,14.0,0.0,Other,7.2,20.0,2.0,0
+1682,Other,CLR,NO,-11.5,-8.0,-8.1,108.0,0.0,NNE,3.0,11.6,1.0,0
+1683,Snettisham Combo Obs,CLR,NO,-9.4,-3.1,-7.2,54.5,0.0,Other,8.3,14.2,1.0,0
+1684,Mt Roberts Tram Combo Obs,CLR,NO,-7.4,-4.5,-5.6,169.7,0.0,NNE,13.5,29.8,2.0,0
+1685,Thane Road Combo Obs,CLR,NO,-2.6,1.2,0.3,4.0,0.0,ESE,1.1,22.2,2.0,0
+1686,Other,CLR,NO,-8.1,-3.8,-4.6,106.0,0.0,N,5.5,12.7,1.0,0
+1687,Snettisham Combo Obs,CLR,NO,-7.2,0.5,-4.4,54.2,0.0,NNE,5.6,14.1,1.0,0
+1688,Mt Roberts Tram Combo Obs,CLR,NO,-7.9,-5.0,-7.8,169.0,0.0,Other,6.0,24.7,2.0,0
+1689,Thane Road Combo Obs,CLR,NO,-6.5,1.3,-5.3,2.0,0.0,Other,0.8,15.5,1.0,0
+1690,Other,CLR,NO,-10.4,-4.3,-10.3,106.0,0.0,N,1.9,10.2,1.0,0
+1691,Snettisham Combo Obs,CLR,NO,-13.9,0.2,-13.8,54.0,0.0,NNE,6.3,10.0,2.0,0
+1692,Mt Roberts Tram Combo Obs,OVC,NO,-8.7,-7.6,-7.8,168.3,0.0,NNE,3.7,16.5,1.0,0
+1693,Thane Road Combo Obs,OVC,NO,-6.5,-2.8,-3.2,1.0,0.0,Other,0.3,10.8,1.0,0
+1694,Other,OVC,NO,-11.1,-9.2,-9.5,105.0,0.0,NNE,3.2,7.6,1.0,0
+1695,Snettisham Combo Obs,OVC,NO,-14.6,-6.1,-7.1,53.4,0.0,N,3.6,8.8,1.0,0
+1696,Mt Roberts Tram Combo Obs,OVC,SN,-9.0,-6.5,-7.8,168.0,0.0,ESE,0.5,10.3,1.0,0
+1697,Thane Road Combo Obs,OVC,SN,-7.3,-1.8,-5.1,1.0,0.0,ESE,0.6,2.8,1.0,0
+1698,Other,OVC,SN,-9.8,-8.0,-9.5,104.0,0.0,Other,0.4,6.5,1.0,0
+1699,Snettisham Combo Obs,OVC,SN,-9.9,-2.4,-8.5,53.4,0.5,ESE,4.5,6.3,1.0,0
+1700,Mt Roberts Tram Combo Obs,X,ZR,-8.2,-2.7,-2.8,172.1,6.0,Other,8.0,9.3,1.0,0
+1701,Thane Road Combo Obs,X,ZR,-5.2,-0.5,-0.5,4.0,3.0,SE,2.2,5.0,1.0,0
+1702,Other,X,ZR,-9.5,-3.1,-3.4,113.0,11.0,N,0.0,2.0,1.0,0
+1703,Snettisham Combo Obs,X,ZR,-9.0,-3.7,-3.9,60.5,7.4,Other,0.9,4.9,1.0,0
+1704,Mt Roberts Tram Combo Obs,OVC,NO,-2.8,-1.2,-1.2,182.4,11.0,Other,9.0,15.4,1.0,0
+1705,Thane Road Combo Obs,OVC,NO,-0.5,2.7,0.7,2.0,0.5,ESE,0.3,9.2,1.0,0
+1706,Other,OVC,NO,-3.4,0.1,0.1,114.0,5.0,N,2.4,6.1,1.0,0
+1707,Snettisham Combo Obs,OVC,NO,-3.9,-0.6,-2.4,60.8,2.0,N,2.5,8.4,1.0,0
+1708,Mt Roberts Tram Combo Obs,X,SN,-2.8,0.1,-0.8,188.2,5.5,SE,13.3,27.3,2.0,0
+1709,Thane Road Combo Obs,X,RA,0.1,5.1,4.8,1.0,0.0,SE,7.8,18.0,2.0,0
+1710,Other,X,SN,-2.0,0.8,0.5,111.0,16.0,Other,4.3,12.0,2.0,0
+1711,Snettisham Combo Obs,X,RS,-2.8,3.7,0.9,68.8,9.0,Other,4.6,9.5,2.0,0
+1712,Mt Roberts Tram Combo Obs,X,SN,-5.0,-0.3,-4.0,199.0,16.0,ESE,9.6,28.8,2.0,0
+1713,Thane Road Combo Obs,OVC,SN,-0.5,4.8,0.2,1.0,2.0,ESE,2.5,19.4,2.0,0
+1714,Other,X,SN,-4.4,0.5,-3.5,111.0,5.0,NNW,2.1,16.2,2.0,0
+1715,Mt Roberts Tram Combo Obs,OVC,SN,-4.0,0.1,0.1,229.9,27.4,SE,13.5,22.1,4.0,0
+1716,Thane Road Combo Obs,OVC,RA,0.2,4.5,4.5,0.0,5.0,ESE,2.2,15.0,4.0,0
+1717,Other,X,RS,-3.6,0.1,0.1,108.0,5.0,Other,1.8,9.0,4.0,0
+1718,Snettisham Combo Obs,OVC,RA,0.1,5.3,5.3,65.2,15.5,Other,2.3,14.6,4.0,0
+1719,Mt Roberts Tram Combo Obs,X,SN,-1.6,0.1,-1.6,227.5,13.0,SE,10.7,20.1,4.0,0
+1720,Thane Road Combo Obs,X,RS,1.9,5.6,2.0,0.0,0.0,ESE,4.4,10.5,4.0,0
+1721,Other,X,SN,-2.0,0.6,-1.7,117.0,13.0,N,0.0,14.4,4.0,0
+1722,Snettisham Combo Obs,X,RS,1.6,5.5,2.0,57.1,2.0,Other,6.2,15.6,4.0,0
+1723,Mt Roberts Tram Combo Obs,X,SN,-3.1,-0.9,-3.1,237.7,12.0,Other,1.2,14.9,4.0,0
+1724,Thane Road Combo Obs,OVC,SN,0.0,3.2,1.0,0.0,1.0,N,0.3,6.9,2.0,0
+1725,Other,X,SN,-3.2,-1.5,-3.2,117.0,5.0,N,0.0,0.0,4.0,0
+1726,Snettisham Combo Obs,X,SN,0.4,2.9,0.4,57.3,2.0,Other,1.2,13.0,2.0,0
+1727,Mt Roberts Tram Combo Obs,X,SN,-3.5,-1.6,-2.5,235.3,4.0,SE,7.8,11.3,2.0,0
+1728,Thane Road Combo Obs,OVC,RS,0.0,2.7,1.8,0.0,0.0,SE,3.9,6.1,2.0,0
+1729,Other,X,SN,-4.0,-2.7,-3.3,116.0,7.0,Other,2.1,6.1,2.0,0
+1730,Snettisham Combo Obs,X,RS,0.1,2.7,0.3,61.0,5.0,SE,1.5,7.4,2.0,0
+1731,Mt Roberts Tram Combo Obs,X,SN,-3.3,-2.3,-2.7,402.3,13.0,Other,2.2,16.5,2.0,0
+1732,Snettisham Combo Obs,OVC,SN,-0.6,1.2,-0.4,83.6,29.0,N,2.4,7.0,2.0,0
+1733,Mt Roberts Tram Combo Obs,FEW,NO,-4.0,-0.7,-4.0,257.2,11.0,Other,0.8,6.7,2.0,0
+1734,Thane Road Combo Obs,FEW,NO,0.0,1.4,0.2,4.0,5.0,N,0.0,6.9,2.0,0
+1735,Snettisham Combo Obs,FEW,NO,-0.6,1.7,0.3,78.4,5.0,SE,1.3,4.8,2.0,0
+1736,Mt Roberts Tram Combo Obs,X,SN,-5.3,-0.8,-2.9,252.7,2.0,ESE,8.6,14.4,2.0,0
+1737,Thane Road Combo Obs,OVC,RS,0.0,3.3,0.6,4.0,3.0,SE,6.7,9.7,2.0,0
+1738,Other,X,SN,-4.9,-2.9,-4.5,122.0,6.0,Other,1.4,5.4,2.0,0
+1739,Snettisham Combo Obs,OVC,SN,-3.1,1.9,-3.1,81.4,10.0,N,1.6,5.3,2.0,0
+1740,Mt Roberts Tram Combo Obs,X,SN,-2.9,0.1,0.1,285.9,36.0,SE,15.8,22.1,4.0,0
+1741,Thane Road Combo Obs,OVC,RA,0.0,4.7,4.7,2.0,4.0,ESE,6.1,12.2,4.0,0
+1742,Other,X,SN,-4.5,0.2,0.0,131.0,23.0,Other,7.5,10.8,2.0,0
+1743,Snettisham Combo Obs,OVC,RA,-3.2,0.4,0.3,116.2,39.0,Other,0.5,5.5,4.0,0
+1744,Mt Roberts Tram Combo Obs,X,SN,-1.5,0.2,-1.5,290.0,12.0,ESE,9.4,23.2,4.0,0
+1745,Thane Road Combo Obs,OVC,RS,2.2,4.7,2.3,0.0,0.0,ESE,2.2,12.8,4.0,0
+1746,Other,X,SN,-2.4,0.0,-2.3,130.0,6.0,ESE,1.2,10.8,4.0,0
+1747,Snettisham Combo Obs,OVC,RS,0.3,4.9,1.4,92.3,2.0,Other,3.1,16.3,4.0,0
+1748,Mt Roberts Tram Combo Obs,X,SN,-2.2,-0.7,-2.1,297.8,21.0,ESE,7.1,20.1,4.0,0
+1749,Thane Road Combo Obs,OVC,RS,1.5,3.5,2.0,0.0,1.0,ESE,2.8,16.7,4.0,0
+1750,Other,X,SN,-2.6,-1.6,-1.9,123.0,3.0,Other,1.9,10.4,4.0,0
+1751,Snettisham Combo Obs,OVC,RS,1.3,3.3,1.4,86.9,3.0,Other,3.2,14.3,2.0,0
+1752,Mt Roberts Tram Combo Obs,BKN,SN,-2.3,0.3,-2.3,299.9,12.0,SE,1.3,17.0,4.0,0
+1753,Thane Road Combo Obs,BKN,SN,0.0,3.1,0.6,0.0,0.0,NNW,0.3,11.7,4.0,0
+1754,Other,X,SN,-2.9,-1.7,-2.9,130.0,3.0,N,0.0,6.9,2.0,0
+1755,Snettisham Combo Obs,X,SN,0.1,3.0,0.2,86.7,3.5,NNW,0.0,12.0,2.0,0
+1756,Mt Roberts Tram Combo Obs,X,SN,-2.6,-0.7,-1.1,300.9,2.0,ESE,7.1,19.5,2.0,0
+1757,Thane Road Combo Obs,OVC,RS,0.4,4.2,3.0,0.0,0.0,SE,3.1,10.0,2.0,0
+1758,Other,X,SN,-3.2,-1.1,-1.7,137.0,3.0,Other,4.0,9.1,2.0,0
+1759,Snettisham Combo Obs,OVC,RS,0.2,2.7,2.7,85.8,2.0,Other,4.3,8.7,2.0,0
+1760,Mt Roberts Tram Combo Obs,OVC,SN,-2.4,1.5,0.1,293.0,0.0,ESE,1.9,13.4,2.0,0
+1761,Thane Road Combo Obs,OVC,RA,0.8,6.2,1.3,0.0,0.0,Other,1.1,10.0,2.0,0
+1762,Other,OVC,SN,-2.3,0.7,0.1,127.0,0.0,Other,0.9,7.4,2.0,0
+1763,Snettisham Combo Obs,OVC,RA,0.0,4.1,0.6,84.1,0.0,Other,0.0,8.0,2.0,0
+1764,Mt Roberts Tram Combo Obs,OVC,SN,-1.2,0.8,-1.2,298.5,17.0,ESE,6.5,15.9,2.0,0
+1765,Thane Road Combo Obs,OVC,RS,1.2,4.9,3.2,0.0,0.0,Other,1.7,10.5,2.0,0
+1766,Other,X,SN,-1.4,1.2,-1.2,135.0,9.0,Other,2.6,5.6,1.0,0
+1767,Snettisham Combo Obs,OVC,RS,0.3,5.8,0.4,81.8,2.0,NNW,0.5,4.3,1.0,0
+1768,Thane Road Combo Obs,SCT,NO,0.2,4.9,0.9,0.0,0.1,Other,0.3,7.8,2.0,0
+1769,Other,SCT,NO,-1.6,0.4,-1.6,134.0,0.0,NNW,1.5,4.9,1.0,0
+1770,Snettisham Combo Obs,SCT,NO,-0.8,6.0,-0.3,80.5,1.0,Other,0.5,6.8,1.0,0
+1771,Mt Roberts Tram Combo Obs,FEW,NO,-3.9,0.5,-3.9,290.6,0.0,NNE,5.2,11.3,2.0,0
+1772,Thane Road Combo Obs,FEW,NO,0.0,6.4,0.1,0.0,0.0,Other,0.8,9.2,2.0,0
+1773,Other,OVC,NO,-4.1,0.9,-4.1,135.0,0.0,N,1.8,6.7,1.0,0
+1774,Snettisham Combo Obs,OVC,NO,-0.5,6.8,-0.5,77.3,0.0,NNE,1.2,7.8,1.0,0
+1775,Mt Roberts Tram Combo Obs,CLR,NO,-6.8,-3.7,-6.8,287.2,0.0,Other,0.4,13.9,2.0,0
+1776,Thane Road Combo Obs,CLR,NO,-3.7,2.5,-3.7,0.0,0.0,Other,2.5,10.5,2.0,0
+1777,Other,CLR,NO,-6.6,-2.9,-6.6,130.0,0.0,N,2.9,8.0,1.0,0
+1778,Snettisham Combo Obs,CLR,NO,-4.8,3.6,-4.8,77.8,0.0,NNE,5.1,10.3,1.0,0
+1779,Mt Roberts Tram Combo Obs,FEW,NO,-7.3,-1.8,-5.2,283.8,0.0,N,0.0,4.6,2.0,0
+1780,Thane Road Combo Obs,FEW,NO,-4.6,1.8,-3.6,0.0,0.0,N,0.0,4.4,2.0,0
+1781,Other,FEW,NO,-7.3,-3.2,-6.4,130.0,0.0,Other,0.3,5.8,1.0,0
+1782,Snettisham Combo Obs,FEW,NO,-8.6,1.0,-8.6,76.8,0.0,Other,2.6,7.3,1.0,0
+1783,Mt Roberts Tram Combo Obs,OVC,SN,-5.6,-1.9,-2.2,402.3,18.0,Other,4.5,21.1,2.0,0
+1784,Thane Road Combo Obs,OVC,RA,-4.0,1.8,1.5,4.0,2.0,ESE,3.3,12.8,2.0,0
+1785,Snettisham Combo Obs,X,RA,-9.1,2.0,2.0,89.8,14.0,Other,5.3,11.6,2.0,0
+1786,Mt Roberts Tram Combo Obs,BKN,NO,-6.0,-1.0,-6.0,293.0,3.5,ESE,2.3,14.4,2.0,0
+1787,Thane Road Combo Obs,BKN,NO,-2.2,3.1,-2.2,0.0,0.0,N,0.0,6.4,2.0,0
+1788,Other,BKN,NO,-5.7,-2.2,-5.7,129.0,2.0,Other,0.4,9.7,2.0,0
+1789,Snettisham Combo Obs,X,NO,-2.2,2.6,-2.2,89.3,3.0,N,3.8,13.5,2.0,0
+1790,Mt Roberts Tram Combo Obs,OVC,NO,-7.0,-3.1,-7.0,295.4,5.5,N,3.6,16.5,3.0,0
+1791,Thane Road Combo Obs,OVC,NO,-3.0,1.7,-1.6,0.0,0.1,Other,3.6,13.3,4.0,0
+1792,Other,OVC,NO,-6.5,-3.2,-6.5,129.0,13.0,N,6.8,10.3,2.0,0
+1793,Snettisham Combo Obs,OVC,NO,-4.2,1.9,-2.1,94.3,10.0,NNE,4.1,8.7,1.0,0
+1794,Mt Roberts Tram Combo Obs,OVC,NO,-10.9,-6.6,-10.9,290.6,0.0,Other,4.6,15.9,4.0,0
+1795,Thane Road Combo Obs,OVC,NO,-5.7,-1.1,-5.7,0.0,0.0,Other,3.3,12.8,4.0,0
+1796,Other,OVC,NO,-10.9,-6.0,-10.9,128.0,0.0,N,2.7,10.9,2.0,0
+1797,Snettisham Combo Obs,OVC,NO,-5.9,-1.1,-5.9,87.0,0.0,Other,2.0,11.4,1.0,0
+1798,Thane Road Combo Obs,X,SN,-6.3,-1.9,-2.4,1.0,1.0,SE,6.4,10.0,2.0,0
+1799,Snettisham Combo Obs,X,SN,-7.7,-1.3,-7.6,87.7,2.0,N,2.3,6.5,1.0,0
+1800,Mt Roberts Tram Combo Obs,OVC,SN,-6.6,-0.6,-2.5,327.5,38.3,Other,0.9,20.1,4.0,0
+1801,Thane Road Combo Obs,OVC,RS,-2.5,2.8,1.1,5.0,13.0,N,0.6,14.2,4.0,0
+1802,Other,X,SN,-8.4,-0.9,-2.0,127.0,43.0,Other,4.0,10.4,4.0,0
+1803,Snettisham Combo Obs,X,SN,-7.6,3.0,2.9,138.5,52.0,Other,7.1,11.6,2.0,0
+1804,Mt Roberts Tram Combo Obs,X,SN,-2.8,-0.4,-0.9,335.0,16.0,ESE,3.3,11.8,4.0,0
+1805,Other,X,SN,-2.8,-1.3,-1.3,148.0,21.0,Other,3.6,7.9,4.0,0
+1806,Snettisham Combo Obs,OVC,RS,0.1,2.9,0.2,133.4,8.0,NNW,0.0,11.1,4.0,0
+1807,Mt Roberts Tram Combo Obs,BKN,NO,-3.5,-0.2,-3.4,337.4,23.0,Other,0.0,34.0,4.0,0
+1808,Thane Road Combo Obs,BKN,NO,0.0,4.2,0.5,0.0,0.0,Other,0.6,22.2,4.0,0
+1809,Snettisham Combo Obs,OVC,NO,0.1,4.7,0.9,118.0,2.0,Other,2.4,26.3,4.0,0
+1810,Mt Roberts Tram Combo Obs,X,SN,-6.0,-0.4,-4.3,326.1,0.3,SE,9.5,13.4,2.0,0
+1811,Thane Road Combo Obs,X,SN,-2.2,4.1,0.8,0.0,0.1,SE,5.8,8.3,2.0,0
+1812,Other,X,SN,-4.4,0.4,-4.4,127.0,0.5,Other,3.1,4.8,2.0,0
+1813,Snettisham Combo Obs,X,SN,-2.9,5.2,-2.7,111.0,0.5,NNE,1.4,6.0,2.0,0
+1814,Mt Roberts Tram Combo Obs,BKN,NO,-6.7,-3.0,-6.7,334.0,10.0,Other,2.4,21.6,2.0,0
+1815,Thane Road Combo Obs,BKN,NO,-2.6,1.9,-2.5,1.0,2.0,Other,0.3,11.9,2.0,0
+1816,Other,BKN,NO,-6.0,-4.1,-6.0,127.0,3.0,Other,2.1,7.6,2.0,0
+1817,Snettisham Combo Obs,BKN,NO,-2.8,1.1,-2.8,121.2,16.0,NNE,1.1,7.2,2.0,0
+1818,Mt Roberts Tram Combo Obs,X,SN,-7.5,-2.9,-3.4,341.2,10.0,NNW,0.1,14.4,4.0,0
+1819,Thane Road Combo Obs,X,SN,-3.8,0.9,-0.4,9.0,10.0,N,0.0,11.4,4.0,0
+1820,Other,X,SN,-6.0,-3.8,-4.2,141.0,18.0,N,1.7,6.1,2.0,0
+1821,Snettisham Combo Obs,X,SN,-3.6,-0.1,-2.1,137.5,20.0,N,5.0,6.0,4.0,0
+1822,Mt Roberts Tram Combo Obs,OVC,NO,-3.4,-0.4,-2.2,344.6,13.0,ESE,3.8,10.8,2.0,0
+1823,Thane Road Combo Obs,OVC,NO,-0.7,2.5,0.2,5.0,3.0,Other,2.5,7.5,2.0,0
+1824,Other,X,SN,-4.3,-0.4,-1.5,150.0,19.0,Other,3.5,6.3,2.0,0
+1825,Snettisham Combo Obs,X,SN,-2.1,1.4,0.3,148.5,15.0,N,0.0,5.8,2.0,0
+1826,Mt Roberts Tram Combo Obs,X,SN,-2.3,0.6,-2.3,362.3,16.0,SE,0.0,15.9,4.0,0
+1827,Thane Road Combo Obs,X,SN,0.0,2.5,0.2,4.0,1.0,N,0.8,6.4,4.0,0
+1828,Other,X,SN,-1.7,-0.1,-1.4,154.0,24.0,N,0.0,8.0,4.0,0
+1829,Snettisham Combo Obs,X,RS,0.1,2.7,0.3,139.7,15.0,Other,0.0,2.4,2.0,0
+1830,Mt Roberts Tram Combo Obs,OVC,NO,-4.3,0.2,-3.7,353.1,4.0,NNE,0.7,10.3,2.0,0
+1831,Thane Road Combo Obs,OVC,NO,-1.4,3.1,-1.4,4.0,1.0,N,0.0,7.2,2.0,0
+1832,Other,OVC,NO,-3.7,-0.8,-3.7,153.0,1.0,Other,0.7,5.2,2.0,0
+1833,Snettisham Combo Obs,OVC,NO,-1.8,5.9,-1.7,135.4,0.0,Other,1.0,8.4,2.0,0
+1834,Mt Roberts Tram Combo Obs,X,SN,-3.7,-0.8,-0.8,349.4,8.0,SE,7.9,12.9,2.0,0
+1835,Thane Road Combo Obs,OVC,RS,-0.5,3.3,3.3,2.0,2.0,Other,2.2,8.6,2.0,0
+1836,Other,X,SN,-3.7,-1.0,-1.3,148.0,3.0,Other,3.7,7.1,2.0,0
+1837,Snettisham Combo Obs,OVC,RS,-1.9,1.5,0.3,137.3,10.0,Other,1.1,7.6,2.0,0
+1838,Mt Roberts Tram Combo Obs,CLR,SN,-1.1,0.9,-1.1,359.6,13.0,ESE,9.3,12.9,2.0,0
+1839,Thane Road Combo Obs,CLR,SN,1.8,4.1,2.2,0.0,0.0,SE,6.9,9.2,2.0,0
+1840,Snettisham Combo Obs,X,SN,0.1,3.5,0.1,131.1,12.0,Other,0.0,9.7,2.0,0
+1841,Mt Roberts Tram Combo Obs,BKN,NO,-3.7,0.5,-3.5,362.0,22.0,NNE,4.1,12.9,4.0,0
+1842,Thane Road Combo Obs,BKN,NO,0.0,3.9,0.2,0.0,1.0,N,1.4,9.2,4.0,0
+1843,Snettisham Combo Obs,BKN,NO,-0.4,2.7,-0.4,148.9,29.0,Other,0.5,7.1,2.0,0
+1844,Mt Roberts Tram Combo Obs,OVC,NO,-7.6,-2.2,-6.1,363.4,0.0,ESE,7.3,9.8,4.0,0
+1845,Thane Road Combo Obs,OVC,NO,-3.9,3.0,-1.7,0.0,0.0,Other,1.7,6.9,4.0,0
+1846,Other,OVC,NO,-6.8,-3.3,-6.4,148.0,0.0,Other,0.4,5.1,4.0,0
+1847,Snettisham Combo Obs,OVC,NO,-7.1,3.9,-5.9,148.1,0.0,NNE,1.8,12.5,2.0,0
+1848,Mt Roberts Tram Combo Obs,X,SN,-6.1,-0.4,-0.4,370.0,15.0,ESE,8.5,12.9,2.0,0
+1849,Thane Road Combo Obs,X,RA,-1.7,3.3,3.3,1.0,9.0,ESE,2.8,10.0,2.0,0
+1850,Other,X,SN,-6.9,-0.6,-1.2,160.0,17.0,Other,3.4,6.6,2.0,0
+1851,Snettisham Combo Obs,X,SN,-6.3,-0.6,-0.6,167.4,27.0,Other,0.0,3.7,2.0,0
+1852,Mt Roberts Tram Combo Obs,X,SN,-1.0,0.4,-0.8,375.7,18.0,SE,16.3,21.1,4.0,0
+1853,Thane Road Combo Obs,OVC,RA,2.8,4.1,3.0,0.0,0.0,SE,10.0,14.2,4.0,0
+1854,Snettisham Combo Obs,OVC,RA,-0.6,4.0,2.8,158.5,4.4,Other,7.7,14.4,4.0,0
+1855,Mt Roberts Tram Combo Obs,X,SN,-3.6,0.2,-3.6,388.7,19.0,SE,4.2,22.1,4.0,0
+1856,Thane Road Combo Obs,OVC,SN,1.0,3.1,1.0,0.0,0.0,ESE,1.7,16.1,4.0,0
+1857,Snettisham Combo Obs,X,SN,0.2,3.5,0.2,149.4,7.0,ESE,1.7,13.1,4.0,0
+1858,Mt Roberts Tram Combo Obs,OVC,NO,-3.7,1.0,-2.8,389.4,9.0,NNE,6.9,17.0,2.0,0
+1859,Thane Road Combo Obs,OVC,NO,-0.4,2.7,0.0,0.0,1.0,NNE,0.3,9.2,2.0,0
+1860,Snettisham Combo Obs,OVC,NO,-0.9,5.8,-0.9,148.0,10.0,N,4.1,8.6,2.0,0
+1861,Mt Roberts Tram Combo Obs,BKN,NO,-3.5,-1.0,-3.0,385.3,1.0,ESE,4.5,15.9,2.0,0
+1862,Thane Road Combo Obs,BKN,NO,-0.9,4.6,0.4,0.0,1.0,ESE,0.6,3.1,2.0,0
+1863,Snettisham Combo Obs,X,SN,-2.8,2.1,-2.5,150.8,5.0,NNE,1.9,6.5,2.0,0
+1864,Mt Roberts Tram Combo Obs,X,SN,-3.0,1.6,-1.8,377.1,1.0,SE,4.5,6.7,2.0,0
+1865,Thane Road Combo Obs,OVC,RA,0.2,3.6,1.5,0.0,0.0,ESE,1.4,6.4,2.0,0
+1866,Snettisham Combo Obs,X,RS,-2.6,6.0,0.4,151.0,1.0,NNW,0.8,7.2,2.0,0
+1867,Mt Roberts Tram Combo Obs,OVC,SN,-1.8,0.2,-0.3,378.5,10.0,SE,10.4,14.9,2.0,0
+1868,Thane Road Combo Obs,OVC,RA,1.6,4.2,3.1,0.0,0.0,ESE,2.8,8.9,2.0,0
+1869,Snettisham Combo Obs,OVC,RA,0.4,3.9,3.3,144.9,2.0,Other,4.6,13.3,2.0,0
+1870,Mt Roberts Tram Combo Obs,X,GR,-2.0,1.3,-2.0,378.8,9.2,ESE,5.5,13.9,2.0,0
+1871,Thane Road Combo Obs,X,GR,1.0,4.5,1.0,0.0,0.0,N,0.0,8.9,2.0,0
+1872,Snettisham Combo Obs,X,SN,0.8,4.0,0.8,141.5,3.0,Other,1.2,10.8,2.0,0
+1873,Mt Roberts Tram Combo Obs,X,SN,-4.5,-0.2,-4.5,386.6,12.0,Other,2.4,9.8,2.0,0
+1874,Thane Road Combo Obs,X,SN,-0.6,2.9,-0.5,0.0,1.0,Other,2.5,10.0,2.0,0
+1875,Other,OVC,NO,-3.7,-1.4,-3.7,151.0,1.0,N,0.0,0.0,4.0,0
+1876,Snettisham Combo Obs,OVC,NO,-0.6,3.3,-0.6,139.4,2.0,Other,1.3,5.1,2.0,0
+1877,Mt Roberts Tram Combo Obs,X,SN,-8.2,-3.8,-6.1,381.1,0.0,ESE,7.7,9.8,2.0,0
+1878,Thane Road Combo Obs,X,SN,-3.9,2.9,-1.2,0.0,0.0,SE,4.2,7.2,2.0,0
+1879,Other,X,SN,-6.3,-3.5,-6.0,155.0,0.0,Other,1.7,4.7,2.0,0
+1880,Snettisham Combo Obs,X,SN,-4.7,3.3,-4.1,137.2,0.0,NNE,2.6,9.2,2.0,0
+1881,Mt Roberts Tram Combo Obs,X,SN,-6.1,-1.4,-1.6,397.2,20.0,ESE,7.7,30.4,4.0,0
+1882,Thane Road Combo Obs,OVC,RS,-1.3,2.8,2.6,0.0,2.0,ESE,3.6,18.0,4.0,0
+1883,Snettisham Combo Obs,X,RS,-4.3,2.5,2.2,146.5,12.0,Other,2.8,12.4,4.0,0
+1884,Mt Roberts Tram Combo Obs,OVC,SN,-5.8,-0.9,-5.7,400.3,12.0,Other,0.3,10.3,2.0,0
+1885,Thane Road Combo Obs,OVC,SN,-2.1,2.6,-2.1,0.0,4.0,Other,0.8,8.1,2.0,0
+1886,Other,X,SN,-4.6,-0.7,-4.6,152.0,5.0,SE,0.4,7.2,2.0,0
+1887,Snettisham Combo Obs,X,SN,-0.7,5.5,-0.4,134.6,1.0,NNE,3.4,9.1,2.0,0
+1888,Mt Roberts Tram Combo Obs,OVC,SN,-6.6,-2.0,-2.1,391.1,0.0,ESE,7.5,10.3,2.0,0
+1889,Thane Road Combo Obs,OVC,SN,-3.8,2.1,2.1,0.0,0.0,SE,1.4,5.3,2.0,0
+1890,Other,X,SN,-5.9,-1.2,-2.6,151.0,0.0,Other,0.4,3.0,2.0,0
+1891,Snettisham Combo Obs,X,SN,-2.9,2.8,0.0,134.6,0.0,Other,1.5,4.5,2.0,0
+1892,Mt Roberts Tram Combo Obs,X,SN,-2.2,-0.5,-1.0,415.0,30.0,ESE,6.8,15.4,2.0,0
+1893,Thane Road Combo Obs,X,RS,0.0,2.5,1.5,0.0,0.0,Other,3.1,10.8,2.0,0
+1894,Other,X,SN,-2.6,-0.5,-1.5,156.0,10.0,N,0.0,6.3,2.0,0
+1895,Snettisham Combo Obs,X,SN,-0.2,3.7,0.2,138.1,6.0,N,0.0,4.9,2.0,0
+1896,Mt Roberts Tram Combo Obs,OVC,RA,-1.0,1.1,0.9,414.0,8.5,ESE,8.1,19.0,4.0,0
+1897,Thane Road Combo Obs,OVC,RA,0.7,5.3,3.1,0.0,0.0,N,0.0,10.8,4.0,0
+1898,Other,OVC,RA,-1.5,2.1,1.3,159.0,14.0,Other,0.5,7.0,4.0,0
+1899,Snettisham Combo Obs,OVC,RA,0.2,3.3,0.9,139.0,10.0,Other,0.9,1.7,4.0,0
+1900,Mt Roberts Tram Combo Obs,OVC,NO,0.9,3.6,3.3,394.9,0.0,Other,1.4,11.8,2.0,0
+1901,Thane Road Combo Obs,X,NO,2.6,6.7,2.6,0.0,0.0,NNW,0.8,4.7,2.0,0
+1902,Other,OVC,NO,1.3,5.3,4.7,149.0,0.0,NNW,0.7,5.3,2.0,0
+1903,Snettisham Combo Obs,OVC,NO,0.9,8.2,1.6,135.7,0.0,ESE,0.3,3.2,2.0,0
+1904,Mt Roberts Tram Combo Obs,FEW,NO,3.3,8.3,7.8,382.3,0.0,N,1.1,5.7,2.0,0
+1905,Thane Road Combo Obs,FEW,NO,1.8,10.2,1.9,0.0,0.0,Other,0.3,3.3,2.0,0
+1906,Other,FEW,NO,4.7,9.5,8.2,145.0,0.0,Other,0.6,3.5,2.0,0
+1907,Snettisham Combo Obs,FEW,NO,0.2,11.8,0.2,133.4,0.0,NNW,1.7,7.1,2.0,0
+1908,Mt Roberts Tram Combo Obs,CLR,NO,7.4,12.1,8.5,369.7,0.0,Other,1.2,4.6,4.0,0
+1909,Thane Road Combo Obs,CLR,NO,1.9,13.1,1.9,0.0,0.0,Other,1.4,3.9,1.0,0
+1910,Other,FEW,NO,8.2,12.2,9.2,139.0,0.0,N,1.8,4.3,2.0,0
+1911,Snettisham Combo Obs,FEW,NO,0.2,13.9,0.6,126.8,0.0,N,0.2,6.7,4.0,0
+1912,Mt Roberts Tram Combo Obs,CLR,NO,8.9,12.6,9.7,337.3,0.0,Other,2.9,22.1,2.0,0
+1913,Thane Road Combo Obs,CLR,NO,2.8,18.6,2.8,0.0,0.0,N,0.0,15.8,1.0,0
+1914,Other,CLR,NO,9.3,11.9,9.8,104.0,0.0,N,2.2,9.9,2.0,0
+1915,Snettisham Combo Obs,CLR,NO,5.0,7.5,7.5,114.9,0.0,NNE,6.0,10.5,2.0,0
+1916,Mt Roberts Tram Combo Obs,OVC,NO,6.9,12.6,6.9,329.7,0.0,Other,3.2,6.7,2.0,0
+1917,Thane Road Combo Obs,OVC,NO,0.0,14.6,4.4,0.0,0.0,ESE,0.6,4.2,2.0,0
+1918,Other,OVC,NO,6.6,11.2,6.6,99.0,0.0,Other,0.3,4.8,2.0,0
+1919,Snettisham Combo Obs,OVC,NO,0.0,14.6,0.6,96.6,0.0,N,1.3,6.9,2.0,0
+1920,Mt Roberts Tram Combo Obs,X,RA,1.5,7.9,1.5,322.5,0.0,Other,3.9,9.3,2.0,0
+1921,Thane Road Combo Obs,BKN,RA,4.3,14.0,4.3,0.0,0.0,NNW,0.8,7.2,1.0,0
+1922,Other,BKN,RA,1.3,8.6,1.6,90.0,0.0,Other,0.5,7.1,2.0,0
+1923,Snettisham Combo Obs,BKN,RA,0.5,14.3,1.8,96.2,0.0,ESE,1.7,4.9,1.0,0
+1924,Mt Roberts Tram Combo Obs,CLR,NO,1.4,5.9,3.4,316.0,0.0,NNE,4.0,11.8,2.0,0
+1925,Thane Road Combo Obs,CLR,NO,2.4,12.1,2.7,0.0,0.0,Other,1.4,6.7,1.0,0
+1926,Other,CLR,NO,1.6,5.7,2.2,86.0,0.0,N,3.5,7.8,2.0,0
+1927,Snettisham Combo Obs,CLR,NO,-0.9,12.2,-0.9,91.0,0.0,ESE,0.0,8.7,1.0,0
+1928,Mt Roberts Tram Combo Obs,CLR,NO,3.4,7.4,5.6,310.9,0.0,NNE,4.5,10.3,2.0,0
+1929,Thane Road Combo Obs,CLR,NO,1.4,14.0,3.8,0.0,0.0,Other,0.6,3.6,1.0,0
+1930,Other,CLR,NO,1.6,6.5,5.9,83.0,0.0,NNW,3.2,5.8,2.0,0
+1931,Snettisham Combo Obs,CLR,NO,-1.1,12.1,-1.0,83.5,0.0,ESE,2.5,7.3,1.0,0
+1932,Mt Roberts Tram Combo Obs,CLR,NO,5.5,9.0,6.6,308.6,0.0,NNE,8.0,15.9,2.0,0
+1933,Thane Road Combo Obs,CLR,NO,5.0,15.2,5.0,0.0,0.0,Other,1.4,5.6,1.0,0
+1934,Other,CLR,NO,5.7,8.1,5.9,79.0,0.0,NNE,4.5,7.5,2.0,0
+1935,Snettisham Combo Obs,CLR,NO,-1.3,14.9,1.7,81.1,0.0,Other,2.0,11.6,1.0,0
+1936,Mt Roberts Tram Combo Obs,CLR,NO,6.2,9.6,7.0,304.5,0.0,NNE,1.5,15.4,2.0,0
+1937,Thane Road Combo Obs,CLR,NO,4.6,15.1,4.6,0.0,0.0,N,0.0,5.3,1.0,0
+1938,Other,CLR,NO,5.7,8.3,6.5,75.0,0.0,NNW,2.3,7.8,2.0,0
+1939,Snettisham Combo Obs,CLR,NO,0.1,15.4,0.3,75.8,0.0,Other,3.2,10.3,1.0,0
+1940,Mt Roberts Tram Combo Obs,CLR,NO,4.8,12.0,4.8,302.0,0.0,Other,0.2,5.7,2.0,0
+1941,Thane Road Combo Obs,CLR,NO,0.0,11.5,2.1,0.0,0.0,N,0.0,1.9,1.0,0
+1942,Other,CLR,NO,5.2,9.5,5.2,70.0,0.0,Other,0.6,4.5,2.0,0
+1943,Snettisham Combo Obs,CLR,NO,-0.5,14.5,-0.5,73.0,0.0,Other,1.4,6.9,1.0,0
+1944,Mt Roberts Tram Combo Obs,OVC,NO,3.8,10.6,3.8,295.6,0.0,ESE,7.2,12.3,2.0,0
+1945,Thane Road Combo Obs,OVC,NO,1.9,13.1,7.7,0.0,0.0,SE,2.2,7.8,1.0,0
+1946,Other,OVC,NO,4.2,8.8,4.2,65.0,0.0,Other,2.4,5.1,2.0,0
+1947,Snettisham Combo Obs,OVC,NO,-0.8,14.3,1.3,64.2,0.0,NNE,1.9,5.9,1.0,0
+1948,Mt Roberts Tram Combo Obs,X,SN,-1.8,4.1,-1.8,293.1,3.0,ESE,1.7,20.6,2.0,0
+1949,Thane Road Combo Obs,X,RS,2.1,8.7,2.3,0.0,0.0,N,0.0,8.1,1.0,0
+1950,Other,X,SN,-2.7,4.4,-1.8,67.0,3.0,N,2.4,8.1,2.0,0
+1951,Snettisham Combo Obs,X,RS,0.9,6.6,4.8,67.4,1.0,N,2.6,4.3,0.0,0
+1952,Mt Roberts Tram Combo Obs,OVC,RA,-1.8,4.7,4.4,291.5,0.0,ESE,6.5,11.8,2.0,0
+1953,Thane Road Combo Obs,OVC,RA,0.0,6.7,4.3,0.0,0.0,ESE,0.3,2.2,1.0,0
+1954,Other,OVC,RA,-2.8,3.8,3.8,64.0,0.0,Other,0.4,6.0,2.0,0
+1955,Snettisham Combo Obs,OVC,RA,0.5,6.1,2.4,61.1,0.0,Other,0.0,7.0,0.0,0
+1956,Mt Roberts Tram Combo Obs,X,RA,2.0,4.5,2.1,286.3,0.0,SE,8.2,14.4,2.0,0
+1957,Thane Road Combo Obs,OVC,RA,5.5,6.7,6.7,0.0,0.0,N,0.0,2.8,1.0,0
+1958,Other,X,RA,1.7,4.5,1.7,57.0,0.0,Other,3.3,8.1,2.0,0
+1959,Snettisham Combo Obs,OVC,RA,2.2,6.6,5.1,53.1,0.0,Other,2.7,8.1,0.0,0
+1960,Mt Roberts Tram Combo Obs,OVC,RA,1.0,6.2,4.4,277.1,0.0,Other,3.1,7.7,1.0,0
+1961,Other,OVC,RA,2.1,6.6,4.0,48.0,0.0,N,1.9,4.5,2.0,0
+1962,Mt Roberts Tram Combo Obs,X,RA,1.7,4.4,2.0,274.0,0.0,ESE,11.4,14.4,1.0,0
+1963,Thane Road Combo Obs,CLR,RA,5.6,8.1,6.6,0.0,0.0,SE,3.3,8.1,1.0,0
+1964,Other,X,RS,1.2,4.0,1.6,44.0,0.0,Other,3.1,6.1,2.0,0
+1965,Mt Roberts Tram Combo Obs,BKN,NO,1.9,3.0,2.3,271.3,0.0,ESE,1.0,15.4,1.0,0
+1966,Thane Road Combo Obs,BKN,NO,4.0,7.5,4.0,0.0,0.0,N,0.0,6.1,1.0,0
+1967,Other,BKN,NO,1.4,3.6,3.6,41.0,0.0,Other,1.4,5.8,2.0,0
+1968,Mt Roberts Tram Combo Obs,OVC,RA,2.3,8.1,8.1,264.2,0.0,Other,3.4,8.7,1.0,0
+1969,Thane Road Combo Obs,OVC,RA,5.8,12.3,5.8,0.0,0.0,ESE,0.6,3.3,1.0,0
+1970,Other,OVC,RA,3.2,8.6,8.5,36.0,0.0,Other,2.3,4.1,2.0,0
+1971,Mt Roberts Tram Combo Obs,OVC,RA,3.2,11.7,3.2,255.6,0.0,ESE,12.2,18.0,1.0,0
+1972,Thane Road Combo Obs,OVC,RA,0.0,16.6,7.8,0.0,0.0,ESE,3.1,10.8,1.0,0
+1973,Other,X,RA,2.7,12.0,2.9,24.0,0.0,Other,3.1,7.8,2.0,0
+1974,Mt Roberts Tram Combo Obs,OVC,NO,2.1,5.5,2.2,241.6,0.0,ESE,1.7,7.7,1.0,0
+1975,Other,X,NO,1.9,3.7,2.2,19.0,1.0,Other,1.4,5.1,2.0,0
+1976,Mt Roberts Tram Combo Obs,X,RA,2.2,5.5,2.9,237.5,0.0,ESE,7.9,11.8,1.0,0
+1977,Thane Road Combo Obs,OVC,RA,5.2,9.7,7.3,0.0,0.0,SE,2.5,6.9,1.0,0
+1978,Other,X,RA,2.2,5.3,2.7,18.0,0.0,NNW,0.3,4.4,2.0,0
+1979,Mt Roberts Tram Combo Obs,BKN,NO,2.4,5.7,2.7,235.5,0.0,Other,3.5,10.3,1.0,0
+1980,Thane Road Combo Obs,BKN,NO,6.0,9.0,6.0,0.0,0.0,NNW,1.1,6.1,1.0,0
+1981,Other,X,RA,2.7,5.2,3.1,21.0,0.0,Other,2.0,3.7,2.0,0
+1982,Snettisham Combo Obs,OVC,RA,2.9,10.0,3.0,0.0,0.0,Other,1.4,3.6,0.0,0
+1983,Thane Road Combo Obs,BKN,NO,0.0,6.8,3.0,0.0,0.0,ESE,0.3,7.8,1.0,0
+1984,Other,SCT,NO,0.4,4.0,1.1,20.0,2.0,Other,0.6,3.5,2.0,0
+1985,Snettisham Combo Obs,SCT,NO,1.0,9.6,1.0,0.0,0.0,Other,1.0,6.1,0.0,0
+1986,Mt Roberts Tram Combo Obs,CLR,NO,-0.2,2.7,1.8,0.0,0.0,NNW,1.8,6.7,0.0,0
+1987,Thane Road Combo Obs,CLR,NO,1.0,8.7,2.1,0.0,0.0,Other,1.9,3.6,0.0,0
+1988,Other,CLR,NO,-0.3,3.2,1.2,34.0,0.0,NNW,1.7,4.3,0.0,0
+1989,Snettisham Combo Obs,CLR,NO,-0.6,8.1,-0.4,0.0,0.0,SE,1.8,5.7,0.0,0
+1990,Mt Roberts Tram Combo Obs,X,RS,-0.1,4.2,0.9,0.0,0.0,ESE,10.5,17.0,0.0,0
+1991,Thane Road Combo Obs,OVC,RA,-0.3,7.3,5.5,0.0,0.0,ESE,4.2,8.9,0.0,0
+1992,Other,X,RS,0.1,3.7,0.7,27.0,0.0,Other,2.8,5.9,0.0,0
+1993,Snettisham Combo Obs,OVC,RA,-1.6,6.7,3.4,0.0,0.0,ESE,3.7,4.7,0.0,0
+1994,Mt Roberts Tram Combo Obs,X,RA,0.5,2.7,2.7,0.0,0.0,ESE,5.9,14.9,0.0,0
+1995,Thane Road Combo Obs,OVC,RA,4.3,5.4,5.4,0.0,0.0,SE,1.4,9.7,0.0,0
+1996,Other,X,RS,-0.4,2.2,2.2,31.0,0.0,Other,1.0,4.6,0.0,0
+1997,Snettisham Combo Obs,X,RA,2.3,3.5,2.9,0.0,0.0,ESE,0.6,4.7,0.0,0
+1998,Mt Roberts Tram Combo Obs,X,RA,1.9,3.7,2.8,0.0,0.0,ESE,7.5,10.8,0.0,0
+1999,Thane Road Combo Obs,OVC,RA,4.1,7.5,6.4,0.0,0.0,ESE,3.1,5.3,0.0,0
+2000,Other,X,RS,0.9,3.1,2.1,17.0,0.0,Other,1.5,4.1,0.0,0
+2001,Snettisham Combo Obs,OVC,RA,3.6,7.2,5.0,0.0,0.0,Other,1.2,2.9,0.0,0
+2002,Mt Roberts Tram Combo Obs,X,RA,2.0,3.3,2.5,0.0,0.0,SE,5.7,14.9,0.0,0
+2003,Thane Road Combo Obs,OVC,RA,6.1,7.6,6.1,0.0,0.0,SE,1.4,7.8,0.0,0
+2004,Other,X,RS,0.9,2.8,0.9,24.0,3.0,Other,2.0,8.9,0.0,0
+2005,Mt Roberts Tram Combo Obs,X,RS,1.9,3.6,2.7,0.0,0.0,SE,8.8,22.1,0.0,0
+2006,Thane Road Combo Obs,OVC,RA,5.6,7.5,7.2,0.0,0.0,ESE,1.9,14.4,0.0,0
+2007,Other,X,RS,1.8,3.0,2.7,27.0,5.0,NNW,1.5,8.2,0.0,0
+2008,Snettisham Combo Obs,OVC,RA,2.9,7.7,7.5,0.0,0.0,Other,5.1,11.5,0.0,0
+2009,Mt Roberts Tram Combo Obs,FEW,NO,0.7,4.8,0.7,0.0,0.0,Other,0.5,6.7,0.0,0
+2010,Thane Road Combo Obs,FEW,NO,0.0,9.1,0.0,0.0,0.0,N,0.0,6.4,0.0,0
+2011,Other,FEW,NO,0.8,5.0,0.8,31.0,0.0,Other,0.4,4.3,0.0,0
+2012,Snettisham Combo Obs,X,NO,-1.0,10.5,-0.9,0.0,0.0,Other,0.0,4.2,0.0,0
+2013,Mt Roberts Tram Combo Obs,FEW,NO,0.0,2.5,0.0,0.0,0.0,ESE,2.0,11.3,0.0,0
+2014,Thane Road Combo Obs,FEW,NO,2.9,5.9,2.9,0.0,0.0,N,0.0,6.9,0.0,0
+2015,Other,FEW,NO,-0.6,0.9,0.6,40.0,25.0,Other,0.8,5.2,0.0,0
+2016,Snettisham Combo Obs,FEW,NO,0.2,2.8,1.3,0.0,1.0,SE,0.0,3.3,0.0,0
+2017,Mt Roberts Tram Combo Obs,X,SN,0.2,3.6,0.2,1.0,1.0,ESE,7.5,29.3,0.0,0
+2018,Thane Road Combo Obs,OVC,RA,3.7,8.2,3.7,0.0,0.0,N,0.0,12.8,0.0,0
+2019,Other,X,SN,-0.6,3.4,-0.6,20.0,3.0,Other,2.0,12.5,0.0,0
+2020,Snettisham Combo Obs,OVC,RS,2.0,9.3,2.0,0.0,0.0,Other,0.8,19.5,0.0,0
+2021,Mt Roberts Tram Combo Obs,X,RA,2.5,4.8,3.1,0.0,0.0,SE,14.5,35.5,0.0,0
+2022,Thane Road Combo Obs,OVC,RA,7.3,9.5,8.1,0.0,0.0,ESE,9.4,21.9,0.0,0
+2023,Other,X,RA,2.6,5.6,3.4,17.0,0.0,NNW,2.9,14.7,0.0,0
+2024,Snettisham Combo Obs,OVC,RA,5.1,9.1,9.0,0.0,0.0,Other,6.7,26.0,0.0,0
+2025,Mt Roberts Tram Combo Obs,X,RA,3.3,5.6,3.4,0.0,0.0,ESE,18.1,25.2,0.0,0
+2026,Thane Road Combo Obs,X,RA,6.0,9.2,7.5,0.0,0.0,ESE,5.6,15.8,0.0,0
+2027,Other,X,RA,2.7,5.7,3.0,20.0,0.0,Other,4.2,9.3,0.0,0
+2028,Snettisham Combo Obs,X,RA,4.7,9.5,7.9,0.0,0.0,Other,4.4,13.4,0.0,0
+2029,Mt Roberts Tram Combo Obs,X,RS,1.2,2.8,2.2,0.0,0.0,SE,11.7,22.1,0.0,0
+2030,Thane Road Combo Obs,OVC,RA,4.5,7.2,5.9,0.0,0.0,ESE,2.8,12.5,0.0,0
+2031,Other,X,RS,-0.2,2.5,1.2,21.0,7.0,Other,2.1,5.7,0.0,0
+2032,Snettisham Combo Obs,OVC,RA,2.1,6.1,2.1,0.0,0.0,NNE,1.1,5.4,0.0,0
+2033,Mt Roberts Tram Combo Obs,X,RA,2.0,3.0,2.1,0.0,0.0,ESE,13.8,27.3,0.0,0
+2034,Thane Road Combo Obs,OVC,RA,6.1,7.5,6.8,0.0,0.0,SE,6.4,16.4,0.0,0
+2035,Other,X,RS,1.2,2.7,1.7,20.0,8.0,Other,4.0,9.3,0.0,0
+2036,Snettisham Combo Obs,X,RA,1.9,7.7,6.8,0.0,0.0,Other,3.5,12.8,0.0,0
+2037,Mt Roberts Tram Combo Obs,X,RA,0.8,3.5,0.9,0.0,0.0,ESE,6.2,19.0,0.0,0
+2038,Thane Road Combo Obs,OVC,RA,4.8,7.8,5.4,0.0,0.0,ESE,1.4,11.7,0.0,0
+2039,Other,X,SN,-0.4,2.7,0.3,22.0,18.0,Other,2.6,7.1,0.0,0
+2040,Snettisham Combo Obs,OVC,RA,1.2,7.7,2.0,8.6,0.0,Other,0.0,11.4,0.0,0
+2041,Mt Roberts Tram Combo Obs,X,NO,1.8,4.1,3.5,0.0,0.0,ESE,10.7,22.1,0.0,0
+2042,Thane Road Combo Obs,OVC,NO,6.4,8.2,7.8,0.0,0.0,ESE,3.3,15.0,0.0,0
+2043,Other,X,RA,0.2,3.2,2.7,15.0,5.0,N,2.0,8.0,0.0,0
+2044,Snettisham Combo Obs,OVC,RA,0.6,8.0,7.3,0.0,0.0,Other,3.6,9.9,0.0,0
+2045,Mt Roberts Tram Combo Obs,CLR,NO,-0.1,1.9,0.5,0.0,0.0,N,2.3,12.9,0.0,0
+2046,Thane Road Combo Obs,X,NO,1.3,6.1,1.4,0.0,0.0,NNW,1.1,7.8,0.0,0
+2047,Other,CLR,NO,-0.4,0.7,-0.4,24.0,5.0,NNW,1.9,7.1,0.0,0
+2048,Snettisham Combo Obs,X,NO,1.0,3.1,1.0,10.6,0.0,Other,0.7,4.2,0.0,0
+2049,Mt Roberts Tram Combo Obs,OVC,NO,2.0,5.9,4.5,0.0,0.0,ESE,5.4,13.9,0.0,0
+2050,Thane Road Combo Obs,OVC,NO,0.8,7.8,6.4,0.0,0.0,ESE,2.2,3.3,0.0,0
+2051,Other,OVC,NO,0.4,5.0,3.4,24.0,0.0,Other,0.3,5.0,0.0,0
+2052,Snettisham Combo Obs,OVC,NO,-0.6,5.0,2.5,0.0,0.0,NNE,2.3,7.6,0.0,0
+2053,Mt Roberts Tram Combo Obs,OVC,NO,3.8,6.5,6.3,0.0,0.0,Other,8.7,13.9,0.0,0
+2054,Thane Road Combo Obs,OVC,NO,0.0,9.6,5.9,0.0,0.0,Other,1.4,3.9,0.0,0
+2055,Other,OVC,NO,3.4,6.8,6.5,26.0,0.0,NNW,1.3,5.2,0.0,0
+2056,Snettisham Combo Obs,OVC,NO,1.8,7.5,4.5,0.0,0.0,ESE,3.0,8.7,0.0,0
+2057,Mt Roberts Tram Combo Obs,SCT,NO,-1.5,3.0,2.0,0.0,0.0,Other,1.3,7.2,0.0,0
+2058,Thane Road Combo Obs,SCT,NO,-1.1,5.8,1.3,0.0,0.0,NNW,1.4,5.6,0.0,0
+2059,Other,BKN,NO,-1.9,2.2,0.4,27.0,0.0,Other,0.6,3.6,0.0,0
+2060,Snettisham Combo Obs,BKN,NO,-1.9,4.6,0.3,0.0,0.0,Other,0.0,3.8,0.0,0
+2061,Mt Roberts Tram Combo Obs,FEW,NO,4.5,7.2,4.5,0.0,0.0,Other,2.9,16.5,0.0,0
+2062,Thane Road Combo Obs,X,NO,6.1,10.3,6.1,0.0,0.0,ESE,0.3,6.7,0.0,0
+2063,Other,FEW,NO,4.1,7.2,4.1,18.0,0.0,Other,0.6,5.8,0.0,0
+2064,Snettisham Combo Obs,X,NO,4.0,6.5,4.7,0.0,0.0,NNW,0.0,5.2,0.0,0
+2065,Mt Roberts Tram Combo Obs,FEW,NO,-0.6,3.0,-0.6,0.0,0.0,ESE,0.0,7.2,0.0,0
+2066,Thane Road Combo Obs,X,NO,-1.0,7.5,-1.0,0.0,0.0,N,0.3,3.9,0.0,0
+2067,Other,FEW,NO,-1.3,2.4,-1.3,26.0,0.0,NNW,0.6,4.6,0.0,0
+2068,Snettisham Combo Obs,X,NO,-1.1,6.4,-1.1,0.0,0.0,ESE,1.9,7.3,0.0,0
+2069,Mt Roberts Tram Combo Obs,X,NO,4.5,8.6,8.6,0.0,0.0,Other,10.4,15.4,0.0,0
+2070,Thane Road Combo Obs,OVC,NO,4.7,10.5,6.2,0.0,0.0,SE,0.6,8.1,0.0,0
+2071,Other,X,NO,4.1,7.5,7.5,20.0,0.0,NNW,2.7,6.2,0.0,0
+2072,Snettisham Combo Obs,OVC,NO,3.2,7.4,5.4,0.0,0.0,NNE,4.1,9.4,0.0,0
+2073,Mt Roberts Tram Combo Obs,FEW,NO,2.2,5.7,3.9,0.0,0.0,Other,6.0,15.9,0.0,0
+2074,Thane Road Combo Obs,FEW,NO,2.9,10.9,5.5,0.0,0.0,Other,1.7,11.7,0.0,0
+2075,Other,FEW,NO,1.5,5.6,2.4,18.0,0.0,NNW,1.8,8.4,0.0,0
+2076,Snettisham Combo Obs,FEW,NO,1.4,7.8,1.4,0.0,0.0,NNE,4.4,9.8,0.0,0
+2077,Mt Roberts Tram Combo Obs,CLR,NO,2.2,4.6,2.6,0.0,0.0,Other,1.8,12.9,0.0,0
+2078,Thane Road Combo Obs,CLR,NO,4.0,8.4,4.0,0.0,0.0,N,0.0,9.2,0.0,0
+2079,Other,CLR,NO,1.2,5.7,2.3,21.0,4.0,NNW,1.5,6.0,0.0,0
+2080,Snettisham Combo Obs,CLR,NO,2.8,6.6,2.8,0.0,0.0,Other,1.1,6.7,0.0,0
+2081,Mt Roberts Tram Combo Obs,X,RA,3.5,8.6,4.1,0.0,0.0,Other,8.8,28.3,0.0,0
+2082,Thane Road Combo Obs,OVC,RA,6.2,11.2,8.9,0.0,0.0,ESE,1.1,17.5,0.0,0
+2083,Other,X,RA,3.3,9.0,4.1,20.0,0.0,Other,2.1,9.5,0.0,0
+2084,Snettisham Combo Obs,OVC,RA,5.0,9.3,5.0,0.0,0.0,ESE,1.2,14.4,0.0,0
+2085,Other,X,SN,0.2,3.6,0.8,18.0,4.0,Other,1.1,5.7,0.0,0
+2086,Mt Roberts Tram Combo Obs,X,RS,1.4,5.5,3.7,0.0,0.0,ESE,0.9,10.8,0.0,0
+2087,Other,X,RS,0.8,5.3,2.8,19.0,0.0,Other,0.3,4.4,0.0,0
+2088,Snettisham Combo Obs,X,RA,2.1,5.4,3.0,0.0,0.0,ESE,1.4,8.7,0.0,0
+2089,Mt Roberts Tram Combo Obs,X,NO,0.0,3.7,0.0,568.3,8.0,SE,6.8,20.6,0.0,0
+2090,Other,X,SN,-1.0,2.8,-0.8,30.0,10.0,N,0.0,8.9,0.0,0
+2091,Snettisham Combo Obs,X,RS,1.6,6.0,1.6,4.8,0.0,Other,0.5,13.7,0.0,0
+2092,Mt Roberts Tram Combo Obs,OVC,SN,-2.8,-0.3,-2.7,0.0,0.0,NNE,11.7,27.3,0.0,0
+2093,Other,OVC,SN,-2.8,0.1,-2.7,15.0,0.0,N,4.4,10.0,0.0,0
+2094,Snettisham Combo Obs,OVC,SN,-1.7,5.3,0.9,8.9,0.0,NNE,3.1,11.9,0.0,0
+2095,Mt Roberts Tram Combo Obs,CLR,NO,-2.2,0.2,-1.2,0.0,0.0,NNE,1.6,9.8,0.0,0
+2096,Other,CLR,NO,-2.7,-0.4,-2.4,25.0,0.0,N,1.8,4.8,0.0,0
+2097,Snettisham Combo Obs,CLR,NO,-1.7,1.2,-1.7,0.0,0.0,Other,1.9,7.5,0.0,0
+2098,Mt Roberts Tram Combo Obs,X,NO,-3.2,-1.1,-2.7,3.0,3.0,NNE,0.9,18.5,0.0,0
+2099,Other,X,NO,-3.4,-1.1,-2.4,25.0,5.0,Other,1.9,9.2,0.0,0
+2100,Snettisham Combo Obs,OVC,NO,0.0,2.1,0.1,8.2,5.0,ESE,0.0,9.4,0.0,0
+2101,Mt Roberts Tram Combo Obs,X,SN,-1.3,1.4,1.4,-0.2,1.0,Other,5.0,21.6,0.0,0
+2102,Thane Road Combo Obs,OVC,RA,1.1,5.4,4.3,0.0,0.0,N,1.1,13.3,0.0,0
+2103,Other,X,SN,-1.4,1.5,1.4,31.0,15.0,NNW,1.4,7.0,0.0,0
+2104,Snettisham Combo Obs,OVC,RS,-1.1,2.1,1.5,2.7,1.0,Other,2.3,9.8,0.0,0
+2105,Mt Roberts Tram Combo Obs,FEW,NO,-1.0,-0.2,-0.9,4.0,4.0,Other,5.2,21.1,0.0,0
+2106,Thane Road Combo Obs,FEW,NO,0.8,4.1,0.8,0.0,0.0,Other,0.3,8.9,0.0,0
+2107,Other,FEW,NO,-2.1,-0.9,-2.1,40.0,12.0,NNW,1.2,6.8,0.0,0
+2108,Snettisham Combo Obs,FEW,NO,0.1,1.2,0.5,7.2,6.0,NNE,7.8,8.2,0.0,0
+2109,Mt Roberts Tram Combo Obs,OVC,SN,-2.6,-0.2,-2.6,3.2,1.0,Other,6.1,15.4,0.0,0
+2110,Thane Road Combo Obs,OVC,SN,0.0,4.6,0.7,0.0,0.0,N,0.0,8.9,0.0,0
+2111,Snettisham Combo Obs,OVC,SN,-0.7,0.9,-0.3,8.4,2.0,N,3.7,8.2,0.0,0
+2112,Mt Roberts Tram Combo Obs,X,SN,-2.6,0.1,0.1,22.4,20.0,ESE,10.7,25.2,0.0,0
+2113,Thane Road Combo Obs,CLR,RA,0.9,5.0,4.2,0.0,1.0,SE,4.2,14.4,0.0,0
+2114,Other,X,SN,-3.9,0.3,0.0,45.0,38.0,Other,2.1,9.3,0.0,0
+2115,Snettisham Combo Obs,OVC,RA,-2.1,4.7,4.2,8.2,14.0,Other,4.5,11.6,0.0,0
+2116,Mt Roberts Tram Combo Obs,X,SN,-2.6,0.3,-2.2,22.0,6.5,SE,0.0,21.6,0.0,0
+2117,Thane Road Combo Obs,OVC,SN,1.2,5.3,2.5,0.0,0.1,SE,3.9,13.0,0.0,0
+2118,Other,X,SN,-3.1,0.0,-2.7,52.0,14.0,N,0.0,7.6,0.0,0
+2119,Snettisham Combo Obs,OVC,SN,0.9,4.6,1.5,6.8,3.0,Other,3.1,11.6,0.0,0
+2120,Mt Roberts Tram Combo Obs,X,SN,-10.9,0.0,-0.3,41.0,13.5,SE,8.2,15.9,0.0,0
+2121,Thane Road Combo Obs,X,SN,-7.2,2.0,2.0,13.0,13.0,SE,3.1,6.7,0.0,0
+2122,Other,X,SN,-11.9,0.1,0.0,54.0,10.0,Other,3.1,9.1,0.0,0
+2123,Mt Roberts Tram Combo Obs,X,SN,-0.3,1.4,0.0,40.0,1.0,Other,1.1,22.6,1.0,0
+2124,Thane Road Combo Obs,X,SN,1.2,5.7,1.2,1.0,1.0,Other,1.7,11.4,1.0,0
+2125,Other,X,SN,0.0,2.4,0.1,41.0,2.0,N,1.0,13.1,1.0,0
+2126,Mt Roberts Tram Combo Obs,X,SN,-2.3,0.0,-2.1,43.0,6.0,ESE,4.0,8.2,1.0,0
+2127,Thane Road Combo Obs,X,RS,0.8,2.6,2.4,1.0,1.0,ESE,1.9,6.7,1.0,0
+2128,Other,X,SN,-2.8,0.1,-2.8,44.0,9.0,N,0.0,2.7,1.0,0
+2129,Snettisham Combo Obs,X,SN,0.1,3.4,0.2,9.8,6.0,NNE,1.1,9.2,1.0,0
+2130,Mt Roberts Tram Combo Obs,X,SN,-3.0,-1.1,-1.1,44.0,12.2,SE,7.2,12.3,1.0,0
+2131,Thane Road Combo Obs,X,RS,0.6,2.3,0.8,0.0,1.0,SE,0.6,7.5,1.0,0
+2132,Other,X,SN,-3.4,-2.8,-3.1,60.0,30.0,N,0.0,0.0,1.0,0
+2133,Snettisham Combo Obs,X,SN,-1.0,0.4,-0.6,31.1,26.5,NNE,0.0,6.8,1.0,0
+2134,Mt Roberts Tram Combo Obs,X,RS,-1.1,1.6,1.6,54.5,9.0,ESE,3.7,22.6,1.0,0
+2135,Thane Road Combo Obs,X,RA,1.9,3.8,2.0,0.0,0.0,Other,0.8,13.3,1.0,0
+2136,Other,X,SN,-3.1,0.1,0.0,78.0,25.0,Other,2.6,5.7,1.0,0
+2137,Snettisham Combo Obs,X,RS,-0.6,0.4,0.3,45.7,17.0,Other,0.0,0.1,2.0,0
+2138,Mt Roberts Tram Combo Obs,X,SN,-4.2,2.9,-4.2,49.0,6.0,Other,4.7,27.8,1.0,0
+2139,Thane Road Combo Obs,X,SN,0.1,7.2,0.2,1.0,1.0,SE,2.8,14.2,1.0,0
+2140,Other,X,SN,-4.4,1.0,-4.0,55.0,20.0,N,0.0,10.4,1.0,0
+2141,Snettisham Combo Obs,X,RS,-0.2,3.3,1.0,34.3,5.0,Other,4.5,18.0,2.0,0
+2142,Mt Roberts Tram Combo Obs,BKN,NO,-3.7,-1.9,-3.7,53.0,2.5,Other,4.8,13.9,1.0,0
+2143,Thane Road Combo Obs,BKN,NO,0.0,1.8,0.9,1.0,1.0,NNE,0.3,7.2,1.0,0
+2144,Other,OVC,NO,-3.8,-2.1,-2.8,66.0,8.0,N,0.0,0.0,1.0,0
+2145,Snettisham Combo Obs,OVC,NO,-0.6,0.6,0.1,65.3,23.3,Other,0.0,6.2,1.0,0
+2146,Thane Road Combo Obs,OVC,NO,-1.1,0.6,-0.8,1.0,1.0,Other,1.1,8.6,1.0,0
+2147,Other,X,SN,-5.1,-2.8,-3.7,63.0,1.0,Other,1.6,3.9,1.0,0
+2148,Snettisham Combo Obs,X,SN,-1.6,1.3,0.6,58.2,1.0,Other,2.7,15.0,1.0,0
+2149,Mt Roberts Tram Combo Obs,OVC,NO,-4.6,0.2,0.2,65.4,7.0,ESE,3.4,12.9,1.0,0
+2150,Thane Road Combo Obs,OVC,NO,-1.1,2.0,1.1,6.0,9.0,N,0.0,11.4,1.0,0
+2151,Snettisham Combo Obs,X,NO,-1.6,0.6,-1.4,69.5,11.0,Other,0.0,6.0,1.0,0
+2152,Mt Roberts Tram Combo Obs,BKN,NO,-1.9,0.2,-0.5,75.0,10.0,ESE,7.0,18.5,1.0,0
+2153,Thane Road Combo Obs,BKN,NO,0.1,3.9,3.6,4.0,2.0,ESE,2.8,7.5,1.0,0
+2154,Thane Road Combo Obs,OVC,RS,0.2,3.6,0.2,1.0,1.0,ESE,3.1,8.1,1.0,0
+2155,Snettisham Combo Obs,OVC,SN,-1.0,3.3,-1.0,73.4,13.0,ESE,4.0,16.5,2.0,0
+2156,Mt Roberts Tram Combo Obs,BKN,NO,-5.6,-3.1,-5.6,86.7,7.0,ESE,3.6,11.3,1.0,0
+2157,Snettisham Combo Obs,OVC,SN,-2.6,-0.8,-2.6,106.7,42.0,ESE,0.0,5.2,2.0,0
+2158,Mt Roberts Tram Combo Obs,FEW,NO,-10.4,-4.6,-10.4,90.0,6.0,NNE,0.2,8.7,1.0,0
+2159,Thane Road Combo Obs,FEW,NO,-7.1,-0.9,-6.9,8.0,3.0,N,0.8,5.8,1.0,0
+2160,Snettisham Combo Obs,SCT,NO,-7.2,-1.5,-6.8,96.7,2.0,Other,1.0,6.0,2.0,0
+2161,Thane Road Combo Obs,OVC,SN,-8.1,-4.2,-5.3,5.0,0.1,N,0.6,1.7,1.0,0
+2162,Snettisham Combo Obs,OVC,SN,-9.6,-5.7,-9.3,87.3,1.0,NNE,1.8,6.2,1.0,0
+2163,Mt Roberts Tram Combo Obs,X,SN,-8.0,-4.9,-4.9,87.4,12.7,ESE,4.6,10.3,1.0,0
+2164,Thane Road Combo Obs,OVC,SN,-5.3,-3.0,-3.1,17.0,10.0,SE,2.2,5.8,1.0,0
+2165,Snettisham Combo Obs,X,SN,-9.3,-6.5,-6.5,95.3,11.0,NNW,0.9,4.7,1.0,0
+2166,Mt Roberts Tram Combo Obs,X,SN,-5.0,-3.7,-4.3,99.0,11.0,ESE,10.7,19.0,1.0,0
+2167,Thane Road Combo Obs,X,SN,-3.1,0.0,0.0,22.0,10.0,SE,6.9,12.8,1.0,0
+2168,Snettisham Combo Obs,X,SN,-6.6,-2.3,-2.7,102.3,10.0,ESE,2.4,6.2,1.0,0
+2169,Thane Road Combo Obs,X,RS,0.9,2.1,1.9,16.0,2.0,ESE,1.4,10.5,2.0,0
+2170,Snettisham Combo Obs,X,SN,0.2,1.7,0.3,102.0,10.0,NNW,0.0,11.6,2.0,0
+2171,Mt Roberts Tram Combo Obs,X,SN,-2.8,-1.4,-1.5,141.0,12.0,ESE,16.2,27.3,1.0,0
+2172,Thane Road Combo Obs,X,SN,1.0,2.3,1.4,14.0,1.0,ESE,5.3,18.3,1.0,0
+2173,Snettisham Combo Obs,X,SN,-0.1,1.4,-0.1,106.3,10.0,Other,2.0,12.2,1.0,0
+2174,Mt Roberts Tram Combo Obs,X,NO,-5.6,-1.5,-5.4,141.0,5.4,ESE,0.0,22.1,1.0,0
+2175,Thane Road Combo Obs,OVC,NO,-2.1,2.1,-2.0,12.0,2.0,N,0.0,10.3,1.0,0
+2176,Snettisham Combo Obs,OVC,NO,-2.6,1.8,-2.6,110.6,11.0,Other,0.0,13.6,1.0,0
+2177,Mt Roberts Tram Combo Obs,OVC,NO,-7.8,-5.3,-7.7,149.1,0.0,NNE,14.4,23.2,2.0,0
+2178,Thane Road Combo Obs,OVC,NO,-3.3,-0.9,-1.9,13.0,0.0,NNW,4.2,12.5,2.0,0
+2179,Other,FEW,NO,-7.8,-5.2,-7.5,116.0,0.0,N,4.3,7.4,1.0,0
+2180,Snettisham Combo Obs,SCT,NO,-6.3,-2.6,-4.2,107.7,0.0,NNE,0.0,0.0,1.0,0
+2181,Mt Roberts Tram Combo Obs,FEW,NO,-9.4,-7.7,-9.4,153.2,0.0,NNE,10.0,22.1,2.0,0
+2182,Thane Road Combo Obs,FEW,NO,-4.9,-1.9,-4.1,14.0,0.0,Other,3.9,15.5,2.0,0
+2183,Snettisham Combo Obs,CLR,NO,-8.4,-3.5,-8.4,104.8,0.0,NNE,0.0,0.8,1.0,0
+2184,Mt Roberts Tram Combo Obs,SCT,NO,-11.6,-9.0,-10.5,148.4,0.0,N,0.6,16.5,1.0,0
+2185,Thane Road Combo Obs,SCT,NO,-10.1,-3.8,-9.2,14.0,0.0,N,0.3,13.6,1.0,0
+2186,Snettisham Combo Obs,FEW,NO,-13.7,-8.0,-12.9,102.5,0.0,Other,0.0,0.0,1.0,0
+2187,Mt Roberts Tram Combo Obs,CLR,NO,-10.8,-9.1,-10.8,144.2,0.0,Other,0.4,4.6,1.0,0
+2188,Thane Road Combo Obs,CLR,NO,-9.8,-6.2,-9.7,14.0,0.0,NNE,0.6,2.8,1.0,0
+2189,Other,CLR,NO,-13.2,-10.5,-11.2,80.0,0.0,Other,0.7,4.9,1.0,0
+2190,Snettisham Combo Obs,CLR,NO,-13.5,-10.0,-13.5,101.2,0.0,NNE,0.0,0.0,1.0,0
+2191,Mt Roberts Tram Combo Obs,FEW,NO,-11.5,-9.5,-11.2,140.5,0.0,Other,9.7,16.5,1.0,0
+2192,Thane Road Combo Obs,FEW,NO,-10.0,-4.3,-7.5,14.0,0.0,N,0.0,12.8,1.0,0
+2193,Other,CLR,NO,-13.0,-10.7,-12.4,84.0,0.0,N,4.0,7.7,1.0,0
+2194,Snettisham Combo Obs,CLR,NO,-13.5,-10.1,-13.1,100.0,0.0,NNE,0.0,0.0,1.0,0
+2195,Mt Roberts Tram Combo Obs,X,SN,-11.8,-6.6,-6.6,135.8,1.0,ESE,5.2,14.4,1.0,0
+2196,Thane Road Combo Obs,X,SN,-9.7,-4.0,-4.8,14.0,1.0,Other,1.7,7.2,1.0,0
+2197,Other,X,SN,-14.0,-8.3,-8.3,82.0,1.0,Other,0.6,7.4,1.0,0
+2198,Snettisham Combo Obs,X,SN,-14.3,-10.7,-10.7,99.2,1.0,ESE,0.0,0.0,1.0,0
+2199,Mt Roberts Tram Combo Obs,CLR,NO,-6.6,-3.2,-4.2,142.3,7.2,Other,3.9,9.8,1.0,0
+2200,Thane Road Combo Obs,CLR,NO,-6.5,-3.8,-6.2,14.0,5.0,Other,0.8,5.3,1.0,0
+2201,Other,CLR,NO,-8.3,-3.6,-5.9,85.0,9.0,NNW,1.9,6.3,1.0,0
+2202,Snettisham Combo Obs,CLR,NO,-10.8,-7.6,-8.2,106.3,9.0,Other,0.0,0.0,1.0,0
