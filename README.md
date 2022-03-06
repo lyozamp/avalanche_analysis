@@ -112,7 +112,3 @@ Our Tableau Story Board of all our visualizations can be seen at this [link](htt
 
 ## Summary:
 None of this is revolutionary but good to have this back up
-
-# Google Slides Presentation
-
-This google slide presentation can be seen at this [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf)
