@@ -3,21 +3,6 @@ Final project analysis of Avalanche data
 
 # First Segment: Sketch It Out
 
-## Communication Protocol:
-In order to complete this analysis, we as a team have a communication plan the following: 
-
-1. Attending in class session times via zoom, including Saturday office hours if needed.
-2. Utilizing slack to share updates or ask quick questions.
-3. If more time together to problem solve is needed, planned zoom meetings. 
-
-Square: Lindsey is the team member in the square role responsible for the repository.
-
-Triangle: Maya is the member in the triangle role who created a mockup of a machine learning model. Diagram that explains how it will work concurrently with the rest of the project steps.
-
-Circle: Rylee and Meredith are the members in the circle role who created a mockup of a database with a set of the avalanche data. This will ensure the database will work seamlessly with the rest of the project.
-
-X: All team members have decided what technologies will be used for each step of the project 
-
 ## Overview of the Analysis:
 
 The framework for this project was to analyze avalanche data from Snowbound Solutions LLC based out of Boise, ID and present our findings to the owner, Scott. This data was presented to us from Scott who is a family friend of Rylee's. As seen in our converted and cleaned daily_obs.csv file, observations range from January 2019 to December of 2021 and include different observation locations in Juneau, Alaska with various weather parameters noted as well as a hazard score. 
@@ -78,12 +63,45 @@ Analysing weather conditions are a critical piece of information for building av
 
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Plot.png)
 
+Results of feature imporance logistical regression, how different feautures weigh different. Took features that weight more heavily to continue out visualization. 
+
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Summary.png)
+
+Air Temps by Quarter Graph
+
+Temperature was lower in Q1 winter and there was significant amount of avalanches occur
+
+Counts of Different Precipitation
+
+179 avalanches occurred with no precipation
+
+49 with snow 
+
+Counts of different Sky Cover 
+
+Majority of avalanches occurred on a clear day, second overcast, third foggy 
+
+New Snow Height by Quarters 
+
+Q1 is winter most snow height and most avalanches to occur
+
+Avalanche Occurance by Quarter 
+
+Winter time Q1 the most avalanches occurred and air temps were significally lower all year round
+
+Hazard Count 
+
+Weather predictions are really hard to predict because as we can see avalanches occurred when Mike predicted a hazard 2. Only 19 avalanches occurred when predicted at a hazard 4 with 92 not occurring
+
+## Tableau Story Board
+
+Our Tableau Story Board of all our visualizations can be seen at this [link](https://public.tableau.com/app/profile/rylee.jensen/viz/Avalanche_Analysis/AvalancheAnalysis?publish=yes)
 
 # Fourth Segment: Put It All Together
 
 ## Summary:
+None of this is revolutionary but good to have this back up
 
 # Google Slides Presentation
 
-This google slide presentation can be seen in its entirety at, [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf).
+This google slide presentation can be seen at this [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf).
