@@ -66,13 +66,13 @@ Analysing weather conditions are a critical piece of information for building av
 
 Results of our feature importance logistic regression on how the different feautures weigh differently. We took features that weight more heavily to continue our visualization. 
 
-![alt text]
+
 
 ### Air Temps by Quarter Graph
 
 Temperature was lower in Q1 winter and there was significant amount of avalanches occur
 
-![alt text]
+
 
 ### Counts of Different Precipitation
 
@@ -80,25 +80,25 @@ Temperature was lower in Q1 winter and there was significant amount of avalanche
 
 49 with snow 
 
-![alt text]
+
 
 ### Counts of different Sky Cover 
 
 Majority of avalanches occurred on a clear day, second overcast, third foggy 
 
-![alt text]
+
 
 ### New Snow Height by Quarters 
 
 Q1 is winter most snow height and most avalanches to occur
 
-![alt text]
+
 
 ### Avalanche Occurance by Quarter 
 
 Winter time Q1 the most avalanches occurred and air temps were significally lower all year round
 
-![alt text]
+
 
 ### Hazard Count 
 
@@ -112,3 +112,7 @@ Our Tableau Story Board of all our visualizations can be seen at this [link](htt
 
 ## Summary:
 None of this is revolutionary but good to have this back up
+
+# Google Slides Presentation
+
+This google slide presentation can be seen at this [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf).
