@@ -115,4 +115,4 @@ None of this is revolutionary but good to have this back up
 
 # Google Slides Presentation
 
-This google slide presentation can be seen at this [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf).
+This google slide presentation can be seen at this [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf)
