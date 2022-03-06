@@ -55,64 +55,41 @@ We tried multiple directions but a feature importance supervised model helped an
 
 ## Purpose:
 
-Analysing weather conditions are a critical piece of information for building avalanche forecasts or assessing avalanche hazard for a specific geographic areas. Historically avalanches pose a threat to anyone on snowy mountainsides and can be deadly because of their intensity and seeming unpredictability. By taking the data over the course of several years and multiple areas in Alaska and examine weather conditions during past avalanches we can predict what weather features increase the hazard of an avalanche occurring again based on those factors. 
+Analyzing weather conditions are a critical piece of information for building avalanche forecasts or assessing avalanche hazard for a specific geographic areas. Historically avalanches pose a threat to anyone on snowy mountainsides and can be deadly because of their intensity and seeming unpredictability. By taking the data over the course of several years and multiple areas in Alaska and examine weather conditions during past avalanches we can predict what weather features increase the hazard of an avalanche occurring again based on those factors. 
 
 # Third Segment: Plug It In
 
 ## Results: 
 
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Plot.png)
-<<<<<<< HEAD
-![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Summary.png)
 
-Results of our feature importance logistic regression on how the different feautures weigh differently. We took features that weight more heavily to continue our visualization. 
-
-
-
-### Air Temps by Quarter Graph
-
-Temperature was lower in Q1 winter and there was significant amount of avalanches occur
-
-
-
-### Counts of Different Precipitation
-
-179 avalanches occurred with no precipation
-
-49 with snow 
-
-
-=======
-
-Results of feature imporance logistical regression, how different feautures weigh different. Took features that weight more heavily to continue out visualization. 
+Results of feature importance logistical regression, how different features weigh different. Took features that weight more heavily to continue out visualization. 
 
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Summary.png)
 
 Air Temps by Quarter Graph
 
-Temperature was lower in Q1 winter and there was significant amount of avalanches occur
+The temperature average was lower in Q1 which is the winter months of January-March and there was significant amount of avalanches that occurred in Q1 when comparing to the avalanche occurrence by quarter graph.
 
 Counts of Different Precipitation
 
-179 avalanches occurred with no precipation
-
-49 with snow 
+When reviewing the counts of different precipitation graph, 179 avalanches occurred when there was no precipitation but 49 avalanches happened when there was snow.
 
 Counts of different Sky Cover 
 
-Majority of avalanches occurred on a clear day, second overcast, third foggy 
+The majority of avalanches occurred on a clear day (no clouds), second overcast (completely covered), third obscured (foggy).
 
 New Snow Height by Quarters 
 
-Q1 is winter most snow height and most avalanches to occur
+During Q1 which is again winter months from January-March, the most snow height accumulated and resulted in the most avalanches to occur. 
 
-Avalanche Occurance by Quarter 
+Avalanche Occurrence by Quarter 
 
-Winter time Q1 the most avalanches occurred and air temps were significally lower all year round
+Looking at Q1 over the three years, the most avalanches occurred and in relation the air temperatures were significantly lower all year round in Q1 as well as the most new snow height accumulated. 
 
 Hazard Count 
 
-Weather predictions are really hard to predict because as we can see avalanches occurred when Mike predicted a hazard 2. Only 19 avalanches occurred when predicted at a hazard 4 with 92 not occurring
+Weather predictions are really hard to predict because as we can see the most avalanches (148) occurred when Mike predicted only a hazard 2. When predicting a hazard 4, only 19 avalanches occurred with 92 that did not happen. 
 
 ## Tableau Story Board
 
@@ -121,40 +98,8 @@ Our Tableau Story Board of all our visualizations can be seen at this [link](htt
 # Fourth Segment: Put It All Together
 
 ## Summary:
-None of this is revolutionary but good to have this back up
->>>>>>> main
+In summary, we know that none of this is revolutionary but it is good to have this analysis as a backup to answer the question we were originally asking. 
 
-### Counts of different Sky Cover 
+# Google Slides Presentation
 
-<<<<<<< HEAD
-Majority of avalanches occurred on a clear day, second overcast, third foggy 
-
-
-
-### New Snow Height by Quarters 
-
-Q1 is winter most snow height and most avalanches to occur
-
-
-
-### Avalanche Occurance by Quarter 
-
-Winter time Q1 the most avalanches occurred and air temps were significally lower all year round
-
-
-
-### Hazard Count 
-
-Weather predictions are really hard to predict because as we can see avalanches occurred when Mike predicted a hazard 2. Only 19 avalanches occurred when predicted at a hazard 4 with 92 not occurring
-
-## Tableau Story Board
-
-Our Tableau Story Board of all our visualizations can be seen at this [link](https://public.tableau.com/app/profile/rylee.jensen/viz/Avalanche_Analysis/AvalancheAnalysis?publish=yes)
-
-# Fourth Segment: Put It All Together
-
-## Summary:
-None of this is revolutionary but good to have this back up
-=======
-This google slide presentation can be seen at this [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf).
->>>>>>> main
+This google slide presentation can be seen at this [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf)
