@@ -62,6 +62,27 @@ Analysing weather conditions are a critical piece of information for building av
 ## Results: 
 
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Plot.png)
+<<<<<<< HEAD
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Summary.png)
+
+Results of our feature importance logistic regression on how the different feautures weigh differently. We took features that weight more heavily to continue our visualization. 
+
+
+
+### Air Temps by Quarter Graph
+
+Temperature was lower in Q1 winter and there was significant amount of avalanches occur
+
+
+
+### Counts of Different Precipitation
+
+179 avalanches occurred with no precipation
+
+49 with snow 
+
+
+=======
 
 Results of feature imporance logistical regression, how different feautures weigh different. Took features that weight more heavily to continue out visualization. 
 
@@ -101,7 +122,39 @@ Our Tableau Story Board of all our visualizations can be seen at this [link](htt
 
 ## Summary:
 None of this is revolutionary but good to have this back up
+>>>>>>> main
 
-# Google Slides Presentation
+### Counts of different Sky Cover 
 
+<<<<<<< HEAD
+Majority of avalanches occurred on a clear day, second overcast, third foggy 
+
+
+
+### New Snow Height by Quarters 
+
+Q1 is winter most snow height and most avalanches to occur
+
+
+
+### Avalanche Occurance by Quarter 
+
+Winter time Q1 the most avalanches occurred and air temps were significally lower all year round
+
+
+
+### Hazard Count 
+
+Weather predictions are really hard to predict because as we can see avalanches occurred when Mike predicted a hazard 2. Only 19 avalanches occurred when predicted at a hazard 4 with 92 not occurring
+
+## Tableau Story Board
+
+Our Tableau Story Board of all our visualizations can be seen at this [link](https://public.tableau.com/app/profile/rylee.jensen/viz/Avalanche_Analysis/AvalancheAnalysis?publish=yes)
+
+# Fourth Segment: Put It All Together
+
+## Summary:
+None of this is revolutionary but good to have this back up
+=======
 This google slide presentation can be seen at this [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf).
+>>>>>>> main
