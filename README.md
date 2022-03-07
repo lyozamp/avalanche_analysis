@@ -64,7 +64,7 @@ Analyzing weather conditions are a critical piece of information for building av
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression.png)
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Summary.png)
 
-Results of feature importance logistical regression, how the contrasting features of avalanches weigh differently. Took features that weigh more heavily to continue our visualization. 
+Results of feature importance logistic regression, how the contrasting features of avalanches weigh differently. Took features that weigh more heavily to continue our visualization. 
 
 ### Air Temps by Quarter Graph
 
@@ -104,7 +104,7 @@ Weather predictions are really hard to predict because as we can see the most av
 
 ## Tableau Story Board
 
-Our Tableau Story Board of all our visualizations can be seen at this [link](https://public.tableau.com/app/profile/rylee.jensen/viz/Avalanche_Analysis/AvalancheAnalysis?publish=yes)
+Our Tableau Story Board of all our visualizations can be seen at this [link](https://public.tableau.com/app/profile/rylee.jensen/viz/Avalanche_Analysis/AvalancheAnalysis?publish=yes).
 
 # Fourth Segment: Put It All Together
 
@@ -113,4 +113,4 @@ In summary, we know that none of this is revolutionary but it is good to have th
 
 # Google Slides Presentation
 
-This google slide presentation can be seen at this [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf)
+This google slide presentation can be seen at this [link to slides](https://github.com/lyozamp/avalanche_analysis/blob/main/Avalanche_Presentation.pdf).
