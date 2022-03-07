@@ -68,7 +68,7 @@ Results of feature importance logistical regression, how the contrasting feature
 
 ### Air Temps by Quarter Graph
 
-![alt text]
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/Airtemp_byQuarter.png)
 
 The temperature average was lower in Q1 which is the winter months of January-March and there was significant amount of avalanches that occurred in Q1 when comparing to the avalanche occurrence by quarter graph.
 
