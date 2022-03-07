@@ -61,33 +61,44 @@ Analyzing weather conditions are a critical piece of information for building av
 
 ## Results: 
 
-![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Plot.png)
-
-Results of feature importance logistical regression, how different features weigh different. Took features that weight more heavily to continue out visualization. 
-
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression.png)
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Summary.png)
 
-Air Temps by Quarter Graph
+Results of feature importance logistical regression, how the contrasting features of avalanches weigh differently. Took features that weigh more heavily to continue our visualization. 
+
+### Air Temps by Quarter Graph
+
+![alt text]
 
 The temperature average was lower in Q1 which is the winter months of January-March and there was significant amount of avalanches that occurred in Q1 when comparing to the avalanche occurrence by quarter graph.
 
-Counts of Different Precipitation
+### Counts of Different Precipitation Types Graph
+
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/Counts_of_Precip_Type.png)
 
 When reviewing the counts of different precipitation graph, 179 avalanches occurred when there was no precipitation but 49 avalanches happened when there was snow.
 
-Counts of different Sky Cover 
+### Counts of Different Sky Cover Types Graph
+
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/Sky_cover.png)
 
 The majority of avalanches occurred on a clear day (no clouds), second overcast (completely covered), third obscured (foggy).
 
-New Snow Height by Quarters 
+### New Snow Height by Quarters Graph
+
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/NewSnowHeight_byQuarter.png)
 
 During Q1 which is again winter months from January-March, the most snow height accumulated and resulted in the most avalanches to occur. 
 
-Avalanche Occurrence by Quarter 
+### Avalanche Occurrence by Quarter Graph
+
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/Avalanche_Occurance_Quarterly.png)
 
 Looking at Q1 over the three years, the most avalanches occurred and in relation the air temperatures were significantly lower all year round in Q1 as well as the most new snow height accumulated. 
 
-Hazard Count 
+### Hazard Count Graph
+
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/Hazard_count.png)
 
 Weather predictions are really hard to predict because as we can see the most avalanches (148) occurred when Mike predicted only a hazard 2. When predicting a hazard 4, only 19 avalanches occurred with 92 that did not happen. 
 
