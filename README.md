@@ -43,7 +43,7 @@ During the preliminary data preprocessing, we converted the avalanche_occurred c
 
 2. Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:
 
-We decided on feature importance logistic regression in our supervised model because we are finding feature importance related to avalanche and hazard level so we kept all of the features since they are all important. 
+We decided on a feature importance logistic regression model. Because we are finding feature importance related to avalanche occurrence, we kept all of the features since they are all important for the model.
 
 3. Description of how data was split into training and testing sets:
 
@@ -55,7 +55,7 @@ We tried multiple directions but a feature importance supervised model helped an
 
 ## Purpose:
 
-Analyzing weather conditions are a critical piece of information for building avalanche forecasts or assessing avalanche hazard for a specific geographic areas. Historically avalanches pose a threat to anyone on snowy mountainsides and can be deadly because of their intensity and seeming unpredictability. By taking the data over the course of several years and multiple areas in Alaska and examine weather conditions during past avalanches we can predict what weather features increase the hazard of an avalanche occurring again based on those factors. 
+Analyzing weather conditions are a critical piece of information for building avalanche forecasts or assessing avalanche hazard for specific geographic areas. Historically avalanches pose a threat to anyone on snowy mountainsides and can be deadly because of their intensity and seeming unpredictability. By taking the data over the course of several years and multiple areas in Alaska and examine weather conditions during past avalanches we can predict what weather features increase the hazard of an avalanche occurring again based on those factors. 
 
 # Third Segment: Plug It In
 
@@ -65,6 +65,12 @@ Analyzing weather conditions are a critical piece of information for building av
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Summary.png)
 
 Results of feature importance logistic regression, how the contrasting features of avalanches weigh differently. Took features that weigh more heavily to continue our visualization. 
+
+### Avalanche Occurrence by Quarter Graph
+
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/Avalanche_Occurance_Quarterly.png)
+
+Most avalanches occurred during Q1 of the three years recorded. This will be important to note when looking at the air temperature graph and snow height levels.
 
 ### Air Temps by Quarter Graph
 
@@ -89,12 +95,6 @@ The majority of avalanches occurred on a clear day (no clouds), second overcast 
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/NewSnowHeight_byQuarter.png)
 
 During Q1 which is again winter months from January-March, the most snow height accumulated and resulted in the most avalanches to occur. 
-
-### Avalanche Occurrence by Quarter Graph
-
-![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/Avalanche_Occurance_Quarterly.png)
-
-Looking at Q1 over the three years, the most avalanches occurred and in relation the air temperatures were significantly lower all year round in Q1 as well as the most new snow height accumulated. 
 
 ### Hazard Count Graph
 
