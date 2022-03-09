@@ -15,7 +15,7 @@ CREATE TABLE daily_obs (
 	 hazard DECIMAL			 
 );
 
-DROP TABLE daily_obs
+-- DROP TABLE daily_obs
 
 -- Create avalanche_obs table to store the avalanche_obs.csv
 CREATE TABLE avalanche_obs (
@@ -25,7 +25,7 @@ CREATE TABLE avalanche_obs (
 	"data.path_elevation" INT
 );
 	
-DROP TABLE avalanche_obs
+-- DROP TABLE avalanche_obs
 
 -- Create the avalanche_atlas table to store the avalanche_atlas.csv
 CREATE TABLE avalanche_atlas (
@@ -36,10 +36,10 @@ CREATE TABLE avalanche_atlas (
 	"data.location_long" DECIMAL
 );
 
-DROP TABLE avalanche_atlas
+-- DROP TABLE avalanche_atlas
 
--- join the avalanche_obs and daily_obs tables to convert to csv
--- for machine learning model
+-- join the avalanche_obs and daily_obs tables to avalanche_data table
+-- for use in our machine learning model
 SELECT 
  	daily_obs.obs_date_time,
     daily_obs.obs_location,
@@ -61,4 +61,4 @@ FULL OUTER JOIN avalanche_obs
 ON daily_obs.obs_date_time = avalanche_obs.obs_date_time
 WHERE daily_obs.obs_date_time >= '2019-01-01';
 
-DROP TABLE avalanche_data
+-- DROP TABLE avalanche_data
