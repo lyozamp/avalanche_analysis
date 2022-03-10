@@ -1,0 +1,4 @@
+Requirements:
+    Python 3.7.10
+    Tableau 2021.4.4(2021.22.0213.1102) 64-bit
+    PostgresSQL 5.7(4280.88)
