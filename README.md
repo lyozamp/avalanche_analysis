@@ -23,7 +23,7 @@ Joined the avalanche_obs and daily_obs files provided by Snowbound Solutions LLC
 
 Entity relationship diagram connecting the two files
 
-![alt text](https://github.com/lyozamp/avalanche_analysis/blob/ryleejensen/Avalanche_ERD.png)
+![alt text](https://github.com/lyozamp/avalanche_analysis/blob/ryleejensen/Images/Avalanche_ERD.png)
 
 Database: Postgres SQL
 
@@ -62,6 +62,7 @@ Analyzing weather conditions are a critical piece of information for building av
 ## Results: 
 
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression.png)
+
 ![alt text](https://github.com/lyozamp/avalanche_analysis/blob/main/images/FI_Logistic_Regression_Summary.png)
 
 Results of feature importance logistic regression, how the contrasting features of avalanches weigh differently. Took features that weigh more heavily to continue our visualization. 
